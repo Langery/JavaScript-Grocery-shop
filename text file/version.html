@@ -1,0 +1,34 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <input type="text" name="" value="" id="input_1">
+        <input type="text" name="" value="" id="input_2">
+        <input type="button" value="compare" id="btn" onclick="compare()">
+    </form>
+    <script type="text/javascript">
+	    function compare() {
+	        var inp1 = document.getElementById('input_1');
+	        var inp2 = document.getElementById('input_2');
+	        var btn = document.getElementById('btn');
+	        var obj1 = inp1.value;
+	        var obj2 = inp2.value;
+	        if (obj1 != 0 && obj2 != 0) {
+	            if (obj1 > obj2) {
+	                alert("第一个版本高于第二个版本");
+	            } else {
+	                alert("第一个版本低于第二个版本");
+	            }
+	        }
+	    }
+    </script>
+</body>
+
+</html>
