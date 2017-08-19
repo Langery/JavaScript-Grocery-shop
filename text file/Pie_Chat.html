@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <script src="https://www.amcharts.com/lib/3/amcharts.js"></script>
+    <script src="https://www.amcharts.com/lib/3/pie.js"></script>
+    <script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+    <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+    <script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+    <style>
+        #chartdiv {
+          width: 100%;
+          height: 500px;
+          display: none;
+        } 
+        #cho {
+            position: fixed;
+            bottom: 20px;
+            left: 50%;
+        }
+
+    </style>
+</head>
+<body>
+    
+    <div id="chartdiv"></div> 
+    <span id="cho">选择</span>  
+    <script type="text/javascript">
+    
+    window.onload = function  () {
+        var sp = document.getElementById('cho');
+        var cha = document.getElementById('chartdiv');
+        sp.onmouseover = function  () {
+            cha.style.display = "block";
+        };
+        sp.onmouseout = function  () {
+            cha.style.display = "none";
+        }
+    }
+
+
+
+        var chart;
+        var legend;
+        var selected;
+
+        var types = [{
+          type: "4600吨冲压线",
+          percent: 40,
+          color: "#ff9e01",
+          // subs: [{
+          //   type: "Oil",
+          //   percent: 15
+          // }, {
+          //   type: "Coal",
+          //   percent: 35
+          // }, {
+          //   type: "Nuclear",
+          //   percent: 20
+          // }]
+        }, {
+          type: "2300吨冲压线",
+          percent: 30,
+          color: "#b0de09",
+          // subs: [{
+          //   type: "Hydro",
+          //   percent: 15
+          // }, {
+          //   type: "Wind",
+          //   percent: 10
+          // }, {
+          //   type: "Other",
+          //   percent: 5
+          // }]
+      },{
+            type: "600吨冲压线",
+          percent: 30,
+          color: "#FF99FF",
+          // subs: [{
+          //   type: "Hydro",
+          //   percent: 15
+          // }, {
+          //   type: "Wind",
+          //   percent: 10
+          // }, {
+          //   type: "Other",
+          //   percent: 5
+          // }]
+        }];
+
+        // var types = [{
+        //   type: "Green Energy",
+        //   percent: 100,
+        //   color: "#b0de09",
+        //   subs: [{
+        //     type: "4600吨冲压线",
+        //     percent: 25
+        //   }, {
+        //     type: "2300吨冲压线",
+        //     percent: 45
+        //   }, {
+        //     type: "600吨冲压线",
+        //     percent: 30
+        //   }]
+        // }];
+
+        function generateChartData() {
+          var chartData = [];
+          for (var i = 0; i < types.length; i++) {
+            if (i == selected) {
+              for (var x = 0; x < types[i].subs.length; x++) {
+                chartData.push({
+                  type: types[i].subs[x].type,
+                  percent: types[i].subs[x].percent,
+                  color: types[i].color,
+                  pulled: true
+                });
+              }
+            } else {
+              chartData.push({
+                type: types[i].type,
+                percent: types[i].percent,
+                color: types[i].color,
+                id: i
+              });
+            }
+          }
+          return chartData;
+        }
+
+        AmCharts.makeChart("chartdiv", {
+          "type": "pie",
+        "theme": "light",
+
+          "dataProvider": generateChartData(),
+          "labelText": "[[title]]: [[value]]",
+          "balloonText": "[[title]]: [[value]]",
+          "titleField": "type",
+          "valueField": "percent",
+          "outlineColor": "#FFFFFF",
+          // "outlineAlpha": 0.8,
+          // "outlineThickness": 2,
+          "colorField": "color",
+          "pulledField": "pulled",
+          // "titles": [{
+          //   "text": "Click a slice to see the details"
+          // }],
+          "listeners": [{
+            "event": "clickSlice",
+            "method": function(event) {
+              var chart = event.chart;
+              if (event.dataItem.dataContext.id != undefined) {
+                selected = event.dataItem.dataContext.id;
+              } else {
+                selected = undefined;
+              }
+              chart.dataProvider = generateChartData();
+              chart.validateData();
+            }
+          }],
+          "export": {
+            "enabled": true
+          }
+        });
+    </script>
+</body>
+</html>
