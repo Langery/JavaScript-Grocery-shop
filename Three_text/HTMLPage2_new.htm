@@ -1,0 +1,327 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en">
+	<head>
+		<title>three.js canvas - camera - orthographic</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<style>
+			body {
+				font-family: Monospace;
+				background-color: #f0f0f0;
+				margin: 0px;
+				overflow: hidden;
+			}
+		</style>
+	</head>
+	<body>
+
+    <div id='div2' style="width:800px" ></div>
+		<script type="text/javascript" src="js/three.js"></script>
+
+		<script type="text/javascript" src="js/js/renderers/Projector.js"></script>
+		<script src="js/js/renderers/CanvasRenderer.js"></script>
+        <script type="text/javascript" src="js/ThreeBSP.js"></script>
+		<script src="js/js/libs/stats.min.js"></script>
+
+		<script>
+
+		    var container, stats;
+		    var camera, scene, renderer;
+
+		    init(window.innerWidth, window.innerHeight, 600);
+		    animate();
+
+		    function init(lenght, width, height) {
+		        container = document.getElementById('div2');
+
+		        camera = new THREE.OrthographicCamera(-lenght / 2, lenght / 2, width/2, -width/2, -500, 1000);
+		        camera.position.x = lenght/2;
+		        camera.position.y = height/2;
+		        camera.position.z = width;
+
+		        scene = new THREE.Scene();
+
+		        // var size = 500, step = 50;
+
+		        var xy = -400/2 
+                var zy=-200/2
+
+		        var x = 0 + xy, xlen = 200, xstep = 4;
+		        var y = 0, ylen = 200, ystep = 10;
+		        var z = 0 + zy, zlen = 0, zstep = 0;
+		        
+		        // 有网格框
+		        drawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep); // 网格 以及框架
+		        drawColumn(6, 6, 200, x, ylen / 2, z, 200 + xy, ylen / 2, z, 220); // 柱子
+		        //         长 宽 高度                 划定长度               间距 
+
+		        // 小型网格 start
+		        DrawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep); // 网格 以及框架
+                var x = 50 + xy, xlen = 100, xstep = 2;
+		        var y = 50, ylen = 100, ystep = 2;
+		        var z = 0 + zy, zlen = 0, zstep = 0;
+		        DrawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep); // 网格 以及框架
+		        
+		        var x = 50 + xy, xlen = 100, xstep = 4;
+		        var y = 110, ylen = 1, ystep = 2;
+		        var z = 0 + zy, zlen = 0, zstep = 0;
+
+		        var x = 110 + xy, xlen = 1, xstep = 4;
+		        var y = 50, ylen = 100, ystep = 2;
+		        var z = 0 + zy, zlen = 0, zstep = 0;
+		        
+
+		        DrawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep); // 网格 以及框架
+
+		        // 小型网格 end
+
+		       
+		        var directionalLight = new THREE.DirectionalLight(Math.random() * 0xffffff);
+		        directionalLight.position.x = Math.random() - 0.5;
+		        directionalLight.position.y = Math.random() - 0.5;
+		        directionalLight.position.z = Math.random() - 0.5;
+		        directionalLight.position.normalize();
+		        scene.add(directionalLight);
+
+		        renderer = new THREE.CanvasRenderer();
+		        renderer.setClearColor(0xf0f0f0);
+		        renderer.setPixelRatio(window.devicePixelRatio);
+		        //renderer.setSize(window.innerWidth / 2, window.innerHeight / 2);
+		        renderer.setSize(lenght, width);
+		        container.appendChild(renderer.domElement);
+
+		        stats = new Stats();
+		        container.appendChild(stats.dom);
+
+		        window.addEventListener('resize', onWindowResize, false);
+
+		    }
+
+		    function onWindowResize() {
+
+		        camera.left = window.innerWidth / 2;
+		        camera.right = window.innerWidth / 2;
+		        camera.top = window.innerHeight / 2;
+		        camera.bottom = window.innerHeight / 2;
+
+		        camera.updateProjectionMatrix();
+
+		        renderer.setSize(window.innerWidth, window.innerHeight);
+
+		    }
+
+		    function animate() {
+		        requestAnimationFrame(animate);
+		        stats.begin();
+		        render();
+		        stats.end();
+		    }
+
+		    function render() { //渲染物体
+
+		        var timer = Date.now() * 0.0001;
+
+		        camera.position.x = Math.cos(timer) * 200;
+		        camera.position.z = Math.sin(timer) * 200;
+		        camera.lookAt(scene.position);
+
+		        renderer.render(scene, camera);
+
+		    }
+
+            //如果是斜度，请转换z为斜度后的值
+		    function drawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep) {
+		        var geometry = new THREE.Geometry();
+		        var j = 0;
+		        var k = 0;
+		        var xz = 0;//z轴倾斜长度
+		        var xx = 0; //x轴倾斜长度
+		            for (var i = x; i < x + xlen; i += xstep) {
+		                xz = z + j * zstep
+		                geometry.vertices.push(new THREE.Vector3(i, y, xz));
+		                geometry.vertices.push(new THREE.Vector3(i, y + ylen, xz));
+		                j = j + 1;
+
+		            }
+		            for (var i = z; i < z + zlen; i += zstep) {
+		                xx = x + k * xstep
+		                geometry.vertices.push(new THREE.Vector3(xx, y, i));
+		                geometry.vertices.push(new THREE.Vector3(xx, y , i));
+		                k = k + 1;
+		            }
+		            for (var i = y; i < y + ylen; i += ystep) {
+		                if (xx == 0) {
+		                    geometry.vertices.push(new THREE.Vector3(x, i, z));
+		                    geometry.vertices.push(new THREE.Vector3(x + xlen, i, xz));
+		                }
+		                if (xz == 0) {
+		                    geometry.vertices.push(new THREE.Vector3(x, i, z));
+		                    geometry.vertices.push(new THREE.Vector3(xx, i, z+zlen));
+                        }
+
+		            }
+		        var material = new THREE.LineBasicMaterial({ color: 0x000000, opacity: 1.0 }); // 网格颜色 透明度
+
+		        var line = new THREE.LineSegments(geometry, material);
+
+		        // 墙面3  
+		        var cubeGeometry = new THREE.BoxGeometry(1, 200, 200); // 墙体厚度
+		        var cubeMaterial = new THREE.MeshLambertMaterial({ color: 0xffffff, overdraw: 0.5 });// new THREE.MeshBasicMaterial({ color: 0x000000, opacity: 1 });  
+		        // 合成立方体  
+		        //var cube = new THREE.Mesh( cubeGeometry, faceMaterial );  
+
+		        var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);            // 设置墙面位置  
+		        cube.position.x = 0;
+		        cube.position.y = 100;
+		        cube.position.z = 0;
+//		        cube.rotation.y += 0.5 * Math.PI;
+		        // 在场景中添加墙面  
+		        // scene.add(cube);  
+
+		        // 门  
+		        var door = new THREE.BoxGeometry(1, 50, 40); // 窗户大小  由中间按整个大型矩形框进行的比例缩放
+		        // 创建门材料  
+		        
+		        //var door_cube = new THREE.Mesh( door, faceMaterial);  
+		        var door_cube = new THREE.Mesh(door);
+		        // 设置门位置  
+		        // door_cube.position.x = x + xlen;
+		        // door_cube.position.y = y + ylen / 2;
+		        // door_cube.position.z = 0; // 窗户平面上的左右移动
+//		        door_cube.rotation.y += 0.5 * Math.PI;
+		        //scene.add(cube);  
+
+		        door_cube.position.x = x + xlen;
+		        door_cube.position.y = 90;
+		        door_cube.position.z = 0; // 窗户平面上的左右移动
+
+
+
+
+		        var sphere1BSP = new ThreeBSP(cube);
+		        var cube2BSP = new ThreeBSP(door_cube);
+
+		        resultBSP = sphere1BSP.subtract(cube2BSP);
+		        result = resultBSP.toMesh();
+		        result.material.shading = THREE.FlatShading;
+		        result.geometry.computeFaceNormals();
+		        result.geometry.computeVertexNormals();
+		        result.material.needsUpdate = true;
+		        result.geometry.buffersNeedUpdate = true;
+		        result.geometry.uvsNeedUpdate = true;
+		        scene.add(result);
+		        scene.add(line);
+		    }
+
+
+
+		    function DrawGrid(x, xlen, xstep, y, ylen, ystep, z, zlen, zstep) {
+
+		        var geometry = new THREE.Geometry();
+		        var j = 0;
+		        var k = 0;
+		        var xz = 0;//z轴倾斜长度
+		        var xx = 0; //x轴倾斜长度
+		            for (var i = x; i < x + xlen; i += xstep) {
+		                xz = z + j * zstep
+		                geometry.vertices.push(new THREE.Vector3(i, y, xz));
+		                geometry.vertices.push(new THREE.Vector3(i, y + ylen , xz));
+		                j = j + 1;
+
+		            }
+		            for (var i = z; i < z + zlen; i += zstep) {
+		                xx = x + k * xstep
+		                geometry.vertices.push(new THREE.Vector3(xx, y, i));
+		                geometry.vertices.push(new THREE.Vector3(xx, y , i));
+		                k = k + 1;
+		            }
+		            for (var i = y; i < y + ylen; i += ystep) {
+		                if (xx == 0) {
+		                    geometry.vertices.push(new THREE.Vector3(x, i, z));
+		                    geometry.vertices.push(new THREE.Vector3(x + xlen, i, xz));
+		                }
+		                if (xz == 0) {
+		                    geometry.vertices.push(new THREE.Vector3(x, i, z));
+		                    geometry.vertices.push(new THREE.Vector3(xx, i, z+zlen));
+                        }
+
+		            }
+		        var material = new THREE.LineBasicMaterial({ color: 0xffffff, opacity: 0.9 }); // 网格颜色 透明度
+
+		        var line = new THREE.LineSegments(geometry, material);
+
+		        // 墙面3  
+		        var cubeGeometry = new THREE.BoxGeometry(1, xlen, ylen); // 墙体厚度
+		        var cubeMaterial = new THREE.MeshLambertMaterial({ color: 0xffffff, overdraw: 0.5 });// new THREE.MeshBasicMaterial({ color: 0x000000, opacity: 1 });  
+		        // 合成立方体  
+		        //var cube = new THREE.Mesh( cubeGeometry, faceMaterial );  
+
+		        var cube = new THREE.Mesh(cubeGeometry, cubeMaterial);            // 设置墙面位置  
+		        cube.position.x = x+xlen;
+		        cube.position.y = y+ylen/2;
+		        cube.position.z = -zlen / 2;
+//		        cube.rotation.y += 0.5 * Math.PI;
+		        // 在场景中添加墙面  
+		        // scene.add(cube);  
+
+		        // 门  
+		        var door = new THREE.BoxGeometry(1, xlen / 1, ylen / 1); // 窗户大小  由中间按整个大型矩形框进行的比例缩放
+		        // 创建门材料 
+
+		        //var door_cube = new THREE.Mesh( door, faceMaterial);  
+		        var door_cube = new THREE.Mesh(door);
+		        // 设置门位置  
+		        door_cube.position.x = x + xlen;
+		        door_cube.position.y = y + ylen / 2;
+		        door_cube.position.z = 0; // 窗户平面上的左右移动
+//		        door_cube.rotation.y += 0.5 * Math.PI;
+		        //scene.add(cube);  
+
+
+		        var sphere1BSP = new ThreeBSP(cube);
+		        var cube2BSP = new ThreeBSP(door_cube);
+
+		        resultBSP = sphere1BSP.subtract(cube2BSP);
+		        result = resultBSP.toMesh();
+		        result.material.shading = THREE.FlatShading;
+		        result.geometry.computeFaceNormals();
+		        result.geometry.computeVertexNormals();
+		        result.material.needsUpdate = true;
+		        result.geometry.buffersNeedUpdate = true;
+		        result.geometry.uvsNeedUpdate = true;
+		        scene.add(result);
+		        scene.add(line);
+
+		    }
+
+
+
+
+
+		    function drawColumn(length, width, height, sx,sy,sz,ex,ey,ez,step) {
+		        //宽，高，深
+		        var geometry = new THREE.BoxGeometry(length, height, width);
+
+		        var material = new THREE.MeshLambertMaterial({ color: 0xffffff, overdraw: 0.5 });
+		        // debugger;
+		        var count = Math.sqrt((Math.pow(ex - sx, 2) + Math.pow(ez - ex, 2))) / step;
+		        var xstep = (ex - sx) / count;
+		        var zstep = (ez - sz) / count;
+		        var j = 0;
+		        var cube;
+		        var z;
+		        for (var i = sx; i < ex; i += xstep) {
+		            z = sz + zstep * j;
+                    cube = new THREE.Mesh(geometry, material);
+                    cube.position.set(i, sy, z);
+                    scene.add(cube)
+                    j++;
+                }
+		    }
+
+		</script>
+
+	</body>
+</html>
+
