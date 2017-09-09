@@ -29,8 +29,8 @@
           "precision": 0,
           "valueAxes": [ {  // 左侧纵轴
 		    "stackType": "regular",
-		    "axisAlpha": 0.8, // 垂直直线的深浅度 范围为1~0
-		    "gridAlpha": 0.2, // 水平直线的深浅度 范围为1~0
+		    "axisAlpha": 0.8,
+		    "gridAlpha": 0.2,
 		    "id": "v1",
 		    "title": "产量",
 		    "position": "left",
@@ -75,7 +75,7 @@
 
 		    "title": "甲班实际产量",
 		    "type": "column",
-		    "columnWidth": 0.5,  // 以垂直线为中心向两侧扩大宽度
+		    "columnWidth": 0.5,
 		    "clustered": true,
 		    // "color": "#000000",
 		    "valueField": "europe"
@@ -125,6 +125,21 @@
 		    "position": "left",
 
 		  },
+		  "chartScrollbar": { // 放大内容详情 当数据过多时使用
+				"graph": "g1",
+				"oppositeAxis": false,
+				"offset": 30, // 上边距
+				"scrollbarHeight": 50,
+				"backgroundAlpha": 0,
+				"selectedBackgroundAlpha": 0.1,
+				"selectedBackgroundColor": "#333333", // #888888
+				"graphFillAlpha": 0,
+				"graphLineAlpha": 0.5,
+				"selectedGraphFillAlpha": 0,
+				"selectedGraphLineAlpha": 1,
+				"autoGridCount": true,
+				"color": "#ff66cc" // 字体颜色  #AAAAAA
+			},
 		  "export": {
 		    "enabled": true
 		  }
