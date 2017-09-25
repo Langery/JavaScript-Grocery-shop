@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>冒泡排序</title>
+</head>
+<body>
+	<script>
+		var apple = [10, 4, 5, 2, 8, 3, 9, 6]
+		function sort (a) {
+			for (var i = 0;i<a.length-1;i++) {
+				for (var j = 0;j<a.length-1-i;j++) {
+					if (a[j]>a[j+1]) {
+						var one = a[j];
+						a[j] = a[j+1];
+						a[j+1] = one;
+						/* 
+							var a = b;
+							b = c;
+							c = a
+						*/
+					}
+				}
+			}
+			return a;
+		}
+		sort(apple);
+		console.log(apple);
+		document.write(apple); // 页面写出冒泡后的数组
+	</script>
+</body>
+</html>
