@@ -1,3 +1,3 @@
 # JavaScript
-##The note about JavaScript
+## The note about JavaScript
 ##
