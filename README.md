@@ -6,3 +6,5 @@ About:
 * Three.js
 * Bootstrap
 * Native JavaScript
+* amcharts.js
+
