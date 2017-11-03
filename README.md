@@ -7,4 +7,5 @@ About:
 * Bootstrap
 * Native JavaScript
 * amcharts.js
+* Vue.js
 
