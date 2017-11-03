@@ -1,9 +1,8 @@
 ##  Vue.js
 This file is about vue.js <br />
 Some text files.
-The tree
 
-  `Root Instance
+`Root Instance <br />
   |- TodoList
       |- DeleteTodoButton`
 
