@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Class&Style</title>
+</head>
+<body>
+	<!-- 绑定HTML Class -->
+	<div v-bind:class="{ active: isActive }"></div>
+	<div class="static" v-bind:class="{ active: isActive, 'text-danger': hasError }">
+		
+	</div>
+	<div v-bind:class="classObject"></div>
+
+	<!-- 数组语法 -->
+	<div v-bind:class="[activeClass, erroeClass]"></div>
+	<!-- <div class="active text-danger"></div> -->
+
+	
+
+	<script src="https://unpkg.com/vue"></script>
+	<script>
+		// data: {
+		// 	isActive: true,
+		// 	hasError: false,
+		// 	classObject: {
+		// 		active: true,
+		// 		'text-danger': false
+		// 	}
+		// }
+		var vm = new Vue({
+			data: {
+			  	isActive: true,
+			  	error: null
+			},
+			computed: {
+			  	classObject: function () {
+			    	return {
+				      	active: this.isActive && !this.error,
+				      	'text-danger': this.error && this.error.type === 'fatal'
+			    	}
+			  	}
+			}
+		})
+		
+
+		var vn = new Vue({
+			data: {
+				activeClass: 'active',
+				erroeClass: 'text-danger'
+			}
+		})
+
+
+	</script>
+</body>
+</html>
