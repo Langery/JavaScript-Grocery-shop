@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>组件——Prop</title>
+</head>
+<body>
+	<!-- 使用组件 -->
+	<!-- 全局注册 -->
+	<div id="example-1">
+		<my-component></my-component>
+	</div>
+	<br>
+	<!-- 局部注册 -->
+	<div id="example-2">
+		<parent></parent>
+	</div>
+	<br>
+
+	<div id="example-3">
+		<simple-counter></simple-counter>
+		<simple-counter></simple-counter>
+		<simple-counter></simple-counter>
+	</div>
+	<br>
+	
+	<!-- 组件组合 -->
+	<!-- prop向下传递,事件向上传递. -->
+	
+	<!-- Prop -->
+	<!-- 父组件的数据需要通过prop才能下发到子组件中 -->
+	<div id="demo">
+		<child v-for="iteml in friend":message="iteml" :time="Company"></child>
+	</div>
+	<br>
+
+	<!-- HTML特性是不区分大小写.当使用的不是字符串模板时,camelCase(驼峰式命名)的prop需要转换为相对应的kebab-case(短横线分割式命名).如果使用字符串模板，则没有这些限制 -->
+	
+	<!-- 动态Prop -->
+	<div id="example-4">
+		<input v-model="parentMsg">
+		<br>
+		<child1 v-bind:my-message="parentMsg"></child1>
+		<br>
+		<!-- <todo-item :somemsg="msg"></todo-item>
+		<todo-item v-for="todo in todos" :sometodo="todo"></todo-item> -->
+		<todo-item1 v-bind="todo"></todo-item1>
+		<!-- v-bind="todo" => v-bind:text="todo.text" v-bind:is-complete="todo.isComplete" -->
+	</div>
+	<br>
+
+	<!-- 字面量语法vs动态语法 -->
+	<!-- prop是字面量,并非数值,如果想传递一个真正的JavaScript数值需要使用 v-bind 从而让它的值被当做JavaScript表达式计算 -->
+
+	<!-- 单向数据流 -->
+	<!-- Prop是单向绑定的:当父组件的属性变化时,将传导给子组件,但是反过来不会.目的是为了防止子组件无意间修改了父组件的状态,来避免应用的数据流变得难以理解 -->
+	<!-- 每次父组件更新时,子组件的所有prop都会更新为最新值,这以为着你不应该在子组件内部改变prop,如果你这么做Vue会在控制台给出警告 -->
+	<!-- 注意在JavaSvript中对象和数组是引用类型,指向同一个内存空间,如果prop是一个对象或数组,在子组件内部改变它会影响父组件的状态 -->
+
+	<!-- Prop验证 -->
+
+	<!-- 自定义事件 -->
+	<!-- 使用 v-on 绑定自定义事件 -->
+	<!-- 
+		$on(eventName) 监听事件
+		$emit(eventName) 触发事件
+	 -->
+	 <!-- 父组件可以在使用子组件的地方直接用 v-on 来监听子组件触发的事件 -->
+	 <div id="counter-event-example">
+	 	<p>{{ total }}</p>
+	 	<button-counter v-on:increment="incementTotal"></button-counter>
+	 	<button-counter v-on:increment="incementTotal"></button-counter>
+	 </div>
+	 <br>
+
+	<script src="https://unpkg.com/vue"></script>
+	<script>
+		// 注册全局组件 Vue.component(tagName, options) 
+		Vue.component('my-component', {
+			template: '<div>A custom component!</div>'
+		})
+		var example1 = new Vue({
+			el: '#example-1'
+		})
+
+		var Child = {
+			template: '<div>This is a child</div>'
+			// 字符串模板
+		}
+		var example2 = new Vue({
+			el: '#example-2',
+			components: {
+				'parent': Child
+			}
+		})
+
+		// data必须是函数 => function
+		var data = { counter: 0 }
+		Vue.component('simple-counter', {
+			template: '<button v-on:click="counter += 1">{{ counter }}</button>',
+			// 技术上 data 的确是个函数,因此 Vue 不会警告
+			// 但是我们却给每个组件实例返回了同一个对象的引用
+			data: function () {
+				// return data
+				return {
+					counter: 0
+				}
+			}
+		}) 
+		var example3 = new Vue({
+			el: '#example-3'
+		})
+
+		Vue.component('child', {
+			// 声明 props
+			props: ['message','time'],
+			// 就像 data 一样,prop 也可以再模板中使用
+			// 同样也可以在 vm 实例中通过 this.message 来使用
+			template: `
+			<div>
+				<h3>{{ title }}</h3>
+				<p>{{ message }}</p>
+				<i>{{ time }}</i>
+			</div>
+			`,
+			data(){
+				return { title: 'Jay Chou' }
+			}
+		})
+		var demo = new Vue({
+			el: '#demo',
+			data: {
+				friend: ['Vincent Fang'],
+				Company: 'JVR'
+			}
+		})
+
+		Vue.component("child1",{
+			props: ['myMessage'],
+			template: '<div>myMessage: {{ myMessage }}</div>'
+			/* template 实现双向绑定,并实时反馈输入内容 */
+		})
+		// Vue.component('todo-item',{
+		// 	props: ['somemsg','sometodo'],
+		// 	template: '<div>{{ somemsg || sometodo.text }}</div>'
+		// })
+		Vue.component('todo-item1',{
+			props: ['text','isComplete'],
+			template: '<div>{{ text || isComplete }}</div>'
+		})
+		var example4 = new Vue({
+			el: '#example-4',
+			data: {
+				parentMsg: "Hello World!",
+				// todos: [{
+				// 	text: '内容一'
+				// },{
+				// 	text: '内容二'
+				// }],
+				// msg: '内容列表'
+				todo: {
+					text: 'Learn Vue',
+					isComplete: false
+				}
+			}
+		})
+
+		/*单向数据流两种修改数据情况*/
+		// 1. Prop作为初始值传入后,子组件想把它当做局部数据来用
+		// 定义一个局部变量,并用 prop 的值初始化它
+		/*
+			props: ['initialCounter'],
+			data: function () {
+				return { counter: this.initialCounter }
+			}
+		*/
+		// 2. Prop作为原始数据传入,由子组件处理成其他数据输出
+		// 定义一个计算属性，处理prop的值并返回
+		/*
+			props: ['size'],
+			computed: {
+				normalizedSize: function () {
+					return this.size.trim().toLowerCase()
+				}
+			}
+		*/
+
+		Vue.component('button-counter',{
+			template: '<button v-on:click="incrementCounter">{{ counter }}</button>',
+			data: function () {
+				return {
+					counter: 0
+				}
+			},
+			methods: {
+				incrementCounter: function () {
+					this.counter += 1
+					this.$emit('increment')
+				}
+			},
+		})
+		var eventexample = new Vue({
+			el: '#counter-event-example',
+			data: {
+				total: 0
+			},
+			methods: {
+				incementTotal: function () {
+					this.total += 1
+				}
+			}
+		})
+	</script>
+</body>
+</html>
