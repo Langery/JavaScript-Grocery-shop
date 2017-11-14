@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>过渡&动画</title>
+	<!-- 第三方CSS动画库 -->
+	<link href="https://cdn.jsdelivr.net/npm/animate.css@3.5.1" rel="stylesheet" type="text/css">
+	<!-- Velocity works very much like jQuery.animate and is a great option for JavaScript animations -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.3/velocity.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.14.1/lodash.min.js"></script>
+	
+	<style>
+		.fade-enter-active, .fade-leave-active {
+			transition: opacity .5s;
+		}
+		.fade-enter, .fade-leave-to {
+			/*.fade-leave-active in below version 2.1.8*/
+			opacity: 0;
+		}
+
+		/* 可以设置不同的进入和离开动画 */
+		/* 设置持续时间和动画函数 */
+		.slide-fade-enter-active {
+			transition: all .3s ease;
+		}
+		.slide-fade-leave-active {
+			transition: all .8s cubic-bezier(1.0, 0.5, 0.8, 1.0);
+			/*       贝塞尔曲线               x1   y1   x2   y2 */
+		}
+		.slide-fade-enter, .slide-fade-leave-to {
+			/*.slide-fade-leave-active for below version 2.1.8*/
+			transform: translateX(10px);
+			opacity: 0;
+		}
+
+		.bounce-enter-active {
+			animation: bounce-in .5s;
+		}
+		.bounce-leave-active {
+			animation: bounce-in .5s reverse;
+			/*                      动画反向播放 */
+		}
+		@keyframes bounce-in {
+			0% {
+				transform: scale(0);
+			}
+			50% {
+				transform: scale(1.5);
+			}
+			100% {
+				transform: scale(1);
+			}
+		}
+
+		.demo {
+			position: relative;
+			height: 15px;
+		}
+		.demo button {
+			position: absolute;
+		}
+		.no-mode-fade-enter-active, .no-mode-fade-leave-active {
+			transition: all 1s;
+		}
+		.no-mode-fade-enter, .no-mode-fade-leave-active {
+			opacity: 0
+		}
+		.no-mode-fade-enter {
+			transform: translateX(31px);
+		}
+		.no-mode-fade-leave-active {
+			transform: translateX(-31px);
+		}
+
+		.into {
+			position: relative;
+			height: 15px;
+		}
+		.into button {
+			position: absolute;
+		}
+		.no-modle-fade-enter-active, .no-modle-fade-leave-active {
+			transition: all .5s;
+		}
+		.no-modle-fade-enter, .no-modle-fade-leave-active {
+			opacity: 0;
+		}
+		.no-modle-fade-enter {
+			transform: translateX(31px);
+		}
+		.no-modle-fade-leave-active {
+			transform: translateX(-31px);
+		}
+
+		.component-fade-enter-active, .component-fade-leave-active {
+			transition: opacity .3s ease;
+		}
+		.component-fade-enter, .component-fade-leave-to {
+			/*.component-fade-leave-active for below version 2.1.8*/
+			opacity: 0;
+		}
+
+		.flip-list-move {
+			transition: transform 1s;
+		}
+
+		.list-complete-item {
+			transition: all 1s;
+			display: inline-block;
+			margin-right: 10px;
+		}
+		.list-complete-enter, .list-complete-leave-to {
+			/*.list-complete-active for below version 2.1.8*/
+			opacity: 0;
+			transform: translateY(30px);
+		}
+		.list-complete-leave-active {
+			position: absolute;
+		}
+
+		.container {
+			display: flex;
+			flex-wrap: wrap;
+			width: 238px;
+			margin-top: 10px;
+		}
+		.cell {
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+			width: 25px;
+			height: 25px;
+			border: 1px solid #aaa;
+			margin-right: -1px;
+			margin-bottom: -1px;
+		}
+		.cell:nth-child(3n) {
+			margin-right: 0;
+		}
+		.cell:nth-child(27n) {
+			margin-bottom: 0;
+		}
+		.cell-move {
+			transition: transform 1s;
+		}
+ 	</style>
+</head>
+<body>
+	<!-- Vue提供了 transition 的封装组件,可以给任何元素和组件增加 entering/leaving 过渡 -->
+	<!-- 显示过渡持续时间 => 定制进入和移除的持续时间 -->
+	<!-- <transition :duration="{ enter: 500, leave: 800 }"></transition> -->
+
+	<div id="demo1">
+		<button v-on:click="show = !show">
+			Toggle
+		</button><span>单元素/组件过渡</span>
+		<transition name="fade">
+			<p v-if="show">hello</p>
+		</transition>
+	</div>
+
+	<div id="demo2">
+		<button @click="show = !show">
+			Toggle
+		</button><span>CSS过渡</span>
+		<transition name="slide-fade">
+			<p v-if="show">hello</p>
+		</transition>
+	</div>
+
+	<div id="demo3">
+		<button @click="show = !show">
+			Toggle show
+		</button><span>CSS动画</span>
+		<transition name="bounce">
+			<p v-if="show">Look at me!</p>
+		</transition>
+	</div>
+
+	<div id="demo4" style="margin-left:80px;">
+		<button @click="show = !show">
+			Toggle render
+		</button><span>自定义过渡</span>
+		<transition name="custom-classes-transition" 
+					enter-active-class="animated tada" 
+					leave-active-class="animated bounceOutRight">
+			<p v-if="show">Hello</p>
+		</transition>
+	</div>
+
+	<!-- JavaScript钩子 -->
+	<div id="demo5">
+		<button @click="show = !show">
+			Toggle
+		</button><span>JavaScript钩子</span>
+		<transition v-on:before-enter="beforeEnter" v-on:enter="enter" v-on:leave="leave" v-bind:css="false">
+			<p v-if="show">Demo</p>
+		</transition>
+	</div>
+	<br>
+
+	<!-- 过渡模式 -->
+	<div id="demo6" style="margin-left:40px;">
+		<div class="demo">
+			<transition name="no-mode-fade">
+				<button v-if="on" key="on" @click="on = false">
+					on
+				</button>
+				<button v-else="" key="off" @click="on = true">
+					off
+				</button>
+			</transition>
+		</div>
+	</div>
+	<br>
+	<div id="demo7" style="margin-left:40px;">
+		<div class="into">
+			<transition name="no-modle-fade" mode="in-out">
+				<button v-if="on" key="on" @click="on = false">on</button>
+				<button v-else="" key="off" @click="on = true">off</button>
+			</transition>
+		</div>
+	</div>
+	<br>
+
+	<!-- 多个组件过渡 -->
+	<div id="demo8">
+		<input type="radio" name="a" value="v-a" id="a" v-model="view">
+		<label for="a">A</label>
+		<input type="radio" name="b" value="v-b" id="b" v-model="view">
+		<label for="b">B</label>
+		<transition name="component-fade" mode="out-in">
+			<component v-bind:is="view"></component>
+		</transition>
+	</div>
+	<br>
+
+	<!-- 列表排序过渡 -->
+	<div id="demo9" class="text1">
+		<button v-on:click="shuffle">Shuffle</button>
+		<transition-group name="flip-list" tag="ul">
+			<li v-for="item in items" v-bind:key="item">
+				{{ item }}
+			</li>
+		</transition-group>
+	</div>
+	<div id="demo10" class="text2">
+		<button v-on:click="shuffle">Shuffle</button>
+		<button v-on:click="add">Add</button>
+		<button v-on:click="remove">Remove</button>
+		<transition-group name="list-complete" tag="p">
+			<span v-for="item in items" v-bind:key="item" class="list-complete-item">
+				{{ item }}
+			</span>
+		</transition-group>
+	</div>
+	<!-- FLIP动画过渡 -->
+	<div id="demo11" class="text3">
+		<h2>Lazy Sudoku</h2>
+		<p>Keep hitting this shuffle button until you win.</p>
+		<button @click="shuffle">
+			Shuffle
+		</button>
+		<transition-group name="cell" tag="div" class="container">
+			<div v-for="cell in cells" :key="cell.id" class="cell">
+				{{ cell.number }}
+			</div>
+		</transition-group>
+	</div>
+	<br>
+
+	<!-- 列表交错过渡 -->
+	<div id="user1">
+		<input v-model="query">
+		<transition-group namee="staggered-fade" 
+						tag="ul" 
+						v-bind:css="false" 
+						v-on:before-enter="beforeEnter" 
+						v-on:enter="enter" 
+						v-on:leave="leave">
+			<li v-for="(item, index) in computedList" 
+				v-bind:key="item.msg" 
+				v-bind:data-index="index">
+				{{ item.msg }}
+			</li>			
+		</transition-group>
+	</div>
+
+
+	<script src="https://unpkg.com/vue"></script>
+	<script>
+		var demo1 = new Vue({
+			el: '#demo1',
+			data: {
+				show: true
+			}
+		})
+
+		var demo2 = new Vue({
+			el: '#demo2',
+			data: {
+				show: true
+			}
+		})
+
+		var demo3 = new Vue({
+			el: '#demo3',
+			data: {
+				show: true
+			}
+		})
+
+		var demo4 = new Vue({
+			el: '#demo4',
+			data: {
+				show: true
+			}
+		})
+
+		var demo5 = new Vue({
+			el: '#demo5',
+			data: {
+				show: false
+			},
+			methods: {
+				beforeEnter: function (el) {
+					el.style.opacity = 0
+					el.style.transformOrigin = 'left'
+				},
+				enter: function (el, done) {
+					Velocity(el, { opacity: 1, fontSize: '1.4em' },{ duration: 300 })
+					Velocity(el, { fontSize: '1em' },{ complete: done })
+				},
+				leave: function (el, done) {
+					Velocity(el, { translateX: '15px', rotateZ: '50deg' }, { duration: 600 })
+					Velocity(el, { rotateZ: "100deg" }, { loop: 2 })
+					Velocity(el, {
+						rotateZ: '45deg',
+						translateY: '30px',
+						translateX: '30px',
+						opacity: 0
+					}, { complete: done })
+				}
+			}
+		})
+
+		var demo6 = new Vue({
+			el: '#demo6',
+			data: {
+				on: false
+			}
+		})
+
+		var demo7 = new Vue({
+			el: '#demo7',
+			data: {
+				on: false
+			}
+		})
+
+		var demo8 = new Vue({
+			el: '#demo8',
+			data: {
+				view: 'v-a'
+			},
+			components: {
+				'v-a': {
+					template: '<div>Component A</div>'
+				},
+				'v-b': {
+					template: '<div>Component B</div>'
+				}
+			}
+		})
+
+		var demo9 = new Vue({
+			el: '#demo9',
+			data: {
+				items: [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ]
+			},
+			methods: {
+				shuffle: function () {
+					this.items = _.shuffle(this.items)
+				}
+			}
+		})
+
+		var demo10 = new Vue({
+			el: '#demo10',
+			data: {
+				items: [ 1, 2, 3, 4, 5, 6, 7, 8, 9 ],
+				nextNum: 10
+			},
+			methods: {
+				randomIndex: function () {
+					return Math.floor(Math.random() * this.items.length)
+				},
+				add: function () {
+					this.items.splice(this.randomIndex(), 0, this.nextNum++)
+				},
+				remove: function () {
+					this.items.splice(this.randomIndex(), 1)
+				},
+				shuffle: function () {
+					this.items = _.shuffle(this.items)
+				}
+			}
+		})
+
+		var demo11 = new Vue({
+			el: '#demo11',
+			data: {
+				cells: Array.apply(null, { length: 81 })
+					.map(function (_, index) {
+						return {
+							id: index,
+							number: index % 9 + 1
+						}
+					})
+			},
+			methods: {
+				shuffle: function () {
+					this.cells = _.shuffle(this.cells)
+				}
+			}
+		})
+
+		var user1 = new Vue({
+			el: '#user1',
+			data: {
+				query: '',
+				list: [
+					{ msg: 'Burce Lee' },
+					{ msg: 'Jackie Chan' },
+					{ msg: 'Chunk Norris' },
+					{ msg: 'Jet Li' },
+					{ msg: 'Kung Fury' }
+				]
+			},
+			computed: {
+				computedList: function () {
+					var vm = this
+					return this.list.filter(function (item) {
+						return item.msg.toLowerCase().indexOf(vm.query.toLowerCase()) !== -1
+					})
+				}
+			},
+			methods: {
+				beforeEnter: function (el) {
+					el.style.opacity = 0
+					el.style.height = 0
+				},
+				enter: function (el, done) {
+					var delay = el.dataset.index * 150
+					setTimeout(function () {
+						Velocity(
+							el,
+							{ opacity: 1, height: '1.6em' },
+							{ complete: done }
+						)
+					}, delay)
+				},
+				leave: function (el, done) {
+					var delay = el.dataset.index * 150
+					setTimeout(function () {
+						Velocity(
+							el,
+							{ opacity: 0, height: 0 },
+							{ complete: done }
+						)
+					}, delay)
+				}
+			}
+		})
+	</script>
+</body>
+</html>
