@@ -73,6 +73,20 @@
 	 </div>
 	 <br>
 
+	 <!-- 编译作用域 -->
+	 <div id="example-5">
+	 	<child-component>
+	 		{{ message }}
+	 	</child-component>
+	 </div>
+	<!-- 父组件模板的内容在父组件作用域内编译;子组件模板的内容在子组件作用域内编译 -->
+
+	<!-- 动态组件 -->
+	<div id="example">
+		<component v-bind:is="currentView">
+		</component>
+	</div>
+
 	<script src="https://unpkg.com/vue"></script>
 	<script>
 		// 注册全局组件 Vue.component(tagName, options) 
@@ -210,6 +224,34 @@
 				}
 			}
 		})
+
+		Vue.component('child-component',{
+			// 有效,因为是在正确的作用域内
+			template: '<div v-show="someChildProperty"></div>',
+			data: function () {
+				return {
+					someChildProperty: true
+				}
+			}
+		})
+		var example5 = new Vue({
+			el: '#example-5',
+			data: {
+				message: 1
+			}
+		})
+
+		// 动态组件 
+		var Home = {
+			template: '<p>Welcome home!</p>'
+		}
+		var vm = new Vue({
+			el: '#example',
+			data: {
+				currentView: Home
+			}
+		})
+
 	</script>
 </body>
 </html>
