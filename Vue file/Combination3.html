@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>渲染函数&JSX</title>
+</head>
+<body>
+	<!-- <h1>
+		<a href="#hello-world" name="hello-world">
+			Hello world!
+		</a>
+	</h1> -->
+	<div id="demo1">
+		<anchored-heading :level="1">
+			Hello world!
+		</anchored-heading>
+	</div>
+
+	<div id="demo2">
+		<anchored-headings :level="2">
+			Hello Vue!
+		</anchored-headings>
+	</div>
+	
+	<!-- Vue 通过建立一个虚拟 DOM 对真实 DOM 发生的变化保持追踪. -->
+	<!-- 虚拟节点(Virtual Node) "VNode" -->
+
+
+
+	<script src="https://unpkg.com/vue"></script>
+	<script>
+		Vue.component('anchored-heading', {
+			render: function (createElement) {
+				return createElement (
+					'h' + this.level,    // tag name 标签名称
+					this.$slots.default  // 子组件中的阵列
+				)
+			},
+			props: {
+				level: {
+					type: Number,
+					required: true
+				}
+			}
+		})
+		new Vue({
+			el: '#demo1'
+		})
+
+		var getChildrenTextContent = function (children) {
+			return children.map(function (node) {
+				return node.children
+					? getChildrenTextContent(node.children)
+					: node.text
+			}).join('')
+		}
+		Vue.component('anchored-headings', {
+			render: function (createElement) {
+				// create kebabCase id
+				var headingId = getChildrenTextContent(this.$slots.default)
+					.toLowerCase()
+					.replace(/\W+/g, '-')
+					.replace(/(^\-|\-$)/g, '')
+				return createElement(
+					'h' + this.level,
+					[
+						createElement('a', {
+							attrs: {
+								name: headingId,
+								href: '#' + headingId
+							}
+						}, this.$slots.default)
+					]
+				)
+			},
+			props: {
+				level: {
+					type: Number,
+					required: true
+				}
+			}
+		})
+		new Vue({
+			el: '#demo2'
+		})
+
+	</script>
+</body>
+</html>
