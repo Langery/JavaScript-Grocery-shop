@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>混合</title>
+</head>
+<body>
+
+	<script src="https://unpkg.com/vue"></script>
+	<script>
+		/* 基础 */
+		// 定义一个混合对象
+		var myMixin = {
+			created: function () {
+				this.hello()
+			},
+			methods: {
+				hello: function () {
+					console.log('hello from mixin!')
+				}
+			}
+		}
+		// 定义一个使用混合对象的组件
+		var Component = Vue.extend({
+			mixins: [myMixin]
+		})
+		var component = new Component(); // => "hello from mixin!"
+
+		/* 选项合并 */
+		var mixin = {
+			created: function () {
+				console.log('混合对象的钩子被调用')
+			},
+			methods: {
+				foo: function () {
+					console.log('foo')
+				},
+				conflicting: function () {
+					console.log('from mixin')
+				}
+			}
+		}
+		var vm = new Vue({
+			mixins: [mixin],
+			created: function () {
+				console.log('组件钩子被调用')
+			},
+			methods: {
+				bar: function () {
+					console.log('bar')
+				},
+				conflicting: function () {
+					console.log("from self")
+				}
+			}
+		})
+		vm.foo();
+		vm.bar();
+		vm.conflicting();
+
+		/* 全局混合 */
+		// 为自定义的选项 'myOption' 注入一个处理器
+		Vue.mixin({
+			created: function () {
+				var myOption = this.$options.myOption
+				if (myOption) {
+					console.log(myOption)
+				}
+			}
+		})
+		new Vue({
+			myOption: 'Good Day!'
+		})
+		/**
+			一旦使用全局混合对象,将会影响到所有之后创建的Vue实例.
+		*/
+
+		/* 自定义选项合并策略 */
+		// Vue.config.optionMergeStrategies
+	</script>
+</body>
+</html>
