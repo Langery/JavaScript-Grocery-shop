@@ -1,3 +1,3 @@
 ## Random Number
 
-The file is about the random number to use Luck Draw.
+The folder is about the random number to use Luck Draw.
