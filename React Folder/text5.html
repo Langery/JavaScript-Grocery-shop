@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>this.state</title>
+	<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+</head>
+<body>
+	<div id="demo1"></div>
+
+	<script type="text/babel">
+		/*this.state*/
+		var LikeButton = React.createClass({
+			getInitialState: function () { // 用于定义初始状态/对象  通过this.state来读取
+				return {like: false};
+			},
+			handleClick: function () {
+				this.setState({liked: !this.state.liked});
+				// 当用户点击组件，导致状态变化，this.setState方法就修改状态值，每次修改以后，自动调用this.render方法，再次渲染组件
+			},
+			render: function () {
+				var text = this.state.liked ? 'like' : 'haven\'t liked';
+				return (
+					<p onClick={this.handleClick}>
+						You {text} this.Click to toggle.
+					</p>
+				);
+			}
+		});
+		ReactDOM.render(
+			<LikeButton />,
+			document.getElementById('demo1')
+		)
+	</script>
+</body>
+</html>

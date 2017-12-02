@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>测试一</title>
+	<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+</head>
+<body>
+	<div id="demo1"></div>
+	<div id="demo2"></div>
+	<div id="demo3"></div>
+
+	<script type="text/babel">
+		/*ReactDOM.render()*/
+		ReactDOM.render(
+			<h2>hello</h2>,
+			document.getElementById('demo1')
+		);
+		/*JSX语法*/
+		var names = ['Apple', 'Banana', 'Orange'];
+		ReactDOM.render(
+			<div>
+			{
+				names.map(function (name) {
+					return <div>你好,{ name }!</div>
+				})
+			}
+			</div>,
+			document.getElementById('demo2')
+		)
+
+		var arr = [
+			<h1>Hi,Peter!</h1>,
+			<h2>Hello,TOm!</h2>,
+		];
+		ReactDOM.render(
+			<div>{arr}</div>,
+			document.getElementById('demo3')
+		);
+	</script>
+</body>
+</html>

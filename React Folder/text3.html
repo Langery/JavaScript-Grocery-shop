@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PropTypes</title>
+	<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+</head>
+<body>
+	<div id="demo1"></div>
+	<div id="demo2"></div>
+
+	<script type="text/babel">
+		/*PropTypes*/
+		// 用来验证组件实例的属性是否符合要求
+		var MyTitle = React.createClass({
+			propTypes: {
+				title: React.PropTypes.string.isRequired, // title属性 字符串
+			},
+			render: function () {
+				return <h1>{this.props.title}</h1>
+			}
+		});
+		var data = 123;
+		ReactDOM.render(
+			<MyTitle title={data} />,
+			document.getElementById('demo1')
+		);
+
+		var HelloPt = React.createClass({
+			getDefaultProps: function () { // getDefaultProps可以用来设置组件属性的默认值
+				return {
+					title: '你好，世界！'
+				};
+			},
+			
+			render: function () {
+				return <h1>{this.props.title}</h1>
+			}
+		});
+		
+		ReactDOM.render(
+			<HelloPt />,
+			document.getElementById('demo2')
+		);
+	</script>
+</body>
+</html>

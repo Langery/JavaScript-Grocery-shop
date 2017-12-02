@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>组件</title>
+	<script src="https://cdn.bootcss.com/react/15.4.2/react.min.js"></script>
+    <script src="https://cdn.bootcss.com/react/15.4.2/react-dom.min.js"></script>
+    <script src="https://cdn.bootcss.com/babel-standalone/6.22.1/babel.min.js"></script>
+</head>
+<body>
+	<div id="demo1"></div>
+	<div id="demo2"></div>
+
+	<script type="text/babel">
+		/*组件*/
+		var HelloMessage = React.createClass({ // 创建一个类
+			render: function () { // 组件类只能包含一个顶层标签，否则会报错
+				return <h1>Hello {this.props.name}</h1>
+			}
+		});
+		ReactDOM.render(
+			<HelloMessage name="Lahy" />, // 模板插入
+			// 注：组件第一个字母必须大写，否则会报错
+			document.getElementById('demo1')
+		);
+
+		/*this.props.children*/
+		var NotesList = React.createClass({
+			render: function () {
+				return (
+					<ol>
+					{
+						React.Children.map(this.props.children, function (child) {
+							return <li>{child}</li>
+						})
+					}
+					</ol>
+				);
+			}
+		});
+		/*
+			this.props.children的值有三种可能：
+			1.如果当前组件没有子节点，它就是undefined;
+			2.如果有一个子节点，数据类型是object；
+			3.如果有多个子节点，数据类型就是array;
+		*/
+		ReactDOM.render(
+			<NotesList>
+				<span>One</span>
+				<span>Two</span>
+			</NotesList>,
+			document.getElementById('demo2')
+		)
+	</script>
+</body>
+</html>
