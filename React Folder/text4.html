@@ -12,6 +12,7 @@
 
 	<script type="text/babel">
 		/*获取真实的DOM节点*/
+		/* 文本输入框必须有一个ref属性，然后this.refs.[refName]就会返回一个真实的DOM节点*/
 		var MyComponent = React.createClass({
 			handleClick: function () {
 				this.refs.myTextInput.focus();
@@ -20,7 +21,7 @@
 				return (
 					<div>
 						<input type="text" ref="myTextInput" />
-						// 文本输入框必须有一个ref属性，然后this.refs.[refName]就会返回一个真实的DOM节点。
+						
 						<input type="button" value="Focus the text input" onClick={this.handleClick} />
 					</div>
 				);
