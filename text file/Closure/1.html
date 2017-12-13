@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>text1</title>
+</head>
+<body>
+	<script>
+		var name = "one";
+		var object = {
+			name:"two",
+			getNameFunc: function() {
+				return function() {
+					return this.name;
+				};
+			}
+		};
+		alert(object.getNameFunc()());
+	</script>
+</body>
+</html>
