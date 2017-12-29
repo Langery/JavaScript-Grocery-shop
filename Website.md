@@ -1,6 +1,6 @@
 ## Website
 ### Some interesting website
-It is about some intresting website.About the color.
+It is about some interesting website.About the color.
 - http://weavesilk.com/
 - https://color.hailpixel.com/
 - https://www.awwwards.com/sites/qed-group
