@@ -8,4 +8,5 @@ About:
 * Native JavaScript
 * amcharts.js
 * Vue.js
+* React
 
