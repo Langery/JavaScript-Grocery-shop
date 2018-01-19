@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		div{
+			width: 1202px;
+			height: 902px;
+			overflow: hidden;
+		}
+		#canvas{
+		    /*background: greenyellow;*/
+		    border: 1px solid red;
+		}
+    </style>
+</head>
+<body>
+	<div>
+		<canvas id="canvas" width="1200" height="900"></canvas>
+	</div>
+	
+
+    <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+	<script style="text/javascript">
+		window.onload = function  () {
+			// body...
+			var canvas = document.getElementById('canvas');
+			if (canvas.getContext("2d")) {
+				var context = canvas.getContext('2d');
+			}else{
+				alert('当前浏览器不支持Canvas，请更换浏览器后再试');
+			}
+
+			var arr=[];
+			var canvasX;
+			var canvasY;
+			var index = 0;
+			canvas.onclick = function  (e) {
+				// body...
+				var bbox = canvas.getBoundingClientRect();
+				var x = e.clientX - bbox.left * (canvas.width/bbox.width);
+				var y = e.clientY - bbox.left * (canvas.height/bbox.height);
+
+				index++;
+
+
+				arr.push({
+					canvasX:x,
+					canvasY:y
+				})
+				// console.log(arr);
+				if(arr.length>1 && arr.length<=2){
+					context.moveTo(arr[1].canvasX,arr[1].canvasY);
+					context.lineTo(arr[0].canvasX,arr[0].canvasY);
+					context.stroke();
+				}else if(arr.length>2){
+					context.moveTo(arr[index-1].canvasX,arr[index-1].canvasY);
+					context.lineTo(arr[index-2].canvasX,arr[index-2].canvasY);
+					context.stroke();
+				}
+
+			}
+
+			//window.onmousewheel = document.onmousewheel = scrollFnc;
+
+            	var scale = 1;
+
+	 	function scrollFnc(ev){
+			var delta = ev.wheelDelta;
+
+			if(delta > 0 && scale <= 5){    //滚轮向上
+				 var zoom = layer.zoom + 20;
+				 layer.moveTo(zoom, layer.center);
+			}else if(delta < 0 && scale >= 1){
+				 var zoom = layer.zoom - 20;
+				 layer.moveTo(zoom, layer.center);
+			}
+			context.scale(scale,scale);
+
+			// context.strokeRect(5,5,25,15);
+			// onDraw();
+		    }
+
+		}
+	</script>
+</body>
+</html>
