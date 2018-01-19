@@ -9,4 +9,5 @@ About:
 * amcharts.js
 * Vue.js
 * React
+* canvas
 
