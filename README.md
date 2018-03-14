@@ -10,4 +10,4 @@ About:
 * Vue.js
 * React
 * canvas
-
+* Angular.js
