@@ -1,0 +1,77 @@
+<html ng-app="todoApp">
+<head>
+    <title>TO DO List</title>
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="http://apps.bdimg.com/libs/angular.js/1.4.6/angular.min.js"></script>
+    <script>
+        //数据模型
+        var model = {
+            user: "Adam", // 创建用户和数组
+            items: [{ action: "Buy Flowers", done: false },
+                    { action: "Get Shoes", done: false },
+                    { action: "Collect Tickets", done: true },
+                    { action: "Call Joe", done: false }]
+        };
+        //定义全局的module  []表示不引用其他module
+        var todoApp = angular.module("todoApp", []);
+        //module里面可以定义多个controller  拥有各自的$scope
+        todoApp.controller("ToDoCtrl", function ($scope) {
+            $scope.todo = model;
+            //在该scope下定义函数  计算未完成的count
+            $scope.incompleteCount = function () {
+                var count = 0;
+                angular.forEach($scope.todo.items, function (item) {  
+                    if (!item.done) { count++ }
+                });
+                return count;
+            }
+
+            $scope.warningLevel = function () {
+                return $scope.incompleteCount() < 6 ? "label-success" : "label-warning";  //count<3  className="label-success" 判断颜色改变
+            }
+            //该函数用于添加新事项
+	        $scope.addNewItem = function (actionText) {
+	            $scope.todo.items.push({ action: actionText, done: false });
+	        }
+        });
+
+
+    </script>
+</head>
+
+<body ng-controller="ToDoCtrl">
+    <div class="page-header">
+        <h1>
+            {{todo.user}}'s To Do List
+            <span class="label label-default" ng-class="warningLevel()"  
+                  ng-hide="incompleteCount() == 0">{{todo.items.length}}</span>
+        </h1>
+    </div>
+    <div class="panel">
+        <div class="input-group">
+            <input class="form-control"  ng-model="actionText"/>
+            <span class="input-group-btn">
+                <button class="btn btn-default" ng-click="addNewItem(actionText)">Add</button>
+            </span>
+        </div>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>Done</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="item in todo.items"> <!-- 常见指令 -->
+                    <td>{{item.action}}</td>    
+                    <td><input type="checkbox" ng-model="item.done" /></td>  <!-- 实现双向数据绑定 -->
+                    <td>{{item.done}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+
+
+</html>
