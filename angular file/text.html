@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<script src="http://cdn.static.runoob.com/libs/angular.js/1.4.6/angular.min.js"></script>
+</head>
+<body>
+	<div ng-app="myApp" ng-controller="myCtrl" ng-init="Name='Tom'">
+		
+		<p>名字：<input type="text" ng-model="name">&emsp;<span data-ng-bind="Name"></span></p>
+		<h1>hello{{name}}</h1>
+		<p>第一个表达式{{ 5 + 5 }}</p>
+
+		<hr>
+
+		名：<input type="text" ng-model="one"><br>
+		姓：<input type="text" ng-model="two"><br>
+		<br>
+		姓名1：{{one + " " + two}}<br>
+		姓名2：{{allName()}}
+
+		<hr>
+
+		<div ng-init="points=[1,15,19,2,40]">
+			<p>第三个值为：<span ng-bind="points[2]"></span></p>
+		</div>
+		
+		<hr>
+
+		<div data-ng-init="names=['Jani','Hege','Kai']">
+			<p>使用 ng-repeat 来循环数组</p>
+			<ul>
+				<li data-ng-repeat="x in names">
+					{{x}}
+				</li>
+			</ul>
+		</div>
+		
+		<hr>
+
+		<div ng-controller="myCarname">
+			<h1>{{caraname}}</h1>
+		</div>
+
+		<hr>
+
+		<p>现在的事件是：</p>
+		<span>
+			{{theTime}}
+		</span>
+
+		<hr>
+
+		<div ng-init="mySwitch=true">
+			<p>
+				<button ng-disabled="mySwitch">点击</button>
+			</p>
+			<p>
+				<input type="checkbox" ng-model="mySwitch">按钮
+			</p>
+			<p>
+				{{ mySwitch }}
+			</p>
+		</div>
+	</div>
+	<script>
+		var app = angular.module('myApp',[]); // 模块
+		// 控制器
+		app.controller('myCtrl',function($scope,$interval) {
+			$scope.one = 'John';
+			$scope.two = 'Doe';
+			// 将两个参数在function中合并
+			$scope.allName = function(){
+				return $scope.one + ' ' + $scope.two;
+			}
+			// 获取现在时间
+			$scope.theTime = new Date().toLocaleTimeString();
+			$interval(function() {
+				$scope.theTime = new Date().toLocaleTimeString();
+			},1000);
+		});
+
+		app.controller('myCarname',function($scope){
+			$scope.caraname = 'Volvo';
+		})
+	</script>
+</body>
+</html>
