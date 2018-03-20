@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<script src="http://cdn.static.runoob.com/libs/angular.js/1.4.6/angular.min.js"></script>
+	<script src="https://cdn.bootcss.com/angular-ui-router/1.0.0-beta.3/angular-ui-router.min.js"></script>
+	
+	<script src="app.js"></script>
+	<script src="page1.js"></script>
+	<script src="page2.js"></script>
+
+</head>
+<body>
+	<div ng-app="myApp" ng-controller="myCtrl">
+		<div ui-view>{{ showye }}</div>
+		<a ui-sref="page1">第一页</a>
+		<a ui-sref="page2">第二页</a>
+	</div>
+</body>
+</html>
