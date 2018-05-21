@@ -8,4 +8,4 @@
 ### http://element-cn.eleme.io/#/zh-CN
 
 ## Vant-UI base Vue
-### https://www.youzanyun.com/zanui/vant#/zh-CN/intro
+### https://www.youzanyun.com/zanui
