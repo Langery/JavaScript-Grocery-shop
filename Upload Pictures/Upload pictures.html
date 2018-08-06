@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Upload pictures</title>
+</head>
+<body>
+  <div>
+    <input type="file" onchange="ok(this)" accept="images/*">
+    <img id="okimg" alt="">
+  </div>
+  <script>
+    function ok(obj) {
+      var file = obj.files[0]
+      console.log(obj)
+      console.log(obj.files)
+      console.log(file)
+      var reader = new FileReader()
+      reader.onload = function (e) {
+        var img = document.getElementById('okimg')
+        img.src = e.target.result
+      }
+      reader.readAsDataURL(file)
+    }
+  </script>
+</body>
+</html>
