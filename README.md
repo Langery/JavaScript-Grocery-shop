@@ -13,3 +13,4 @@ About:
 * React
 * canvas
 * Angular.js
+* Echarts
