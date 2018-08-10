@@ -6,8 +6,8 @@ It is about some interesting website.About the color.
 - https://www.awwwards.com/sites/qed-group
 - http://materialuicolors.co/
 - http://www.colorhexa.com/
-- http://zhongguose.com/
-- http://nipponcolors.com/
+- [中国色](http://zhongguose.com/)
+- [日本色](http://nipponcolors.com/)
 - https://www.webdesignrankings.com/resources/lolcolors/
 - http://colorhunt.co/
 - https://color.adobe.com/zh/create/color-wheel/
@@ -18,3 +18,5 @@ It is about some interesting website.About the color.
 - https://thenounproject.com/
 - https://unsplash.com/
 
+### PS design
+- [蓝湖](https://lanhuapp.com/)
