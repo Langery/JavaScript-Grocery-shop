@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>时间记录</title>
+</head>
+<body>
+  <div id="box">
+    <div id="timer"></div>
+    <button onClick="btTime()">开始服务</button>
+    <!-- <button onClick="stopTime()">结束服务</button> -->
+  </div>
+  <script type="text/javascript">
+    var timer = document.getElementById("timer");
+    var butt = document.getElementsByTagName("button");
+    var hour = '00'; //时
+    var minus = '00'; //分
+    var seconds = '00'; //秒
+    timer.innerHTML = hour + ":" + minus + ":" + seconds;
+    var x=0,y=0,f=0,a=0,b=0,t1,t2;
+    var flag = 0;
+    function  btTime () {/*ajax:*/
+      switch (flag) {
+        case 0 :
+          flag = 1;
+          t1=setInterval(beginS,1000);
+          butt[0].innerHTML = '结束服务';
+        break;
+        case 1 :
+          flag = 2;
+          clearInterval(t1);
+          butt[0].innerHTML = '服务已暂停';
+          return flag = 0
+        break;
+      }
+    }
+    function beginS () {//计算秒
+      x ++;
+      if (x<10) {
+        seconds = '0' + x;
+      } else if(x >= 10 && x <= 59) {
+        seconds = x;
+      } else if(x > 59) {
+        seconds = '00';
+        x = 0;
+        a++;
+      }
+      if(a<10){
+        minus = '0' + a;
+      }else if(a>=10&&a<=59){
+        minus = a;
+      }else if(a>59){
+        minus = '00';
+        a = 0;
+        b++;
+      }
+      if(b<10){
+        hour = '0' + b;
+      }else if(b>=10&&b<=59){
+        hour = b;
+      }
+      timer.innerHTML = hour+":"+minus+":"+seconds;
+    }
+  </script>
+</body>
+</html>
