@@ -19,7 +19,7 @@
     var minus = '00'; //分
     var seconds = '00'; //秒
     timer.innerHTML = hour + ":" + minus + ":" + seconds;
-    var x=0,y=0,f=0,a=0,b=0,t1,t2;
+    var x=0,a=0,b=0,t1;
     var flag = 0;
     function  btTime () {/*ajax:*/
       switch (flag) {
@@ -61,7 +61,7 @@
       } else if (b>=10&&b<=59) {
         hour = b;
       }
-      timer.innerHTML = hour+":"+minus+":"+seconds;
+      timer.innerHTML = hour+':'+minus+':'+seconds;
     }
   </script>
 </body>
