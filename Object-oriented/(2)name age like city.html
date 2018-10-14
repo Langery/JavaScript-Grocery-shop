@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>name age like city</title>
+	<style>
+
+	</style>
+</head>
+<body>
+	<script type="text/javascript">
+		// 工厂模式
+		function human (name, age, like) {
+			var a = {};
+			a.name = name;
+			a.age = age;
+			a.like = like;
+			return a;
+		}
+		// 需要先定义一个新的值
+		var one = human('Lily',20,'reading')
+		var two = human('Max',22,'play')
+		console.log(one)
+		console.log(one.like)
+		var Max = 'She is ' + two.name + ' and ' + two.age + ' years old. ';
+		document.write(Max)
+
+		// 构造方法
+		/*
+			1.需要通过new运算符创建对象
+		*/
+		function person (name, age, like) {
+			this.name = name;
+			this.age = age;
+			this.like = like;
+		}
+		var three = new person('Tom',26,'sleeping')
+		console.log(three.name)
+		console.log(three.age)
+
+		// 混合式创建
+		/*
+			1. 构造函数 + 原型
+			2. 解决构造函数传参和共享的问题
+			3. 不共享的参数使用构造函数
+			4. 共享的使用原型
+			5. 解决了传餐和引用共享的难题
+		*/
+		function perple (name, age, like) {
+			this.name = name;
+			this.age = age;
+			this.like = like;
+		}
+		person.other = {
+			constructor: person,
+			baby: 'Jack'
+		}
+		console.log(person.other.baby)
+
+		// 对象冒充
+		/*
+			借用构造函数(对象冒充)只能继承构造函数的成员,无法继承原型的成员
+		*/
+		function newPerson (name, age, like) {
+			this.name = name;
+			this.age = age;
+			this.like = like;
+		}
+		function newPerple (name, age, like, city) {
+
+			newPerson.call(this,name,age,like);
+			this.city = city;
+		}
+		var girl = new newPerple('Mary',21,'computer','Beijing');
+		console.log(girl.city)
+
+	</script>
+</body>
+</html>
