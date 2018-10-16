@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>My classmate and me</title>
+    <style>
+    *{
+    	
+    }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+    	// 创建对象(一)
+    	var person = { // 定义一个人
+    		name: 'Peter',
+    		age: '22',
+    		like: "music"
+    	}
+    	var site = { // 定义一个地点
+    		call: 'school',
+    		location: 'Back Street'
+    	}
+    	var like = { // 定义一个兴趣
+    		water: 'swimming',
+    		music: 'Hip-hop',
+    		art: 'architecture'
+    	}
+    	console.log(person.name)
+    	console.log(person.age)
+    	console.log(person.like)
+    	console.log(site.location)
+    	//document.write('I am name is ' + person.name + ' my house in ' + site.location);
+    	/* 
+		Note:
+	    	1.标签代码需要加上'';
+	    	2.''内可以按照正常html书写方式书写;
+    	*/
+    	var New = 'I am name is ' + person.name + ' my house in ' + site.location + '<br/>' + 'I am ' + person.age + '  years old,I am in ' + site.call;
+    	document.write(New)
+    	var htmlshow = '<h1 style="font-weight:normal;font-size:16px">hello world!</h1>'
+    	document.write(htmlshow)
+    	var gotodo = 'I like ' + like.water;
+    	document.write(gotodo)
+    	// 创建对象(二)  classmate 
+    	var classmate = {};
+    	console.log(classmate)
+    	classmate.name = 'Lily'; // 直接添加属性
+    	classmate.age = '29'
+    	classmate.like = 'dance'
+    	console.log(classmate.name)
+    	console.log(classmate)
+    	var Lily = "I'm name is " + classmate.name + " I like " + classmate.like;
+    	document.write('<p>'+ Lily +'<p>')
+    </script>
+</body>
+</html>
