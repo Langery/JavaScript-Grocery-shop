@@ -3,80 +3,71 @@
 <head>
 <meta charset=UTF-8>
 <title>YuGiOh</title>
-<style type="text/css">
-table {
-    margin: auto;
-    border: 2px solid black;
-    border-collapse: collapse;
-    width: 1200px;
-}
- 
-table td {
-    border: 2px solid black;
-    text-align: center;
-}
- 
-table th {
-    border: 2px solid black;
-}
-</style>
-<script type="text/javascript">
-    onload = function ()
-    {
-        var table = document.getElementById ("tab1");
-        var tbody = table.tBodies[0];
-        var btn = document.getElementById ("btn");
-        var age = document.getElementById ("age");
-        var name = document.getElementById ("name");
-        btn.onclick = function ()
-        {
-            var id = 1;
-            var tr = tbody.insertRow (tbody.rows.length);
-            for ( var i = 0; i < 4; i++)
-            {
-                var td = tr.insertCell (tr.cells.length);
-                if (i === 0)
-                {
-                    td.innerHTML = name.value;
-                }
-                else if (i === 1)
-                {
-                    td.innerHTML = size.value;
-                }
-                else if (i === 2)
-                {
-                    td.innerHTML = comp.value;
-                }else
-                {
-                    td.innerHTML = number.value;
-                }
-            }
-        };
+  <style type="text/css">
+    table {
+      margin: auto;
+      border: 2px solid black;
+      border-collapse: collapse;
+      width: 1200px;
+    }
+
+    table td {
+      border: 2px solid black;
+      text-align: center;
+    }
+
+    table th {
+      border: 2px solid black;
+    }
+  </style>
+  <script type="text/javascript">
+    onload = function () {
+      var table = document.getElementById ("tab1");
+      var tbody = table.tBodies[0];
+      var btn = document.getElementById ("btn");
+      var age = document.getElementById ("age");
+      var name = document.getElementById ("name");
+      btn.onclick = function () {
+        var id = 1;
+        var tr = tbody.insertRow (tbody.rows.length);
+        for ( var i = 0; i < 4; i++) {
+          var td = tr.insertCell (tr.cells.length);
+          if (i === 0) {
+            td.innerHTML = name.value;
+          } else if (i === 1) {
+            td.innerHTML = size.value;
+          } else if (i === 2) {
+            td.innerHTML = comp.value;
+          }else {
+            td.innerHTML = number.value;
+          }
+        }
+      };
     }
 </script>
 </head>
 <body>
-    <div>
-        <table id="tab1">
-            <thead>
-                <tr>
-                    <th>材料名称：<input id="name" type="text" /></th>
-                    <th>规格： <input id="size" type="text" /></th>
-                    <th>厂家： <input id="comp" type="text" /></th>
-                    <th>数量： <input id="number" type="text" />
-                        <input id="btn" type="button" value="添加" />
-                    </th>
-                </tr>
-                <tr>
-                    <th>材料名称</th>
-                    <th>规格</th>
-                    <th>厂家</th>
-                    <th>数量</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
-    </div>
+  <div>
+    <table id="tab1">
+      <thead>
+        <tr>
+          <th>材料名称：<input id="name" type="text" /></th>
+          <th>规格： <input id="size" type="text" /></th>
+          <th>厂家： <input id="comp" type="text" /></th>
+          <th>数量： <input id="number" type="text" />
+            <input id="btn" type="button" value="添加" />
+          </th>
+        </tr>
+        <tr>
+          <th>材料名称</th>
+          <th>规格</th>
+          <th>厂家</th>
+          <th>数量</th>
+        </tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
 </body>
 </html>

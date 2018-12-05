@@ -1,23 +1,23 @@
 <!doctype html>
 <html>
- <title>隐藏多余字</title>
- <body>
-  <div onmouseover="daiti()" onmouseout="fanhui()"><span>家庭由婚姻派生，婚姻、养育和家庭影响</span><span id="substr">...<span></div>
-  <script type="text/javascript">
-	 var str="到每一个家庭成员，处理好这些问题也是人生的课题。";
-	 var shenglue="...";
-	 function daiti(){
-	  document.getElementById("substr").innerHTML=str;
-	 }
-	 function fanhui(){
-	  document.getElementById("substr").innerHTML=shenglue;
-	 }
-	 var str="这里是字符串aaaa";//原始字符串
-	 var s = str;//要展示的字符串
-	 if(str.length>5){
-	   s=str.substring(0,5)+"...";
-	 }
-	 console.log(s)
-  </script>
- </body>
+  <title>隐藏多余字</title>
+  <body>
+    <div onmouseover="daiti()" onmouseout="fanhui()"><span>家庭由婚姻派生，婚姻、养育和家庭影响</span><span id="substr">...<span></div>
+    <script type="text/javascript">
+      var str="到每一个家庭成员，处理好这些问题也是人生的课题。";
+      var shenglue="...";
+      function daiti(){
+        document.getElementById("substr").innerHTML=str;
+      }
+      function fanhui(){
+        document.getElementById("substr").innerHTML=shenglue;
+      }
+      var str="这里是字符串aaaa";//原始字符串
+      var s = str;//要展示的字符串
+      if(str.length>5){
+        s=str.substring(0,5)+"...";
+      }
+      console.log(s)
+    </script>
+  </body>
 </html>

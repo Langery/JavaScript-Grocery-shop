@@ -5,42 +5,42 @@
     <title>Document</title>
 </head>
 <body>
-    <p>数组内所有随机数：</p>
-    <p id="getRandom">fff</p>
-    <p id="result"></p>
+  <p>数组内所有随机数：</p>
+  <p id="getRandom">fff</p>
+  <p id="result"></p>
 
-    <script>
-        window.onload = function(){
-              var arr = new Array;
-              var data = new Array;
-              var ranIndex;
-              var getRan = document.getElementById('getRandom');
-              var result = document.getElementById('result');
-              
-              
-             var d1 = new Date().getTime();
-              
+  <script>
+    window.onload = function(){
+      var arr = new Array;
+      var data = new Array;
+      var ranIndex;
+      var getRan = document.getElementById('getRandom');
+      var result = document.getElementById('result');
 
-              for (var i = 1; i < 11; i++) {
-                  arr.push(i);
-                  getRan.innerHTML = arr;
-              }
 
-             for (var i = 0; i < 5;) {
-                 ranIndex = Math.ceil(Math.random()*9);
-                 if(arr[ranIndex] != null){
-                     data[i] = arr[ranIndex];
-                     arr[ranIndex] = null;
-                     i++;
-                 }
-                 result.innerHTML = data;
-             }
+      var d1 = new Date().getTime();
 
-             var d2 = new Date().getTime();
 
-             console.log("数据用时" + (d2 - d1));
-             console.log("数组长度" + data.length);
+      for (var i = 1; i < 11; i++) {
+        arr.push(i);
+        getRan.innerHTML = arr;
+      }
+
+      for (var i = 0; i < 5;) {
+        ranIndex = Math.ceil(Math.random()*9);
+        if(arr[ranIndex] != null){
+          data[i] = arr[ranIndex];
+          arr[ranIndex] = null;
+          i++;
         }
-    </script>
+        result.innerHTML = data;
+      }
+
+      var d2 = new Date().getTime();
+
+      console.log("数据用时" + (d2 - d1));
+      console.log("数组长度" + data.length);
+    }
+  </script>
 </body>
 </html>
