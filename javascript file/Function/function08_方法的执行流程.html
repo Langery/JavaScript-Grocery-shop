@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    方法的执行流程 栈结构的执行FILO 先进后出
+    方法里可以调用方法
+     */
+    function method01() {
+      console.log("method01开始");//1
+      method02();
+      console.log("method01结束");//7
+    }
+    function method02() {
+      console.log("method02开始");//2
+      method03();
+      console.log("method02结束");//6
+    }
+    function method03() {
+      console.log("method03开始");//3
+      console.log("method03执行中");//4
+      console.log("method03结束");//5
+    }
+
+    method01();
+
+  </script>
+</body>
+</html>

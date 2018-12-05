@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+	// 思路：
+	// 1.每次都找一个基准点(数组中间)
+	// 2，建立两个数组，小于这个基准点的数放在左边的数组里面，大于这个基准点的数放在右边的数组里面
+	// 3.利用递归进行下次的比较
+	// [12,5,37,6,22,40]		基准点		左边的数组        右边的数组
+	// 						  		37		[12,5,6,22]			 [40]
+
+		function quickSort(_arr){
+			if(_arr.length <= 1){ //可能是空数组或有一个数的数组
+				return _arr;
+			}
+			var num = Math.floor(_arr.length/2);
+			var numValue = _arr.splice(num,1);
+			var left = [],
+				right = [];
+			for(var i = 0; i < _arr.length; i++){
+				if(_arr[i] < numValue){
+					left.push(_arr[i])
+				}else{
+					right.push(_arr[i])
+				}
+			}
+			return quickSort(left).concat(numValue,quickSort(right))
+		}
+		var arr = [12,5,37,6,22];
+		console.log(quickSort(arr));
+
+
+		// return quickSort(left).concat(numValue,quickSort(right))
+
+		// quickSort(left)
+		// [12,5,6,22]
+
+		// 5
+		// quickSort(left)
+		// [] + 5 + [12,6,22]
+		// 			[] + 6 + [12,22]
+		// 					  [] + 12 +[22]
+
+		// quickSort(right)
+		// [12,6,22]
+
+		// 6
+		// quickSort(left)
+		// []
+
+		// quickSort(right)
+		// [12,22]
+
+
+	</script>
+</body>
+</html>

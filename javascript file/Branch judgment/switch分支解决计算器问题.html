@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    var add1 = Number(prompt("请输入第一个数"));
+    var add2 = Number(prompt("请输入第二个数"));
+    var str = prompt("请输入+-/*%四个符号中的一个");
+
+    switch(str){
+      case '+':
+        console.log(add1+"+"+add2+"="+(add1+add2));
+        break;
+      case '-':
+        console.log(add1+"-"+add2+"="+(add1-add2));
+        break;
+      case '*':
+        console.log(add1+"*"+add2+"="+(add1*add2));
+        break;
+      case '/':
+        console.log(add1+"/"+add2+"="+(add1/add2));
+        break;
+      default:
+        alert("输入的符号有误");
+        break;
+    }
+  </script>
+</body>
+</html>

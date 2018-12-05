@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    递归  1+2+3+4。。。+100
+       // 方法的执行流程
+       // 递归的思路
+
+     */
+    function sum(n) {
+      if(n==1){
+        return 1;
+      }else{
+        return sum(n-1)+n;
+      }
+      // return sum(n-1)+n;
+    }
+    alert(sum(5));
+    //sum(100)  1...100
+    //sum(99)   1....99 +100
+    //sum(100） = sum(99) +100
+    //sum(n) = sum(n-1)+n
+  </script>
+</body>
+</html>

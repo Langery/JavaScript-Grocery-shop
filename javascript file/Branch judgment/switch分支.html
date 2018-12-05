@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    var a = 1;
+    //switch 转换
+    /*
+    switch关键字 switch(任意的一个变量){}
+    case 情况
+     switch (a){
+     case 1:
+     console.log(a+1);
+     break;
+     case 2:
+     console.log(a+2);
+     break;
+     case 10:
+     console.log(a+10);
+     break;
+     default://else
+     console.log(a);
+     break;
+     }
+     */
+     var month = prompt("请输入1-12之间的月份");//string
+     month = Number(month);
+     var year = prompt("请输入一个年份");
+     year = Number(year);
+     console.log(year);
+     console.log(month);
+
+    switch(month){
+      case 12://每一个case代表一种情况  month==1
+      case 3:
+      case 5:
+      case 7:
+      case 8:
+      case 10:
+      case 1:
+        console.log(31);
+        break;//如果没有break，会继续往下执行，不会停//break作用是防止穿透
+      case 4:
+      case 6:
+      case 9:
+      case 11:
+        console.log(30);
+        break;
+      case 2:
+        if((year%4==0&&year%100!=0)||(year%400==0)){
+          console.log(29);
+        }else{
+          console.log(28);
+        }
+        break;
+      default://默认
+          //如果不满足以上情况，则可以走默认
+    }
+  </script>
+</body>
+</html>

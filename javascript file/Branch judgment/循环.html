@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    for循环
+     (var i = 1;i<=100;i++)
+    (表达式1;表达式2;表达式3)｛
+        循环体;
+    ｝
+    表达式1  初始化表达式  var i = 1 给i一个初始值
+    表达式2  条件表达式,限制i的变动范围   boolean
+    表达式3  步进表达式
+
+    for循环 运行的方式
+     1 一定会走 初始化表达式 （只运行一次）
+     2 判断 是否复合条件，如果符合条件走第三步，如果不符合 ，直接跳出循环，走下面的语句
+     3 循环体
+     4 循环体结束走步进表达式
+     5 然后再走第二步
+     6 如果通过步进表达式永远达不到条件，就会形成死循环
+     */
+    console.time("abc");
+    for(var i = 1;i<=3;i++){
+      console.log("helloworld"+i);
+    }
+
+    console.log(i);//4
+    console.log("AAA");
+    console.timeEnd("abc");
+  </script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  <button id="btn1">点击消失</button><button id="btn2">点击出现</button>
+  <div id="box" style="width:100px;height:100px;background: red;opacity: 1;position: absolute;left:10px;top:100px"></div>
+  <script>
+    var oBox = document.getElementById("box");
+    var oBtn1 = document.getElementById("btn1");
+    var oBtn2 = document.getElementById("btn2");
+    var timer;
+
+    oBtn1.onclick = function () {
+      clearInterval(timer);
+      timer = setInterval(function () {
+        var op = oBox.style.opacity;
+        oBox.style.opacity = op-0.05;
+        console.log(op);
+        if(op<=0){
+          oBox.style.opacity = 0;
+          clearInterval(timer);
+        }
+      },16)
+    }
+
+    oBtn2.onclick = function () {
+      clearInterval(timer);
+      timer = setInterval(function () {
+        var op1 = Number(oBox.style.opacity);//0.1
+        console.log(op1);//0.1
+        oBox.style.opacity = op1 + 0.05;
+        console.log(oBox.style.opacity);//
+        if(op1>=1){
+          oBox.style.opacity = 1;
+          clearInterval(timer);
+        }
+      },16)
+    }
+
+  </script>
+</body>
+</html>

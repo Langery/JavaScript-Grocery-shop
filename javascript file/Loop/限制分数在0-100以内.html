@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    限制分数在0-100之间
+     */
+    var score = prompt("请输入一个分数在0-100之间");
+    score = Number(score);
+
+    while(!(score>=0&&score<=100)){
+      score = prompt("输入的分数有误,请重新输入一个分数在0-100之间");
+      score = Number(score);
+    }
+
+    alert(score);
+  </script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    //分支嵌套
+    var score = 55;
+
+    if(score>=90){
+      console.log("A");
+    }else{//<90
+      console.log("else01--------start");
+      if(score>=80){
+        console.log("B");
+      }else{
+        console.log("else02--------start");
+        if(score>=60){
+          console.log("C");
+        }else{
+          console.log("else03--------start");
+          console.log("D");
+          console.log("else03--------end");
+        }
+        console.log("else02--------end");
+      }
+      console.log("else01--------end");
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    for(var i=1;i<=5;i++){
+
+      for(var j=1;j<=i;j++){
+        //
+        if(j==2){
+        // break;//嵌套中使用break，存在就近原则
+          continue;
+        }
+        //
+        document.write("*");
+      }
+      document.write("<br>");
+    }
+    document.write("-------------------");
+    document.write("<br>");
+    outer:
+    for(var i=1;i<=5;i++){
+      inner:
+      for(var j=1;j<=i;j++){
+        if(j==2){
+          break outer;//label标签的使用，起名跟变量名类似 ,作用 在内层可以直接跳出外层循环
+        }
+        document.write("*");
+      }
+      document.write("<br>");
+    }
+  </script>
+</body>
+</html>

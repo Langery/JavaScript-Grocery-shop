@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    var hero = {
+      //属性名:属性值
+      name:'齐天大圣',
+      age:15,
+      attack:20
+    }
+    /*
+    循环对象里的属性名的
+     */
+    for(var i in hero){
+      console.log(i);//i代表的是属性名
+      console.log(hero[i]);//拿属性值可以通过 hero[属性名];
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    方法与方法的配合
+     */
+    /*
+    求斐波那契数列第n项的值
+     */
+    function f(n) {//f的功能就是直到第n项是多少
+      if(n==1||n==2){
+        return 1;
+      }else{
+        return f(n-1)+f(n-2);
+      }
+    }
+    //f(1)+f(2)+...f(10)
+    /*
+    求斐波那契数列前10项和
+
+    var sum = 0;
+    for(var i=1;i<=10;i++){
+      sum += f(i);
+    }
+    console.log(sum);
+     */
+    //求斐波那契数列前n项和
+    function sum01(n) {
+      var sum = 0;
+      for(var i=1;i<=n;i++){
+        sum += f(i);
+      }
+      return sum;
+    }
+    console.log(sum01(10));
+  </script>
+</body>
+</html>

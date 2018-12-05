@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+  <script>
+    /*
+    1 事件驱动:可以通过 事件触发
+     */
+    document.onclick = function () {
+        sum();
+    }
+    /*
+    2 面向对象 由对象调用方法
+     */
+    var hero = {
+        skillQ: function () {
+            alert("释放了q技能");
+            /*
+
+            */
+        }
+    }
+    // hero.skillQ(); //对象调用方法
+    // window.alert("abc");
+    // window.prompt("给一个月份");
+
+    /*
+    function 功能    函数，方法，功能
+     */
+    /*
+    function如何使用
+    1 代码复用 //代码重复使用
+     */
+    //从1加到100的功能
+    /*
+    function 关键字 sum 方法名 (){方法体}
+    */
+    function sum(){
+      var result = 0;
+      for(var i =1;i<=100;i++){
+        result += i;
+      }
+      alert(result);
+    }
+
+    sum();//调用 会执行方法体
+
+    /*
+    共同点 代码复用 ，重复的使用同一段代码
+    for  处理类似逻辑,在某一个地方使用多次的时候
+    function  想在什么时候用，就在什么时候用
+     */
+    for(var i = 1;i<=100;i++){
+      console.log("helloworld");
+    }
+
+  </script>
+</body>
+</html>

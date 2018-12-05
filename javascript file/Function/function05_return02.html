@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    function sum01(n) {//局部变量
+      var result = 0;
+      for(var i=1;i<=n;i++){
+        result += i;
+      }
+      // return "最终结果为"+result;
+      // return result;
+    }
+    /*
+    当有return的时候，可以将返回结果直接拿到 方法调用处使用
+     */
+    var a = sum01(100);
+    console.log(a);
+    /*
+    当没有return的时候，默认结果为undefined
+     */
+    var a = sum01(100);
+    console.log(a);
+  </script>
+</body>
+</html>

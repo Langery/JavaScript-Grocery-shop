@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    9*9 乘法表
+    演绎法
+
+    for(var i = 1;i<=1;i++){
+      document.write(i+"*1="+i*1+"&nbsp");
+    }
+    document.write("<br>")
+
+    for(var i = 1;i<=2;i++){
+      document.write(i+"*2="+i*2+"&nbsp");
+    }
+    document.write("<br>")
+
+    for(var i = 1;i<=3;i++){
+      document.write(i+"*3="+i*3+"&nbsp");
+    }
+    document.write("<br>")
+
+    */
+    for(var i=1;i<=9;i++){//代表的行数  i是几，就代表已经打印到第几行了
+      for(var j=1;j<=i;j++){ //j代表列数   j是几就代表打印到第几列
+        document.write(j+"*"+i+"="+j*i+"&nbsp");
+      }
+      document.write("<br>")//每列打完 要换行
+    }
+  </script>
+</body>
+</html>

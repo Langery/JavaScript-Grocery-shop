@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+     变量 预编译
+     console.log(a);//undefined
+     var a = 10;
+     console.log(a);//10
+    */
+    /*
+    方法 预编译
+     运行程序之前就知道 已经定义了什么方法
+    */
+    /*
+     function 关键字 sum 方法名 (){方法体}
+     */
+    // sum();
+    // sum1(); 由于sum1是通过变量声明的方法，所以在这里 只存在变量预编译，默认undefined，所以没办法调用
+    console.log(sum1);
+    function sum() {
+      var result = 0;
+      for(var i=1;i<=100;i++){
+        result+=i;
+      }
+      alert(result);
+    }
+    /*
+     function 第二种定义方式
+     */
+    var sum1 = function () {
+      var result = 0;
+      for(var i=1;i<=100;i++){
+        result+=i;
+      }
+      alert(result);
+    }
+
+  </script>
+</body>
+</html>

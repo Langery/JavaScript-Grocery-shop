@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    JS 形式参数 实际参数
+    形式参数 （形参）
+    sum方法名(形式参数)
+     */
+    function sum(n) {
+    // var n; 形参相当于在这里定义了一个变量
+      var result = 0;
+      for(var i=1;i<=n;i++){
+        result += i;
+      }
+      alert(result);
+    }
+    // sum(5);//5 实际参数   实际调用传入的参数 叫做 实际参数  (实参)
+    // sum(20);
+    // sum(99);
+    /*
+    一个方法 可以有多个形参
+     ps a,b     b,a
+      形式参数 都有固定含义，不能调换位置
+       a 起始值
+       b 最终值
+     */
+    function sum1(a,b) {//var a,b
+      var result = 0;
+      for(var i=a;i<=b;i++){
+        result += i;
+      }
+      alert(result);
+    }
+    //sum2方法跟sum1方法的功能一样
+    function sum2(c,d) {
+      var result = 0;
+      for(var i=c;i<=d;i++){
+        result += i;
+      }
+      alert(result);
+    }
+    //sum3
+    function sum3(a,b) {
+      var result = 0;
+      for(var i=b;i<=a;i++){
+        result += i;
+      }
+      alert(result);
+    }
+
+    sum1(1,100);//5050
+    sum1(1,99);//4950
+    sum1(10,15);//75
+    sum3(100,1);
+  </script>
+</body>
+</html>

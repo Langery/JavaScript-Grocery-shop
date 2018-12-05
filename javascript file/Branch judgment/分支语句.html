@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+     1  if else
+       除了if 意外，别的都走else
+     */
+    var a = 10;
+    if(a == 10){
+      console.log("a");
+    }else{//其余的
+      console.log("b");
+    }
+    /*
+    2   if
+     */
+    var age = 45;
+    if(age>=65){
+      console.log("班里有位老年人");
+    }
+
+    if(age>=80){
+      console.log("长寿");
+    }
+
+    console.log("helloworld")
+    /*
+    3 if(){}else if(){} 适合多分支
+     */
+    var score = 95;
+    if(score>=90){
+      console.log("A");
+    }else if(score>=80){
+      console.log("B");
+    }else if(score>=60){
+      console.log("C");
+    }else if(score<60&&score>=0){
+      console.log("D");
+    }else{
+      console.log("默认条件");
+    }
+  </script>
+</body>
+</html>

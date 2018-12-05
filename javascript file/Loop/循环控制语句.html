@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+     break  和continue  语句
+      break如果在循环内部条件写起来比较麻烦或者说，习惯直接用死循环，
+      那么可以通过在内部ifelse判断来跳出循环
+     */
+    var i = 0;
+    while(true){
+      i++;
+      console.log(i);
+      if(i==100){
+        break;//跳出本循环
+      }
+    }
+
+
+    i = 1;
+    while(i<=100){
+      console.log(i);
+      i++;
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+      1+2+3+4+5+...+100  - 5！
+     */
+    function sum01(n) {//局部变量
+      var result = 0;
+      for(var i=1;i<=n;i++){
+        result += i;
+      }
+      // alert(result);由于在里面运算的结果最终需要拿到外面使用
+      return result;
+    }
+    /*
+    // alert(result);
+    alert(sum01(100));//return 的值会直接到方法的调用处
+    var a = sum01(99);//5050
+    console.log(a);
+    */
+    function sum02(n){
+      var result = 1;
+      for(var i= 1;i<=n;i++){
+        result*=i;
+      }
+      return result;
+    }
+    // sum02(5);
+    var a = sum01(100) - sum02(5);
+    console.log(a);
+
+  </script>
+</body>
+</html>

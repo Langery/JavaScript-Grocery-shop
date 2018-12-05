@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>selectSort</title>
+  <script>
+  /*
+  	选择排序
+  */
+  function selectSort(_arr){
+  	var len = _arr.length,
+  		minIndex,
+  		temp;
+  	// 为什么是 i <len-1？ 因为假设遍历到 倒数第二个数的时候，只需要和最后一个值比较一次，就可以完成全部的排序，所以不需要再去遍历最后一个数
+  	for (var i = 0; i < len-1; i++) {
+  		//	假设第i个是最小值,将数组中第i个数的下标给minIndex
+  		minIndex = i;
+
+  		// 将后面的数依次 和 数组[minIndex](假定的最小值) 进行比较，直到比较到最后一个数，得到后面数 中其中最小的那个数的  下标
+  		for(var j = i+1; j < len; j++){
+  			if(_arr[minIndex]>arr[j]){
+  				minIndex = j;
+  			}
+  		}
+  		// 对上面举个例子
+  		// var arr = [2, 4, 3, 1, 0];
+  		// 当i = 0, 那么假定minIndex=0, 那么arr[0]就是最小的那个数也就是2,
+  		// 先将2先和4比较, 不满足条件，那么最小值还是arr[0],
+  		// 再将2先和3比较, 不满足条件，那么最小值还是arr[0],
+  		// 再将2和1进行比较，满足条件，那么最小值这是就变成arr[2]（minIndex也就为2了）
+  		// 再将1和0进行比较，满足条件, 那么最小值是arr[3]，（minIndex也就为3了）
+
+  		// 循环结束后，如果 最小值不是自己时才进行交换，如果是自己的话，就没必要自己和自己换了
+  		if(minIndex != i){
+  			temp = _arr[minIndex]; 		  // temp来保存最小值
+  			_arr[minIndex] = _arr[i];     // 将假设的最小值 赋值到 最小值的位置上
+  			_arr[i] = temp;				  // 将最小值赋值到 假设的最小值的位置上
+  		}
+
+  		// 输出每一次调换位置后的数组
+  		console.log(_arr);
+  	};
+  	return _arr;
+  }
+  var arr = [2, 4, 3, 1, 7, 5, 6, 5];
+  console.log(selectSort(arr));
+  </script>
+</head>
+<body>
+
+
+
+</body>
+</html>

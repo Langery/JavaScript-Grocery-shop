@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+    1 return 可以后面没有值,只是为了终止整个方法
+    2 方法里只要一碰到return，方法就结束
+     */
+    function sum() {
+      for(var i=0;i<=100;i++){
+        if(i==10){
+          return;
+        }
+        console.log(i);
+      }
+    }
+    sum();
+  </script>
+</body>
+</html>

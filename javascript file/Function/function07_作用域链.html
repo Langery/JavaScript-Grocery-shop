@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    var a = 10;
+    console.log("全局的a"+window.a);
+    /*
+    全局作用域下的 变量可以在 方法里使用
+    function method01() {
+        console.log(a);
+    }
+    method01();
+    */
+    /*
+    function method02() {
+        var a = 100;//局部变量
+        console.log("method02的a"+a);
+    }
+    method02();
+    console.log(a);
+    */
+    /*
+    function method03() {
+        a = 15;//当局部没有声明变量的时候，就会沿着作用域链往上找,找到全局作用域的a，然后再操作
+        console.log(a);//15
+    }
+    method03();
+    console.log(a);//15
+    */
+    /*
+    形参是局部变量
+    function method04(a) {//var a =15
+        console.log(a);//15
+    }
+    method04(15);
+    console.log(a);//10
+    */
+    /*
+    function method05(a) {// var a = 10 将全局变量a的值10传入赋值给局部变量的a
+        a = 15;//局部变量被改为15
+        console.log(a);//15
+    }
+    method05(a);
+    console.log(a);//10
+    */
+  </script>
+</body>
+</html>

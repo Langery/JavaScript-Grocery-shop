@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+  <script>
+    /*
+     项目中尽量减少 递归的使用,递归相比于 循环来讲，效率比较低
+      原因是 不停地调用方法会影响效率
+
+     */
+    function add(n) {
+        var a = "hello";
+        for(var i=1;i<=n;i++){
+            a+=i;
+        }
+        return a;
+    }
+    function add1(n) {
+        if(n==1){
+            return 1;
+        }else{
+            return "hello"+add1(n-1)+n;
+        }
+    }
+    console.time("a");
+    //a: 16.101ms
+    // console.log(add(30000));
+    // a: 28.495ms
+    console.log(add1(30000));
+    console.timeEnd("a");
+  </script>
+</body>
+</html>
