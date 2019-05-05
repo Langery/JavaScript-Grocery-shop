@@ -14,3 +14,7 @@ About:
 * canvas
 * Angular.js
 * Echarts
+
+Modular:
+* [Github](https://github.com/Langery/Grocery-shop/issues/1)
+* [JavaScript article](https://github.com/Langery/Grocery-shop/issues/5)
