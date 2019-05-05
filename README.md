@@ -5,15 +5,15 @@ Link about the script: [CDN](http://www.bootcdn.cn/).<br/>
 Some interesting website and software.
 
 About:
-* Three.js
 * Bootstrap
 * Native JavaScript
-* amcharts.js
-* Vue.js
-* React
-* canvas
 * Angular.js
+* React.js
+* Vue.js
+* [Amcharts.js](https://github.com/Langery/Grocery-shop/tree/master/Amchats.js)
+* [Canvas](https://github.com/Langery/Grocery-shop/tree/master/Canvas)
 * Echarts
+* [Three.js](https://github.com/Langery/Grocery-shop/tree/master/Three_text)
 
 Modular:
 * [Github](https://github.com/Langery/Grocery-shop/issues/1)
