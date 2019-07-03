@@ -21,7 +21,7 @@
 	</div>
 	
 
-    	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://cdn.bootcss.com/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
 	<script style="text/javascript">
 		window.onload = function  () {
@@ -65,23 +65,23 @@
 
 			//window.onmousewheel = document.onmousewheel = scrollFnc;
 
-            	var scale = 1;
+			var scale = 1;
 
-	 	function scrollFnc(ev){
-			var delta = ev.wheelDelta;
+	 		function scrollFnc(ev){
+				var delta = ev.wheelDelta;
 
-			if(delta > 0 && scale <= 5){    //滚轮向上
+				if(delta > 0 && scale <= 5){    //滚轮向上
 				 var zoom = layer.zoom + 20;
 				 layer.moveTo(zoom, layer.center);
-			}else if(delta < 0 && scale >= 1){
+				}else if(delta < 0 && scale >= 1){
 				 var zoom = layer.zoom - 20;
 				 layer.moveTo(zoom, layer.center);
-			}
-			context.scale(scale,scale);
+				}
+				context.scale(scale,scale);
 
 			// context.strokeRect(5,5,25,15);
 			// onDraw();
-		    }
+			}
 
 		}
 	</script>
