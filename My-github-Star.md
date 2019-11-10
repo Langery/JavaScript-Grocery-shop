@@ -5,39 +5,70 @@
 ## Menu
 
 - <a href="#web">Web</a>
-  - [Frame](#frame)
-    - [Vue](#vue)
-    - [React](#react)
-    - [Node](#node)
-  - [node_modular](#modular)
-  - [Periodical & Information](#infor)
-  - [Web Tool](#webTool)
-- [Python](#python)
-- [Interesting projects](#interesting)
-- [Tool](#tool)
+  - <a href="#frame">Frame</a>
+    - <a href="#vue">Vue</a>
+    - <a href="#react">React</a>
+    - <a href="#Node">Node</a>
+  - <a href="#modular">node_modular</a>
+  - <a href="#infor">Periodical & Information</a>
+  - <a href="#webTool">Web Tool</a>
+  - <a href="blog">Blog</a>
+- <a href="#python">Python</a>
+- <a href="#interesting">Interesting projects</a>
+- <a href="#tool">Tool</a>
 
 
 ### [Web](#web)
 
-#### <a href="#frame">Frame</a>
+#### [Frame](#frame)
 
-#####　<a href="#vue">Vue</a>
+##### [Vue](#vue)
 
-#####　<a href="#react">React</a>
+1. [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)<br/>
+基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
+
+2. [yiluxiangbei87110/vue-chat](https://github.com/yiluxiangbei87110/vue-chat)<br/>
+vue chat
+
+##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
 Set up a modern web app by running one command. https://create-react-app.dev
 
-#####　<a href="#Node">Node</a>
+2. [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)<br/>
+Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
-#### <a href="#modular">node_modular</a>
+##### [Node](#node)
+
+1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
+基于express和koa的简单photo wall
+
+2. [guo-yu/koa-guide](https://github.com/guo-yu/koa-guide)<br/>
+koa guide in Chinese
+
+#### [node_modular](#modular)
 
 1. [reduxjs/redux](https://github.com/reduxjs/redux)<br/>
 Predictable state container for JavaScript apps http://redux.js.org
 
-#### <a href="#infor">Periodical & Information</a>
+2. [graphql/graphql-js](https://github.com/graphql/graphql-js)<br/>
+A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/
 
-#### <a href="#webTool">Web Tool</a>
+3. [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages)<br/>
+A curated list of small, focused npm packages.
+
+4. [mojs/mojs](https://github.com/mojs/mojs)<br/>
+The motion graphics toolbelt for the web
+
+#### [Periodical & Information](#infor)
+
+1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
+👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+2. [nieweidong/fetool](https://github.com/nieweidong/fetool)<br/>
+大前端的瑞士军刀，只记录有用的。
+
+#### [Web Tool](#webTool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
 Prettier is an opinionated code formatter. https://prettier.io
@@ -45,67 +76,71 @@ Prettier is an opinionated code formatter. https://prettier.io
 2. [Popmotion/popmotion](https://github.com/Popmotion/popmotion)<br/>
 Simple animation libraries for delightful user interfaces https://popmotion.io
 
-### <a href="#python">Python</a>
+#### [Blog](#blog)
 
-### <a href="#interesting">Interesting projects</a>
+### [Python](#python)
 
-### <a href="#tool">Tool</a>
-
-
-
-
-
-
-5. [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)<br/>
-Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
-
-6. [graphql/graphql-js](https://github.com/graphql/graphql-js)<br/>
-A reference implementation of GraphQL for JavaScript http://graphql.org/graphql-js/
-
-7. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
-一个基于Phaser的小游戏集合 http://www.phaser-china.com/
-
-8. [bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)<br/>
-基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
-
-9. [Ovilia/lipstick](https://github.com/Ovilia/lipstick)<br/>
-口红颜色可视化 - 为什么你的女神总缺一支口红 http://zhangwenli.com/lipstick/
-
-10. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
-👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-11. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
-基于express和koa的简单photo wall
-
-12. [guo-yu/koa-guide](https://github.com/guo-yu/koa-guide)<br/>
-koa guide in Chinese
-
-13. [timmy3131/design-resource](https://github.com/timmy3131/design-resource)<br/>
-A list of design resources.
-
-14. [phobal/ivideo](https://github.com/phobal/ivideo)<br/>
-一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
-
-15. [parro-it/awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages)<br/>
-A curated list of small, focused npm packages.
-
-16. [nieweidong/fetool](https://github.com/nieweidong/fetool)<br/>
-大前端的瑞士军刀，只记录有用的。
-
-17. [yiluxiangbei87110/vue-chat](https://github.com/yiluxiangbei87110/vue-chat)<br/>
-vue chat
-
-18. [wuzhiyi/guide-to-the-douban](https://github.com/wuzhiyi/guide-to-the-douban)<br/>
-豆瓣漫游指南
-
-19. [tianmingyun/MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN)<br/>
-《精通比特币》第二版 区块链研习社 云天明联合出品
-
-20. [jasonding1354/PRML_Notes](https://github.com/jasonding1354/PRML_Notes)<br/>
+1. [jasonding1354/PRML_Notes](https://github.com/jasonding1354/PRML_Notes)<br/>
 该项目是关于机器学习经典书籍《Pattern Recognition and Machine Learning》的学习笔记，我用python实现了书中的一些实例，希望帮助感兴趣的人更好的理解
 
-21. [mojs/mojs](https://github.com/mojs/mojs)<br/>
-The motion graphics toolbelt for the web
+### [Interesting projects](#interesting)
+
+1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
+一个基于Phaser的小游戏集合 http://www.phaser-china.com/
+
+2. [Ovilia/lipstick](https://github.com/Ovilia/lipstick)<br/>
+口红颜色可视化 - 为什么你的女神总缺一支口红 http://zhangwenli.com/lipstick/
+
+### [Tool](#tool)
+
+1. [timmy3131/design-resource](https://github.com/timmy3131/design-resource)<br/>
+A list of design resources.
+
+2. [phobal/ivideo](https://github.com/phobal/ivideo)<br/>
+一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform
+
+3. [wuzhiyi/guide-to-the-douban](https://github.com/wuzhiyi/guide-to-the-douban)<br/>
+豆瓣漫游指南
+
+4. [tianmingyun/MasterBitcoin2CN](https://github.com/tianmingyun/MasterBitcoin2CN)<br/>
+《精通比特币》第二版 区块链研习社 云天明联合出品
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 22. [Wscats/articles](https://github.com/Wscats/articles)<br/>
 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆 https://github.com/Wscats/articles
