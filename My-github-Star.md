@@ -8,13 +8,13 @@
   - <a href="#frame">Frame</a>
     - <a href="#vue">Vue</a>
     - <a href="#react">React</a>
-    - <a href="#Node">Node</a>
+    - <a href="#node">Node</a>
   - <a href="#modular">node_modular</a>
   - <a href="#infor">Periodical & Information</a>
   - <a href="#webTool">Web Tool</a>
   - <a href="blog">Blog</a>
 - <a href="#python">Python</a>
-- <a href="#interesting">Interesting projects</a>
+- <a href="#project">Interesting projects</a>
 - <a href="#tool">Tool</a>
 - <a href="#github">Github</a>
 
@@ -96,7 +96,7 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 2. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
 Python2.7教程
 
-### [Interesting projects](#interesting)
+### [Interesting projects](#project)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
 一个基于Phaser的小游戏集合 http://www.phaser-china.com/
