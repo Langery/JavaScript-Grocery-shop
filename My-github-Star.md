@@ -4,22 +4,22 @@
 
 ## Menu
 
-- [Web](#web)
+- <a href="#web">Web</a>
   - <a href="#frame">Frame</a>
     - <a href="#vue">Vue</a>
     - <a href="#react">React</a>
     - <a href="#node">Node</a>
-  - <a href="#modular">node_modular</a>
+  - <a href="#node_modular">node_modular</a>
   - <a href="#infor">Periodical & Information</a>
-  - <a href="#webTool">Web Tool</a>
+  - <a href="#web-tool">Web Tool</a>
   - <a href="blog">Blog</a>
 - <a href="#python">Python</a>
-- <a href="#project">Interesting projects</a>
+- <a href="#interesting-projects">Interesting projects</a>
 - <a href="#tool">Tool</a>
 - <a href="#github">Github</a>
 
 
-### <h2 href="#web">Web</h2>
+### [Web](#web)
 
 #### [Frame](#frame)
 
@@ -47,7 +47,7 @@ Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 2. [guo-yu/koa-guide](https://github.com/guo-yu/koa-guide)<br/>
 koa guide in Chinese
 
-#### [node_modular](#modular)
+#### [node_modular](#node_modular)
 
 1. [reduxjs/redux](https://github.com/reduxjs/redux)<br/>
 Predictable state container for JavaScript apps http://redux.js.org
@@ -78,7 +78,7 @@ The motion graphics toolbelt for the web
 4. [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)<br/>
 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 http://es6.ruanyifeng.com/
 
-#### [Web Tool](#webTool)
+#### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
 Prettier is an opinionated code formatter. https://prettier.io
@@ -96,7 +96,7 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 2. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
 Python2.7教程
 
-### [Interesting projects](#project)
+### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
 一个基于Phaser的小游戏集合 http://www.phaser-china.com/
