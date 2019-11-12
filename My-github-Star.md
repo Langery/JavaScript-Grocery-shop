@@ -10,9 +10,9 @@
     - <a href="#react">React</a>
     - <a href="#node">Node</a>
   - <a href="#node_modular">node_modular</a>
-  - <a href="#infor">Periodical & Information</a>
+  - <a href="#periodical-information">Periodical Information</a>
   - <a href="#web-tool">Web Tool</a>
-  - <a href="blog">Blog</a>
+  - <a href="#blog">Blog</a>
 - <a href="#python">Python</a>
 - <a href="#interesting-projects">Interesting projects</a>
 - <a href="#tool">Tool</a>
@@ -64,7 +64,7 @@ The motion graphics toolbelt for the web
 5. [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)<br/>
 🏆 Swiper component for @vuejs https://surmon-china.github.io/vue-aw…
 
-#### [Periodical & Information](#infor)
+#### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
