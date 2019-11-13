@@ -9,6 +9,7 @@
     - <a href="#vue">Vue</a>
     - <a href="#react">React</a>
     - <a href="#node">Node</a>
+    - <a href="wechat">Wechat</a>
   - <a href="#node_modular">node_modular</a>
   - <a href="#periodical-information">Periodical Information</a>
   - <a href="#web-tool">Web Tool</a>
@@ -31,6 +32,15 @@
 2. [yiluxiangbei87110/vue-chat](https://github.com/yiluxiangbei87110/vue-chat)<br/>
 vue chat
 
+3. [answershuto/learnVue](https://github.com/answershuto/learnVue)<br/>
+:octocat: Vue.js 源码解析 https://github.com/answershuto/learnVue
+
+4. [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)<br/>
+👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…
+
+5. [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)<br/>
+The Vue.js Framework https://nuxtjs.org
+
 ##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
@@ -39,6 +49,8 @@ Set up a modern web app by running one command. https://create-react-app.dev
 2. [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)<br/>
 Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
+3. [makeyourfashion/make-your-fashion-web-next](https://github.com/makeyourfashion/make-your-fashion-web-next)<br/>
+
 ##### [Node](#node)
 
 1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
@@ -46,6 +58,14 @@ Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
 2. [guo-yu/koa-guide](https://github.com/guo-yu/koa-guide)<br/>
 koa guide in Chinese
+
+3. [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)<br/>
+网易云音乐 Node.js API service https://binaryify.github.io/NeteaseCl…
+
+##### [Wechat](#wechat)
+
+1. [Tencent/westore](https://github.com/Tencent/westore)<br/>
+微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发 http://omijs.org
 
 #### [node_modular](#node_modular)
 
@@ -64,6 +84,15 @@ The motion graphics toolbelt for the web
 5. [surmon-china/vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)<br/>
 🏆 Swiper component for @vuejs https://surmon-china.github.io/vue-aw…
 
+6. [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)<br/>
+A datepicker for twitter bootstrap (@twbs)
+
+7. [juliangarnier/anime](https://github.com/juliangarnier/anime)<br/>
+JavaScript animation engine https://animejs.com
+
+8. [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js)<br/>
+♋️ Interactive Particle / Nest System With JavaScript and Canvas, no jQuery. https://git.hust.cc/canvas-nest.js
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -78,6 +107,27 @@ The motion graphics toolbelt for the web
 4. [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial)<br/>
 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。 http://es6.ruanyifeng.com/
 
+5. [https://github.com/14glwu/FEInterviewBox](https://github.com/14glwu/FEInterviewBox)<br/>
+这是一个前端面试盒子，侧重于JS代码，里面整理了一些有用的前端代码，包括剑指offer的JS版、JS设计模式、常见排序查找算法、《深入浅出Nodejs》、《JS高级程序设计》中的代码，希望大家春招、秋招求职有帮助。
+
+6. [justemit/coding-note](https://github.com/justemit/coding-note)<br/>
+Too young, too simple. Sometimes, naive.
+
+7. [yygmind/blog](https://github.com/yygmind/blog)<br/>
+我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ https://muyiy.cn/blog/
+
+8. [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)<br/>
+全面的Webpack教程《深入浅出Webpack》电子书 http://webpack.wuhaolin.cn
+
+9. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br/>
+📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+
+10. [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)<br/>
+📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
+
+11. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
+A book about functional programming in JavaScript.
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -88,6 +138,9 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 
 #### [Blog](#blog)
 
+1. [joeyguo/blog](https://github.com/joeyguo/blog)
+joeyguo's blog 请 Watch 或 Star https://github.com/joeyguo/blog
+
 ### [Python](#python)
 
 1. [jasonding1354/PRML_Notes](https://github.com/jasonding1354/PRML_Notes)<br/>
@@ -96,6 +149,15 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 2. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
 Python2.7教程
 
+3. [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br/>
+深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 https://github.com/scutan90/DeepLearn…
+
+4. [apachecn/AiLearning](https://github.com/apachecn/AiLearning)<br/>
+AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
+
+5. [google/dopamine](https://github.com/google/dopamine)<br/>
+Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
+
 ### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
@@ -103,6 +165,14 @@ Python2.7教程
 
 2. [Ovilia/lipstick](https://github.com/Ovilia/lipstick)<br/>
 口红颜色可视化 - 为什么你的女神总缺一支口红 http://zhangwenli.com/lipstick/
+
+3. [wong2/beijing_bus](https://github.com/wong2/beijing_bus)<br/>
+北京实时公交 for Python https://asciinema.org/a/14510
+
+4. [YixuanFranco/YourBoyfriend](https://github.com/YixuanFranco/YourBoyfriend)<br/>
+帮你做个男朋友.
+
+5. [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend)
 
 ### [Tool](#tool)
 
@@ -124,85 +194,18 @@ A list of design resources.
 6. [hoodiearon/w3-goto-world](https://github.com/hoodiearon/w3-goto-world)<br/>
 🍅冲出你的窗口，Git镜像、Clone 及AWS下载加速、FREE SS/SSR/VMESS、WireGuard配置分享、IPFS、暗网等其他资源存储库 https://hoodiearon.github.io/w3-goto-…
 
+7. [getlantern/download](https://github.com/getlantern/download)<br/>
+蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
+
+8. [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)<br/>
+OCD's Guide to Setting up Mac
+
+9. [lianzhengkun/PMP](https://github.com/lianzhengkun/PMP)<br/>
+PMP
+
 ### [Github](#github)
 
 ***
-
-28. [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker)<br/>
-A datepicker for twitter bootstrap (@twbs)
-
-29. [Tencent/westore](https://github.com/Tencent/westore)<br/>
-微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发 http://omijs.org
-
-30. [wong2/beijing_bus](https://github.com/wong2/beijing_bus)<br/>
-北京实时公交 for Python https://asciinema.org/a/14510
-
-31. [joeyguo/blog](https://github.com/joeyguo/blog)
-joeyguo's blog 请 Watch 或 Star https://github.com/joeyguo/blog
-
-32. [getlantern/download](https://github.com/getlantern/download)<br/>
-蓝灯Windows下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.exe 蓝灯安卓下载 https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.apk
-
-33. [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br/>
-深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 https://github.com/scutan90/DeepLearn…
-
-34. [https://github.com/14glwu/FEInterviewBox](https://github.com/14glwu/FEInterviewBox)<br/>
-这是一个前端面试盒子，侧重于JS代码，里面整理了一些有用的前端代码，包括剑指offer的JS版、JS设计模式、常见排序查找算法、《深入浅出Nodejs》、《JS高级程序设计》中的代码，希望大家春招、秋招求职有帮助。
-
-35. [juliangarnier/anime](https://github.com/juliangarnier/anime)<br/>
-JavaScript animation engine https://animejs.com
-
-36. [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac)<br/>
-OCD's Guide to Setting up Mac
-
-37. [YixuanFranco/YourBoyfriend](https://github.com/YixuanFranco/YourBoyfriend)<br/>
-帮你做个男朋友.
-
-38. [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend)
-
-39. [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js)<br/>
-♋️ Interactive Particle / Nest System With JavaScript and Canvas, no jQuery. https://git.hust.cc/canvas-nest.js
-
-40. [justemit/coding-note](https://github.com/justemit/coding-note)<br/>
-Too young, too simple. Sometimes, naive.
-
-41. [lianzhengkun/PMP](https://github.com/lianzhengkun/PMP)<br/>
-PMP
-
-42. [answershuto/learnVue](https://github.com/answershuto/learnVue)<br/>
-:octocat: Vue.js 源码解析 https://github.com/answershuto/learnVue
-
-43. [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)<br/>
-网易云音乐 Node.js API service https://binaryify.github.io/NeteaseCl…
-
-44. [apachecn/AiLearning](https://github.com/apachecn/AiLearning)<br/>
-AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
-
-45. [yygmind/blog](https://github.com/yygmind/blog)<br/>
-我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ https://muyiy.cn/blog/
-
-46. [gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)<br/>
-全面的Webpack教程《深入浅出Webpack》电子书 http://webpack.wuhaolin.cn
-
-47. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)<br/>
-📚 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
-
-48. [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)<br/>
-📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-
-49. [ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)<br/>
-👍 Vue.js 源码分析 https://ustbhuangyi.github.io/vue-ana…
-
-50. [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)<br/>
-The Vue.js Framework https://nuxtjs.org
-
-51. [makeyourfashion/make-your-fashion-web-next](https://github.com/makeyourfashion/make-your-fashion-web-next)<br/>
-
-52. [google/dopamine](https://github.com/google/dopamine)<br/>
-Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
-
-53. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
-A book about functional programming in JavaScript.
 
 54. [louzhedong/blog](https://github.com/louzhedong/blog)<br/>
 前端基础，深入以及算法数据结构记录
@@ -690,36 +693,70 @@ SHERlocked93 的个人博客 🤪
 215. [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)<br/>
 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
-216. []()<br/>
+216. [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured)<br/>
+每天给你推荐一个新奇，好玩，高品质的开源库，好文，观点或言论等。
 
-217. []()<br/>
+217. [KieSun/awesome-fe-study-source](https://github.com/KieSun/awesome-fe-study-source)<br/>
+:octocat: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！
 
-218. []()<br/>
+218. [ykfe/fe-dev-playbook](https://github.com/ykfe/fe-dev-playbook)<br/>
+打造舒适、高效、时尚的前端开发环境 http://fe.surge.sh/guide
 
-219. []()<br/>
+219. [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)<br/>
+pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 
-220. []()<br/>
+220. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br/>
+Master the command line, in one page
 
-221. []()<br/>
+221. [czyzby/bialjam17](https://github.com/czyzby/bialjam17)<br/>
+💫 The game that won the BialJam'17.
 
-222. []()<br/>
+222. [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)<br/>
+🇨🇳🎨Chinese traditional color cheatsheet online https://colors.ichuantong.cn/
 
-223. []()<br/>
+223. [alibaba/butterfly](https://github.com/alibaba/butterfly)<br/>
+🎉JavaScript Diagramming library which concentrate on flow layout canvas https://noonnightstorm.github.io
 
-224. []()<br/>
+224. [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo)<br/>
+Web 前端单元测试到底要怎么写？看这一篇就够了
 
-225. []()<br/>
+225. [dongyuanxin/blog](https://github.com/dongyuanxin/blog)<br/>
+📚 专注前端 https://xin-tan.com
 
-226. []()<br/>
+226. [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)<br/>
+📘《Python进阶》（Intermediate Python 中文版） http://interpy.eastlakeside.com
 
-227. []()<br/>
+227. [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)<br/>
+If you want to keep a secret, you must also hide it from yourself.
 
-228. []()<br/>
+228. [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)<br/>
+deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 
-229. []()<br/>
+229. [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br/>
+吴恩达老师的机器学习课程个人笔记
 
-230. []()<br/>
+230. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
+定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 
+231. []()<br/>
+
+232. []()<br/>
+
+233. []()<br/>
+
+234. []()<br/>
+
+235. []()<br/>
+
+236. []()<br/>
+
+237. []()<br/>
+
+238. []()<br/>
+
+239. []()<br/>
+
+240. []()<br/>
 
 
 
