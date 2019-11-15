@@ -41,6 +41,9 @@ vue chat
 5. [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)<br/>
 The Vue.js Framework https://nuxtjs.org
 
+6. [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer)<br/>
+🍰 Easy-to-use music player for Vue 2.x https://vue-aplayer.js.org
+
 ##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
@@ -50,6 +53,15 @@ Set up a modern web app by running one command. https://create-react-app.dev
 Build blazing fast, modern apps and websites with React https://www.gatsbyjs.org
 
 3. [makeyourfashion/make-your-fashion-web-next](https://github.com/makeyourfashion/make-your-fashion-web-next)<br/>
+
+4. [zeit/next.js](https://github.com/zeit/next.js)<br/>
+The React Framework https://nextjs.org
+
+5. [ant-design/ant-design](https://github.com/ant-design/ant-design)<br/>
+🌈 A UI Design Language and React UI library https://ant.design
+
+6. [ice-lab/react-materials](https://github.com/ice-lab/react-materials)<br/>
+🚗High quality and abundant React materials provided by the authorities. http://ice.work/scaffold
 
 ##### [Node](#node)
 
@@ -62,10 +74,16 @@ koa guide in Chinese
 3. [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)<br/>
 网易云音乐 Node.js API service https://binaryify.github.io/NeteaseCl…
 
+4. [ringcrl/node-point](https://github.com/ringcrl/node-point)<br/>
+从小点开始构建自己的 NodeJS 知识体系。
+
 ##### [Wechat](#wechat)
 
 1. [Tencent/westore](https://github.com/Tencent/westore)<br/>
 微信小程序解决方案 - 1KB javascript 覆盖状态管理、跨页通讯、插件开发和云数据库开发 http://omijs.org
+
+2. [Tencent/wepy](https://github.com/Tencent/wepy)<br/>
+小程序组件化开发框架 https://wepyjs.github.io/wepy-docs/
 
 #### [node_modular](#node_modular)
 
@@ -92,6 +110,12 @@ JavaScript animation engine https://animejs.com
 
 8. [hustcc/canvas-nest.js](https://github.com/hustcc/canvas-nest.js)<br/>
 ♋️ Interactive Particle / Nest System With JavaScript and Canvas, no jQuery. https://git.hust.cc/canvas-nest.js
+
+9. [axios/axios](https://github.com/axios/axios)<br/>
+Promise based HTTP client for the browser and node.js
+
+10. [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)<br/>
+📊 Interactive SVG Charts https://apexcharts.com
 
 #### [Periodical Information](#periodical-information)
 
@@ -128,6 +152,45 @@ Too young, too simple. Sometimes, naive.
 11. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
 A book about functional programming in JavaScript.
 
+12. [louzhedong/blog](https://github.com/louzhedong/blog)<br/>
+前端基础，深入以及算法数据结构记录
+
+13. [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)<br/>
+📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析 http://hcysun.me/vue-design/zh/
+
+14. [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)<br/>
+Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
+
+15. [xiaomuzhu/awesome-f2e-libs](https://github.com/xiaomuzhu/awesome-f2e-libs)<br/>
+🎉 整理我平时关注的前端库。
+
+16. [mtonhuang/blog](https://github.com/mtonhuang/blog)<br/>
+我是mtonhuang，这里是我关于前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ http://huangmiantong.cn/
+
+17. [atian25/blog](https://github.com/atian25/blog)<br/>
+天猪部落阁 http://atian25.github.io
+
+18. [ljianshu/Blog](https://github.com/ljianshu/Blog)<br/>
+关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
+
+19. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
+前端精读周刊
+
+20. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
+📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
+
+21. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)<br/>
+中文技术文档的写作规范
+
+22. [phodal/fde](https://github.com/phodal/fde)<br/>
+前端体系规划指南。Architecture of Frontend Development Efficiency https://fe.factor.ink/
+
+23. [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips)<br/>
+:trollface:Git的奇技淫巧
+
+24. [phodal/clean-frontend](https://github.com/phodal/clean-frontend)<br/>
+Clean Frontend Architecture：整洁前端架构 https://phodal.github.io/clean-frontend/
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -140,6 +203,15 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)
 joeyguo's blog 请 Watch 或 Star https://github.com/joeyguo/blog
+
+2. [xufei/blog](https://github.com/xufei/blog)<br/>
+my personal blog
+
+3. [cd-dongzi/BlogSource](https://github.com/cd-dongzi/BlogSource)<br/>
+个人博客源码
+
+4. [RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)<br/>
+优质的「独立中文博客」订阅列表
 
 ### [Python](#python)
 
@@ -158,6 +230,9 @@ AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - 
 5. [google/dopamine](https://github.com/google/dopamine)<br/>
 Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
 
+6. [youfou/wxpy](https://github.com/youfou/wxpy)<br/>
+微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
+
 ### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
@@ -173,6 +248,15 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 帮你做个男朋友.
 
 5. [YixuanFranco/yourGirlFriend](https://github.com/YixuanFranco/yourGirlFriend)
+
+6. [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo)<br/>
+An oreo generater. 一个奥利奥图片生成器。 https://ddiu8081.github.io/oreooo/
+
+7. [testerSunshine/12306](https://github.com/testerSunshine/12306)<br/>
+12306智能刷票，订票
+
+8. [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic)<br/>
+网易云音乐第三方
 
 ### [Tool](#tool)
 
@@ -203,105 +287,21 @@ OCD's Guide to Setting up Mac
 9. [lianzhengkun/PMP](https://github.com/lianzhengkun/PMP)<br/>
 PMP
 
+10. [pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)<br/>
+A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)
+
+11. [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)<br/>
+专为程序员编写的英语学习指南 v1.2。在线版本请点 -> https://a-programmers-guide-to-englis…
+
+12. [didi/chameleon](https://github.com/didi/chameleon)<br/>
+🦎 一套代码运行多端，一端所见即多端所见 https://CML.JS.org
+
+13. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)<br/>
+🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ https://zhaoolee.com/ChromeAppHeroes/
+
 ### [Github](#github)
 
 ***
-
-54. [louzhedong/blog](https://github.com/louzhedong/blog)<br/>
-前端基础，深入以及算法数据结构记录
-
-55. [zeit/next.js](https://github.com/zeit/next.js)<br/>
-The React Framework https://nextjs.org
-
-56. [xufei/blog](https://github.com/xufei/blog)<br/>
-my personal blog
-
-57. [pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)<br/>
-A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)
-
-58. [ddiu8081/oreooo](https://github.com/ddiu8081/oreooo)<br/>
-An oreo generater. 一个奥利奥图片生成器。 https://ddiu8081.github.io/oreooo/
-
-59. [testerSunshine/12306](https://github.com/testerSunshine/12306)<br/>
-12306智能刷票，订票
-
-60. [cd-dongzi/BlogSource](https://github.com/cd-dongzi/BlogSource)<br/>
-个人博客源码
-
-61. [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design)<br/>
-📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析 http://hcysun.me/vue-design/zh/
-
-62. [SevenOutman/vue-aplayer](https://github.com/SevenOutman/vue-aplayer)<br/>
-🍰 Easy-to-use music player for Vue 2.x https://vue-aplayer.js.org
-
-63. [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)<br/>
-专为程序员编写的英语学习指南 v1.2。在线版本请点 -> https://a-programmers-guide-to-englis…
-
-64. [didi/chameleon](https://github.com/didi/chameleon)<br/>
-🦎 一套代码运行多端，一端所见即多端所见 https://CML.JS.org
-
-65. [ringcrl/node-point](https://github.com/ringcrl/node-point)<br/>
-从小点开始构建自己的 NodeJS 知识体系。
-
-66. [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)<br/>
-Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
-
-67. [xiaomuzhu/awesome-f2e-libs](https://github.com/xiaomuzhu/awesome-f2e-libs)<br/>
-🎉 整理我平时关注的前端库。
-
-68. [Tencent/wepy](https://github.com/Tencent/wepy)<br/>
-小程序组件化开发框架 https://wepyjs.github.io/wepy-docs/
-
-69. [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic)<br/>
-网易云音乐第三方
-
-70. [mtonhuang/blog](https://github.com/mtonhuang/blog)<br/>
-我是mtonhuang，这里是我关于前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ http://huangmiantong.cn/
-
-71. [atian25/blog](https://github.com/atian25/blog)<br/>
-天猪部落阁 http://atian25.github.io
-
-72. [ljianshu/Blog](https://github.com/ljianshu/Blog)<br/>
-关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-
-73. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
-前端精读周刊
-
-74. [RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)<br/>
-优质的「独立中文博客」订阅列表
-
-75. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)<br/>
-🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ https://zhaoolee.com/ChromeAppHeroes/
-
-76. [axios/axios](https://github.com/axios/axios)<br/>
-Promise based HTTP client for the browser and node.js
-
-77. [ant-design/ant-design](https://github.com/ant-design/ant-design)<br/>
-🌈 A UI Design Language and React UI library https://ant.design
-
-78. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
-📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
-
-79. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)<br/>
-中文技术文档的写作规范
-
-80. [phodal/fde](https://github.com/phodal/fde)<br/>
-前端体系规划指南。Architecture of Frontend Development Efficiency https://fe.factor.ink/
-
-81. [ice-lab/react-materials](https://github.com/ice-lab/react-materials)<br/>
-🚗High quality and abundant React materials provided by the authorities. http://ice.work/scaffold
-
-82. [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)<br/>
-📊 Interactive SVG Charts https://apexcharts.com
-
-83. [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips)<br/>
-:trollface:Git的奇技淫巧
-
-84. [youfou/wxpy](https://github.com/youfou/wxpy)<br/>
-微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
-
-85. [phodal/clean-frontend](https://github.com/phodal/clean-frontend)<br/>
-Clean Frontend Architecture：整洁前端架构 https://phodal.github.io/clean-frontend/
 
 86. [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)<br/>
 每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
@@ -738,26 +738,241 @@ deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
 230. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 
-231. []()<br/>
+231. [cnlh/nps](https://github.com/cnlh/nps)<br/>
+一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
 
-232. []()<br/>
+232. [liuyuemaicha/cnn_model](https://github.com/liuyuemaicha/cnn_model)<br/>
 
-233. []()<br/>
+233. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
+东南大学《知识图谱》研究生课程
 
-234. []()<br/>
+234. [waynecz/dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx)<br/>
+🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步 https://chrome.google.com/webstore/de…
 
-235. []()<br/>
+235. [byteblogs168/hello-blog](https://github.com/byteblogs168/hello-blog)<br/>
+hello-blog 一个简单通用的前后分离的博客系统 后端代码 文档地址 http://helloblog.byteblogs.com/docs/
 
-236. []()<br/>
+236. [TalkingData/inmap](https://github.com/TalkingData/inmap)<br/>
+大数据地理可视化 http://inmap.talkingdata.com
 
-237. []()<br/>
+237. [viserjs/viser](https://github.com/viserjs/viser)<br/>
+viser is a toolkit fit for data vis engineer. https://viserjs.gitee.io/ https://viserjs.github.io
 
-238. []()<br/>
+238. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br/>
+All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/P…
 
-239. []()<br/>
+239. [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)<br/>
+Python 练习册，每天一个小程序
 
-240. []()<br/>
+240. [mp2930696631/d3.js-demo](https://github.com/mp2930696631/d3.js-demo)<br/>
+一些小的d3.js的demo，欢迎大家下载
 
+241. [greatghoul/remote-working](https://github.com/greatghoul/remote-working)<br/>
+收集整理远程工作相关的资料 https://github.com/greatghoul/remote-…
 
+242. [unbug/codelf](https://github.com/unbug/codelf)<br/>
+A search tool helps dev to solve the naming things problem. https://unbug.github.io/codelf/
+
+243. [apachecn/awesome-list](https://github.com/apachecn/awesome-list)<br/>
+awesome-list
+
+244. [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)<br/>
+🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+
+245. [juwikuang/machine_learning_step_by_step](https://github.com/juwikuang/machine_learning_step_by_step)<br/>
+machine_learning_step_by_step是一个python中文项目。在这个项目中，我会一步一步手写各种机器学习算法，并加以解释。.machine_learning_step_by_step is a python repo. I write machine learning algorithms step by step and explain each step. This is for education.
+
+246. [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br/>
+Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 https://deeplearning-ai.github.io/mac…
+
+247. [nem0/LumixEngine](https://github.com/nem0/LumixEngine)<br/>
+3D Game Engine
+
+248. [gothinkster/realworld](https://github.com/gothinkster/realworld)<br/>
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/
+
+249. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br/>
+Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+250. [996icu/996.ICU](https://github.com/996icu/996.ICU)<br/>
+Repo for counting stars and contributing. Press F to pay respect to glorious developers. https://996.icu
+
+251. [webpack/webpack](https://github.com/webpack/webpack)<br/>
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. https://webpack.js.org
+
+252. [pytorch/pytorch](https://github.com/pytorch/pytorch)<br/>
+Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org
+
+253. [roger-hiro/BlogFN](https://github.com/roger-hiro/BlogFN)<br/>
+前端劝退指南，公众号[前端劝退师]的作者
+
+254. [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)<br/>
+💎1MB lightweight face detection model (1MB轻量级人脸检测模型)
+
+255. [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo)<br/>
+一步一步介绍如何给项目添加单元测试
+
+256. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
+自我量化指南 https://ziwolianghua.com
+
+257. [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture)<br/>
+架构师技术图谱，助你早日成为架构师
+
+258. [wx-chevalier/Mathematics-Series](https://github.com/wx-chevalier/Mathematics-Series)<br/>
+📚 [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇
+
+259. [JacksonTian/fks](https://github.com/JacksonTian/fks)<br/>
+前端技能汇总 Frontend Knowledge Structure http://html5ify.com/fks/
+
+260. [hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)<br/>
+This is a favorites, with a mobile web tips.
+
+261. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
+本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
+262. [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV)<br/>
+基于Vue框架构建的github数据可视化平台 https://hongqingcao.github.io/GitDataV/
+
+263. [babel/babel](https://github.com/babel/babel)<br/>
+🐠 Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
+
+264. [eslint/eslint](https://github.com/eslint/eslint)<br/>
+A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+
+265. [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)<br/>
+中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
+
+266. [heyushuo/npm-package](https://github.com/heyushuo/npm-package)<br/>
+发布自己的vue组件到npm上
+
+267. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)<br/>
+翻墙-科学上网
+
+268. [ProtoTeam/blog](https://github.com/ProtoTeam/blog)<br/>
+蚂蚁数据体验技术团队的文章仓库 https://juejin.im/user/59659aff518825…
+
+269. [baidu/amis](https://github.com/baidu/amis)<br/>
+前端低代码框架 https://baidu.github.io/amis/
+
+270. [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain)<br/>
+区块链 - 中文资源 https://liuboyu.github.io/blockchain/
+
+271. [Cushychicken/cushychicken.github.io](https://github.com/Cushychicken/cushychicken.github.io)<br/>
+Nash Reilly's personal blog.
+
+272. [Stellarium/stellarium](https://github.com/Stellarium/stellarium)<br/>
+Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope. http://stellarium.org
+
+273. [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin)<br/>
+搜狗拼音输入法的几款极简风格皮肤
+
+274. [daihy8759/ieaseMusic](https://github.com/daihy8759/ieaseMusic)<br/>
+网易云音乐第三方🎵
+
+275. [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)<br/>
+中文独立博客列表 https://mailchi.mp/7585311373a3/indie…
+
+276. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)<br/>
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+277. [facebook/react](https://github.com/facebook/react)<br/>
+A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
+
+278. [frontend9/fe9-library](https://github.com/frontend9/fe9-library)<br/>
+九部知识库
+
+279. [rogerzhu/MNWeeklyCategory](https://github.com/rogerzhu/MNWeeklyCategory)<br/>
+码农周刊一周精选分类
+
+280. [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd)<br/>
+xkcd styled chart lib https://timqian.com/chart.xkcd/
+
+281. [pshihn/rough](https://github.com/pshihn/rough)<br/>
+Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com
+
+282. [nmxiaowei/avue](https://github.com/nmxiaowei/avue)<br/>
+Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 https://avuejs.com
+
+283. [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design)<br/>
+本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。 http://112.74.43.150/
+
+284. [fouber/blog](https://github.com/fouber/blog)<br/>
+没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+
+285. [sunoj/teaclub](https://github.com/sunoj/teaclub)<br/>
+茶友会 - 淘宝查券助手 https://chayouhui.net
+
+286. [overtrue/share.js](https://github.com/overtrue/share.js)<br/>
+一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等 http://overtrue.github.io/share.js/
+
+287. [1688fe/magazine](https://github.com/1688fe/magazine)<br/>
+CBU体验技术 - 前端开发者期刊
+
+288. [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)<br/>
+GoodThingList 就是好物清单，使用文档见 Issues https://github.com/cnfeat/GoodThingLi…
+
+289. [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br/>
+深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. http://www.ai101edu.com
+
+290. [sampotts/plyr](https://github.com/sampotts/plyr)<br/>
+A simple HTML5, YouTube and Vimeo player https://plyr.io
+
+291. [chenshenhai/pictool](https://github.com/chenshenhai/pictool)<br/>
+A front-end image processing gadget https://chenshenhai.github.io/pictool…
+
+292. [joye61/cl-utils](https://github.com/joye61/cl-utils)<br/>
+一个非主流但非常实用的UI仓库
+
+293. [margox/braft-editor](https://github.com/margox/braft-editor)<br/>
+美观易用的React富文本编辑器，基于draft-js开发 https://braft.margox.cn/
+
+294. [xiaoweiruby/Thirty-Guide](https://github.com/xiaoweiruby/Thirty-Guide)<br/>
+三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
+
+295. [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)<br/>
+2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
+296. [phodal/github](https://github.com/phodal/github)<br/>
+GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.phodal.com
+
+297. [sanyuan0704/frontend_daily_question](https://github.com/sanyuan0704/frontend_daily_question)<br/>
+前端每日一问，积累前端核心知识，全面进阶高级前端。 https://sanyuan0704.github.io/fronten…
+
+298. [egotong/nows](https://github.com/egotong/nows)<br/>
+毒鸡汤
+
+299. [metafizzy/zdog](https://github.com/metafizzy/zdog)<br/>
+Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog
+
+300. [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
+⛄️ Possibly the smallest compiler ever https://git.io/compiler
+
+301. [sizeofcat/civitas](https://github.com/sizeofcat/civitas)<br/>
+Civitas is an empire-building game written in Javascript with the help of the jQuery library. https://sizeof.cat/project/software/c…
+
+302. [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank)<br/>
+Github 中国和全球用户排名，全球仓库 Star 最多排名。 http://jaywcjlove.github.io/github-rank/
+
+303. [Dikea/ML-Weekly-Learning](https://github.com/Dikea/ML-Weekly-Learning)<br/>
+一群 ML 自学者的日常
+
+304. [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM)<br/>
+hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features, Mac only.
+
+305. [Haixiang6123/overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)<br/>
+A UI library of Overwatch, built with Vue.js https://haixiang6123.github.io/overwa…
+
+306. [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie)<br/>
+🎨 A ridiculously elegant Jekyll theme. https://www.amitmerchant.com/reverie/…
+
+307. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br/>
+The lazier way to manage everything docker
+
+308. [didi/mpx](https://github.com/didi/mpx)<br/>
+Mpx - An enhanced miniprogram framework with data reactivity and deep optimizition. https://didi.github.io/mpx
+
+309. []()<br/>
+
+310. []()<br/>
 
 

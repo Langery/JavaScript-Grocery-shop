@@ -9,7 +9,7 @@
 <body>
   <div id="box">
     <div id="timer"></div>
-    <button onClick="btTime()">开始服务</button>
+    <button onClick="btTime()">开始计时</button>
     <!-- <button onClick="stopTime()">结束服务</button> -->
   </div>
   <script type="text/javascript">
@@ -26,12 +26,12 @@
         case 0 :
           flag = 1;
           t1=setInterval(beginS,1000);
-          butt[0].innerHTML = '结束服务';
+          butt[0].innerHTML = '结束计时';
         break;
         case 1 :
           flag = 2;
           clearInterval(t1);
-          butt[0].innerHTML = '服务已暂停';
+          butt[0].innerHTML = '进程已暂停';
           return flag = 0
         break;
       }
