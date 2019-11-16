@@ -117,6 +117,9 @@ Promise based HTTP client for the browser and node.js
 10. [apexcharts/apexcharts.js](https://github.com/apexcharts/apexcharts.js)<br/>
 📊 Interactive SVG Charts https://apexcharts.com
 
+11. [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)<br/>
+A Web Audio framework for making interactive music in the browser. https://tonejs.github.io
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -191,6 +194,33 @@ Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
 24. [phodal/clean-frontend](https://github.com/phodal/clean-frontend)<br/>
 Clean Frontend Architecture：整洁前端架构 https://phodal.github.io/clean-frontend/
 
+25. [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)<br/>
+每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
+
+26. [aliyunfe/weekly](https://github.com/aliyunfe/weekly)<br/>
+《阿里云前端技术周刊》
+
+27. [guanguans/notes](https://github.com/guanguans/notes)<br/>
+📔 Linux、MySQL、Nginx、PHP、Git、Shell 等笔记 https://guanguans.github.io/notes
+
+28. [woai3c/recommended-books](https://github.com/woai3c/recommended-books)<br/>
+计算机经典书籍推荐 部分书籍提供PDF下载
+
+29. [fyuanfen/note](https://github.com/fyuanfen/note)<br/>
+前端学习资料合集（包含深入解读JS系列，React、Vue源码分析，前端算法解析，收集大厂面经，前端工程化最佳实践，经典图书分享，推荐好用的前端工具等等，内容不定期更新中。一边记录，一边学习，一边分享） http://www.zyy1217.com
+
+30. [wangzheng0822/algo](https://github.com/wangzheng0822/algo)<br/>
+数据结构和算法必知必会的50个代码实现
+
+31. [FEGuideTeam/FEGuide](https://github.com/FEGuideTeam/FEGuide)<br/>
+【前端面试题+前端学习+面试指南】 一份涵盖大部分前端工程师所需要掌握的核心知识。这个项目就是为了帮助那些找工作的前端开发工程师去回顾前端的基础知识，如果你不想找工作，也可以通过查看这些面试问题去巩固你的前端技能。 https://github.com/nanhupatar/FEGuide
+
+32. [haizlin/fe-interview](https://github.com/haizlin/fe-interview)<br/>
+前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
+
+33. [frontend9/fe9-interview](https://github.com/frontend9/fe9-interview)<br/>
+前端九部 - 面试题库
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -198,6 +228,9 @@ Prettier is an opinionated code formatter. https://prettier.io
 
 2. [Popmotion/popmotion](https://github.com/Popmotion/popmotion)<br/>
 Simple animation libraries for delightful user interfaces https://popmotion.io
+
+3. [saberland/saber](https://github.com/saberland/saber)<br/>
+()==[:::::::::::::> Build static sites in Vue.js, without the hassle https://saber.land
 
 #### [Blog](#blog)
 
@@ -233,6 +266,9 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 6. [youfou/wxpy](https://github.com/youfou/wxpy)<br/>
 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
 
+7. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br/>
+Python - 100天从新手到大师
+
 ### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
@@ -257,6 +293,12 @@ An oreo generater. 一个奥利奥图片生成器。 https://ddiu8081.github.io/
 
 8. [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic)<br/>
 网易云音乐第三方
+
+9. [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano)<br/>
+自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online
+
+10. [CMajorRocks/zhoujielun.me](https://github.com/CMajorRocks/zhoujielun.me)<br/>
+Hello大家好，我是周杰伦。 http://zhoujielun.me
 
 ### [Tool](#tool)
 
@@ -299,57 +341,15 @@ A powerful and easy to use category view (segmentedcontrol, segmentview, pagingv
 13. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)<br/>
 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ https://zhaoolee.com/ChromeAppHeroes/
 
+14. [Louiszhai/tool](https://github.com/Louiszhai/tool)<br/>
+开发效率提升：Mac生产力工具链推荐
+
+15. [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo)<br/>
+VSCode插件开发全攻略配套demo
+
 ### [Github](#github)
 
 ***
-
-86. [airuikun/Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)<br/>
-每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。
-
-87. [aliyunfe/weekly](https://github.com/aliyunfe/weekly)<br/>
-《阿里云前端技术周刊》
-
-88. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br/>
-Python - 100天从新手到大师
-
-89. [guanguans/notes](https://github.com/guanguans/notes)<br/>
-📔 Linux、MySQL、Nginx、PHP、Git、Shell 等笔记 https://guanguans.github.io/notes
-
-90. [woai3c/recommended-books](https://github.com/woai3c/recommended-books)<br/>
-计算机经典书籍推荐 部分书籍提供PDF下载
-
-91. [Louiszhai/tool](https://github.com/Louiszhai/tool)<br/>
-开发效率提升：Mac生产力工具链推荐
-
-92. [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo)<br/>
-VSCode插件开发全攻略配套demo
-
-93. [fyuanfen/note](https://github.com/fyuanfen/note)<br/>
-前端学习资料合集（包含深入解读JS系列，React、Vue源码分析，前端算法解析，收集大厂面经，前端工程化最佳实践，经典图书分享，推荐好用的前端工具等等，内容不定期更新中。一边记录，一边学习，一边分享） http://www.zyy1217.com
-
-94. [wangzheng0822/algo](https://github.com/wangzheng0822/algo)<br/>
-数据结构和算法必知必会的50个代码实现
-
-95. [FEGuideTeam/FEGuide](https://github.com/FEGuideTeam/FEGuide)<br/>
-【前端面试题+前端学习+面试指南】 一份涵盖大部分前端工程师所需要掌握的核心知识。这个项目就是为了帮助那些找工作的前端开发工程师去回顾前端的基础知识，如果你不想找工作，也可以通过查看这些面试问题去巩固你的前端技能。 https://github.com/nanhupatar/FEGuide
-
-96. [haizlin/fe-interview](https://github.com/haizlin/fe-interview)<br/>
-前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-
-97. [WarpPrism/AutoPiano](https://github.com/WarpPrism/AutoPiano)<br/>
-自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn ) Simple & Elegant Piano Online
-
-98. [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)<br/>
-A Web Audio framework for making interactive music in the browser. https://tonejs.github.io
-
-99. [saberland/saber](https://github.com/saberland/saber)<br/>
-()==[:::::::::::::> Build static sites in Vue.js, without the hassle https://saber.land
-
-100. [frontend9/fe9-interview](https://github.com/frontend9/fe9-interview)<br/>
-前端九部 - 面试题库
-
-101. [CMajorRocks/zhoujielun.me](https://github.com/CMajorRocks/zhoujielun.me)<br/>
-Hello大家好，我是周杰伦。 http://zhoujielun.me
 
 102. [jdneo/vscode-leetcode](https://github.com/jdneo/vscode-leetcode)<br/>
 Solve LeetCode problems in VS Code https://marketplace.visualstudio.com/…
@@ -971,8 +971,6 @@ The lazier way to manage everything docker
 308. [didi/mpx](https://github.com/didi/mpx)<br/>
 Mpx - An enhanced miniprogram framework with data reactivity and deep optimizition. https://didi.github.io/mpx
 
-309. []()<br/>
-
-310. []()<br/>
-
+309. [airingursb/frontend-reading-list](https://github.com/airingursb/frontend-reading-list)<br/>
+📕 前端知识库阅读清单 http://ursb.me/frontend-reading-list/
 
