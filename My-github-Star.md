@@ -974,3 +974,28 @@ Mpx - An enhanced miniprogram framework with data reactivity and deep optimiziti
 309. [airingursb/frontend-reading-list](https://github.com/airingursb/frontend-reading-list)<br/>
 📕 前端知识库阅读清单 http://ursb.me/frontend-reading-list/
 
+310. [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive)<br/>
+☁️ 哔哩哔哩云，支持任意文件的全速上传与下载
+
+311. [1c7/Crash-Course-AI-Chinese](https://github.com/1c7/Crash-Course-AI-Chinese)<br/>
+🤖 人工智能速成课 | Crash Course 字幕组 - 更新中4/15 https://www.bilibili.com/video/av7582…
+
+312. [yujiangshui/geektime-math-for-programmers](https://github.com/yujiangshui/geektime-math-for-programmers)<br/>
+极客时间《程序员的数学基础课》配套非官方 repo。
+
+313. [b3log/awesome-solo](https://github.com/b3log/awesome-solo)<br/>
+🎸 展示大家漂亮的 Solo 博客！目前已收录 154 个站点 📈
+
+314. []()<br/>
+
+315. []()<br/>
+
+316. []()<br/>
+
+317. []()<br/>
+
+318. []()<br/>
+
+319. []()<br/>
+
+320. []()<br/>
