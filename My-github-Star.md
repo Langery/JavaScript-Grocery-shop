@@ -986,16 +986,41 @@ Mpx - An enhanced miniprogram framework with data reactivity and deep optimiziti
 313. [b3log/awesome-solo](https://github.com/b3log/awesome-solo)<br/>
 🎸 展示大家漂亮的 Solo 博客！目前已收录 154 个站点 📈
 
-314. []()<br/>
+314. [obiwankenoobi/chart.xkcd-react](https://github.com/obiwankenoobi/chart.xkcd-react)<br/>
+React wrapper around chart.xkcd
 
-315. []()<br/>
+315. [xluos/demo](https://github.com/xluos/demo)<br/>
+平时学习练习的一些小Demo的仓库
 
-316. []()<br/>
+316. [Viola-Siemens/-CV-](https://github.com/Viola-Siemens/-CV-)<br/>
+这个项目保存了我的知乎专栏“人工智能图像识别技术与计算机视觉(CV)”的所有程序源代码及杂项文件。 This project contains all source code and some other files in my Zhihu column "The Technology of Pattern Recognizing in Artificial Intelligence and Computer Vision (CV)". このプロジェクトは僕の知乎コラム「人工知能画像認識技術とコンピュータ視覚（CV）」のプログラムソースコードと雑種ファイルを全部保存しました。 Link: https://zhuanlan.zhihu.com/ComputerVision
 
-317. []()<br/>
+317. [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)<br/>
+数据科学的笔记以及资料搜集
 
-318. []()<br/>
+318. [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic)<br/>
+#前端黑魔法# 整理
 
 319. []()<br/>
 
 320. []()<br/>
+
+321. []()<br/>
+
+322. []()<br/>
+
+323. []()<br/>
+
+324. []()<br/>
+
+325. []()<br/>
+
+326. []()<br/>
+
+327. []()<br/>
+
+328. []()<br/>
+
+329. []()<br/>
+
+330. []()<br/>
