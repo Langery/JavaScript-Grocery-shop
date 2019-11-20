@@ -126,6 +126,18 @@ Promise based HTTP client for the browser and node.js
 11. [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)<br/>
 A Web Audio framework for making interactive music in the browser. https://tonejs.github.io
 
+12. [d3/d3](https://github.com/d3/d3)<br/>
+Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org
+
+13. [ajaxorg/ace](https://github.com/ajaxorg/ace)<br/>
+Ace (Ajax.org Cloud9 Editor) https://ace.c9.io
+
+14. [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br/>
+Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+
+15. [mrdoob/three.js](https://github.com/mrdoob/three.js)<br/>
+JavaScript 3D library. https://threejs.org/
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -235,6 +247,12 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 
 36. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)<br/>
 📚 经典技术书籍推荐，持续更新...
+
+37. [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)<br/>
+程序员技能图谱 https://github.com/TeamStuQ/skill-map
+
+38. [SFLAQiu/web-develop](https://github.com/SFLAQiu/web-develop)<br/>
+🌱《大话WEB开发》WEB开发相关经验总结分享 http://blog.thankbabe.com
 
 #### [Web Tool](#web-tool)
 
@@ -371,36 +389,18 @@ Solve LeetCode problems in VS Code https://marketplace.visualstudio.com/…
 17. [marktext/marktext](https://github.com/marktext/marktext)<br/>
 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. https://marktext.app
 
-107. [trazyn/weweChat](https://github.com/trazyn/weweChat)<br/>
+18. [trazyn/weweChat](https://github.com/trazyn/weweChat)<br/>
 💬 Unofficial WeChat client built with React, MobX and Electron.
+
+19. [tabixio/tabix](https://github.com/tabixio/tabix)<br/>
+Tabix.io UI https://tabix.io
+
+20. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br/>
+ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 
 ### [Github](#github)
 
 ***
-
-111. [d3/d3](https://github.com/d3/d3)<br/>
-Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org
-
-112. [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)<br/>
-程序员技能图谱 https://github.com/TeamStuQ/skill-map
-
-113. [tabixio/tabix](https://github.com/tabixio/tabix)<br/>
-Tabix.io UI https://tabix.io
-
-114. [ajaxorg/ace](https://github.com/ajaxorg/ace)<br/>
-Ace (Ajax.org Cloud9 Editor) https://ace.c9.io
-
-115. [SFLAQiu/web-develop](https://github.com/SFLAQiu/web-develop)<br/>
-🌱《大话WEB开发》WEB开发相关经验总结分享 http://blog.thankbabe.com
-
-116. [airbnb/lottie-web](https://github.com/airbnb/lottie-web)<br/>
-Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-
-117. [mrdoob/three.js](https://github.com/mrdoob/three.js)<br/>
-JavaScript 3D library. https://threejs.org/
-
-118. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br/>
-ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 
 119. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
 📚 Freely available programming books https://ebookfoundation.github.io/fre…
