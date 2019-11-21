@@ -7,7 +7,7 @@ It is about some interesting website.About the color.
 - [Materialuicolors](http://materialuicolors.co/)
 - [Color Hex](http://www.colorhexa.com/)
 - [中国色](http://zhongguose.com/)
-- [日本色](http://nipponcolors.com/)
+- ~~[日本色](http://nipponcolors.com/)~~
 - [LOL Color](https://www.webdesignrankings.com/resources/lolcolors/)
 - [Color Hunt](http://colorhunt.co/)
 - [Adobe Color CC](https://color.adobe.com/zh/create/color-wheel/)

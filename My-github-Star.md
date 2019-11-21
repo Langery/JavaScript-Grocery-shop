@@ -17,7 +17,7 @@
 - <a href="#python">Python</a>
 - <a href="#interesting-projects">Interesting projects</a>
 - <a href="#tool">Tool</a>
-- <a href="#github">Github</a>
+- <a href="#book">Book</a>
 
 
 ### [Web](#web)
@@ -138,6 +138,12 @@ Render After Effects animations natively on Web, Android and iOS, and React Nati
 15. [mrdoob/three.js](https://github.com/mrdoob/three.js)<br/>
 JavaScript 3D library. https://threejs.org/
 
+16. [luffyZh/dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme)<br/>
+🌈 A simple plugin to dynamic change ant-design theme whether less or css. https://dynamic-antd-theme.luffyzh.no…
+
+17. [thlorenz/brace](https://github.com/thlorenz/brace)<br/>
+📔 browserify compatible version of the ace editor. http://thlorenz.github.io/brace/
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -254,6 +260,9 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 38. [SFLAQiu/web-develop](https://github.com/SFLAQiu/web-develop)<br/>
 🌱《大话WEB开发》WEB开发相关经验总结分享 http://blog.thankbabe.com
 
+39. [lizhenghn123/StudyBooks](https://github.com/lizhenghn123/StudyBooks)<br/>
+我的学习资料，包括书籍、网址等
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -336,6 +345,15 @@ Hello大家好，我是周杰伦。 http://zhoujielun.me
 11. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)<br/>
 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 http://shici.store
 
+12. [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat)<br/>
+微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
+
+13. [LampScript/qdaily_backup](https://github.com/LampScript/qdaily_backup)<br/>
+好奇心日报备份计划 本项目启动于好奇心日报因喝茶后被停更3个月，万一关门好文章无法再重新检索，所以在 github 上做备份，供大家参阅。 https://www.qdaily.com/
+
+14. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)<br/>
+:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 https://hellogithub.com
+
 ### [Tool](#tool)
 
 1. [timmy3131/design-resource](https://github.com/timmy3131/design-resource)<br/>
@@ -398,33 +416,15 @@ Tabix.io UI https://tabix.io
 20. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br/>
 ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 
-### [Github](#github)
+### [Book](#book)
 
-***
-
-119. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
+1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
 📚 Freely available programming books https://ebookfoundation.github.io/fre…
 
-120. [lizhenghn123/StudyBooks](https://github.com/lizhenghn123/StudyBooks)<br/>
-我的学习资料，包括书籍、网址等
-
-121. [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat)<br/>
-微信助手：1.每日定时给好友（女友）发送定制消息。2.机器人自动回复好友。3.群助手功能（例如：查询垃圾分类、天气、日历、电影实时票房、快递物流、PM2.5等）
-
-122. [luffyZh/dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme)<br/>
-🌈 A simple plugin to dynamic change ant-design theme whether less or css. https://dynamic-antd-theme.luffyzh.no…
-
-123. [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
+2. [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。 https://sort.hust.cc/
 
-124. [LampScript/qdaily_backup](https://github.com/LampScript/qdaily_backup)<br/>
-好奇心日报备份计划 本项目启动于好奇心日报因喝茶后被停更3个月，万一关门好文章无法再重新检索，所以在 github 上做备份，供大家参阅。 https://www.qdaily.com/
-
-125. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)<br/>
-:octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 https://hellogithub.com
-
-126. [thlorenz/brace](https://github.com/thlorenz/brace)<br/>
-📔 browserify compatible version of the ace editor. http://thlorenz.github.io/brace/
+***
 
 127. [ElemeFE/element](https://github.com/ElemeFE/element)<br/>
 A Vue.js 2.0 UI Toolkit for Web https://element.eleme.io/
