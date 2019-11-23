@@ -1019,14 +1019,41 @@ Expressive middleware for node.js using ES2017 async functions https://koajs.com
 324. [pallets/flask](https://github.com/pallets/flask)<br/>
 The Python micro framework for building web applications. https://palletsprojects.com/p/flask/
 
-325. []()<br/>
+325. [fex-team/kityminder](https://github.com/fex-team/kityminder)<br/>
+百度脑图 http://naotu.baidu.com
 
-326. []()<br/>
+326. [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman)<br/>
+👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥 https://postwoman.io
 
-327. []()<br/>
+327. [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager)<br/>
+RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
 
-328. []()<br/>
+328. [cube-js/cube.js](https://github.com/cube-js/cube.js)<br/>
+📊 Cube.js - Open Source Analytics Framework https://cube.dev
 
-329. []()<br/>
+329. [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)<br/>
+👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
 
-330. []()<br/>
+330. [zce/douban-api-docs](https://github.com/zce/douban-api-docs)<br/>
+豆瓣 API 文档 https://douban-api-docs.zce.me
+
+331. [0xHJK/music-dl](https://github.com/0xHJK/music-dl)<br/>
+search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
+
+332. []()<br/>
+
+333. []()<br/>
+
+334. []()<br/>
+
+335. []()<br/>
+
+336. []()<br/>
+
+337. []()<br/>
+
+338. []()<br/>
+
+339. []()<br/>
+
+340. []()<br/>
