@@ -1040,13 +1040,17 @@ RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也�
 331. [0xHJK/music-dl](https://github.com/0xHJK/music-dl)<br/>
 search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
 
-332. []()<br/>
+332. [beizhedenglong/rough-charts](https://github.com/beizhedenglong/rough-charts)<br/>
+📈 A responsive, composable react charting library with a hand-drawn style. https://beizhedenglong.github.io/roug…
 
-333. []()<br/>
+333. [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io)<br/>
+Thorough analytics for your GitHub repos https://repo-analytics.github.io
 
-334. []()<br/>
+334. [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019)<br/>
+https://bruno-simon.com/
 
-335. []()<br/>
+335. [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming)<br/>
+A curated list for when naming things is done right.
 
 336. []()<br/>
 
