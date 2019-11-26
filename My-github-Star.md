@@ -1052,12 +1052,43 @@ https://bruno-simon.com/
 335. [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming)<br/>
 A curated list for when naming things is done right.
 
-336. []()<br/>
+336. [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel)<br/>
+📦🚀 Blazing fast, zero configuration web application bundler https://parceljs.org
 
-337. []()<br/>
+337. [program-in-chinese/overview](https://github.com/program-in-chinese/overview)<br/>
+中文编程的历史, 现状和展望. issue中进行中文编程普遍问题的讨论.
 
-338. []()<br/>
+338. [suguangwen/neky-err](https://github.com/suguangwen/neky-err)<br/>
+前端异常捕捉/Front end anomaly capture.
 
-339. []()<br/>
+339. [FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner)<br/>
+NLP上手教程
 
-340. []()<br/>
+340. [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer)<br/>
+🏹 A smart and modern theme for Hexo. http://fi3ework.github.io/archer-demo
+
+341. [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next)<br/>
+Elegant and powerful theme for Hexo. https://theme-next.org
+
+342. [ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)<br/>
+本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。 http://tangshusen.me/Dive-into-DL-PyT…
+
+343. [Tencent/WeFlow](https://github.com/Tencent/WeFlow)<br/>
+A web developer workflow tool by WeChat team based on tmt-workflow, with cross-platform supported and environment ready. https://weflow.io/
+
+344. [ykfe/egg-react-ssr](https://github.com/ykfe/egg-react-ssr)<br/>
+最小而美的Egg + React + SSR 服务端渲染应用骨架，同时支持JS和TS http://ykfe.net
+
+345. [ngryman/reading-time](https://github.com/ngryman/reading-time)<br/>
+📚 Medium's like reading time estimation. https://ngryman.sh
+
+346. [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<br/>
+一个轻量的工具集合 http://tools.miku.ac
+
+347. []()<br/>
+
+348. []()<br/>
+
+349. []()<br/>
+
+350. []()<br/>
