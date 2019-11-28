@@ -72,6 +72,12 @@ The React Framework https://nextjs.org
 7. [KieSun/react-interpretation](https://github.com/KieSun/react-interpretation)<br/>
 React 源码解析 https://yuchengkai.cn/react/
 
+8. [NervJS/taro](https://github.com/NervJS/taro)<br/>
+多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/ https://taro-docs.jd.com/
+
+9. [mpw0311/antd-umi-sys](https://github.com/mpw0311/antd-umi-sys)<br/>
+企业BI系统，数据可视化平台，主要技术：react、antd、umi、dva、es6、less等，与君共勉，互相学习，如果喜欢请start ⭐。
+
 ##### [Node](#node)
 
 1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
@@ -146,6 +152,15 @@ JavaScript 3D library. https://threejs.org/
 
 17. [thlorenz/brace](https://github.com/thlorenz/brace)<br/>
 📔 browserify compatible version of the ace editor. http://thlorenz.github.io/brace/
+
+18. [d3/d3-force](https://github.com/d3/d3-force)<br/>
+Force-directed graph layout using velocity Verlet integration. https://observablehq.com/collection/@…
+
+19. [d3/d3-quadtree](https://github.com/d3/d3-quadtree)<br/>
+Two-dimensional recursive spatial subdivision. https://observablehq.com/collection/@…
+
+20. [upphiminn/d3.ForceBundle](https://github.com/upphiminn/d3.ForceBundle)<br/>
+Force Directed Edge Bundling (FDEB) in Javascript; d3.js ready. (https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf)
 
 #### [Periodical Information](#periodical-information)
 
@@ -265,6 +280,9 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 
 39. [lizhenghn123/StudyBooks](https://github.com/lizhenghn123/StudyBooks)<br/>
 我的学习资料，包括书籍、网址等
+
+40. [overnote/over-front-end](https://github.com/overnote/over-front-end)<br/>
+大前端笔记：[进度40%]记录JavaScript、Node.js、Vue、React、Flutter、Electron等
 
 #### [Web Tool](#web-tool)
 
@@ -419,6 +437,12 @@ Tabix.io UI https://tabix.io
 20. [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)<br/>
 ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 
+21. [momosecurity/aswan](https://github.com/momosecurity/aswan)<br/>
+陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+
+22. [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun)<br/>
+🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -427,34 +451,10 @@ ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 2. [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。 https://sort.hust.cc/
 
-***
-
-128. [NervJS/taro](https://github.com/NervJS/taro)<br/>
-多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序、快应用、H5、React Native 等的应用。 https://taro.jd.com/ https://taro-docs.jd.com/
-
-129. [Fabsqrt/BitTigerLab](https://github.com/Fabsqrt/BitTigerLab)<br/>
+3. [Fabsqrt/BitTigerLab](https://github.com/Fabsqrt/BitTigerLab)<br/>
 沁原的硅谷创新课
 
-130. [mpw0311/antd-umi-sys](https://github.com/mpw0311/antd-umi-sys)<br/>
-企业BI系统，数据可视化平台，主要技术：react、antd、umi、dva、es6、less等，与君共勉，互相学习，如果喜欢请start ⭐。
-
-131. [overnote/over-front-end](https://github.com/overnote/over-front-end)<br/>
-大前端笔记：[进度40%]记录JavaScript、Node.js、Vue、React、Flutter、Electron等
-
-132. [momosecurity/aswan](https://github.com/momosecurity/aswan)<br/>
-陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
-
-133. [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun)<br/>
-🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
-
-134. [d3/d3-force](https://github.com/d3/d3-force)<br/>
-Force-directed graph layout using velocity Verlet integration. https://observablehq.com/collection/@…
-
-135. [d3/d3-quadtree](https://github.com/d3/d3-quadtree)<br/>
-Two-dimensional recursive spatial subdivision. https://observablehq.com/collection/@…
-
-136. [upphiminn/d3.ForceBundle](https://github.com/upphiminn/d3.ForceBundle)<br/>
-Force Directed Edge Bundling (FDEB) in Javascript; d3.js ready. (https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf)
+***
 
 137. [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)<br/>
 🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ https://zhaoolee.com/ChineseBQB/
@@ -1092,3 +1092,23 @@ A web developer workflow tool by WeChat team based on tmt-workflow, with cross-p
 349. []()<br/>
 
 350. []()<br/>
+
+351. []()<br/>
+
+352. []()<br/>
+
+353. []()<br/>
+
+354. []()<br/>
+
+355. []()<br/>
+
+356. []()<br/>
+
+357. []()<br/>
+
+358. []()<br/>
+
+359. []()<br/>
+
+360. []()<br/>
