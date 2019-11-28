@@ -1085,25 +1085,35 @@ A web developer workflow tool by WeChat team based on tmt-workflow, with cross-p
 346. [Ice-Hazymoon/MikuTools](https://github.com/Ice-Hazymoon/MikuTools)<br/>
 一个轻量的工具集合 http://tools.miku.ac
 
-347. []()<br/>
+347. [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)<br/>
+📋 React hooks for forms validation without the hassle. https://react-hook-form.com
 
-348. []()<br/>
+348. [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action)<br/>
+:octocat: 🚀 GitHub action for deploying a project to GitHub pages. https://github.com/marketplace/action…
 
-349. []()<br/>
+349. [ataola/ataolaSkillsStack](https://github.com/ataola/ataolaSkillsStack)<br/>
+阿涛啦的成长技术栈（开源部分）
 
-350. []()<br/>
+350. [nashaofu/dingtalk](https://github.com/nashaofu/dingtalk)<br/>
+钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
 
-351. []()<br/>
+351. [yisainan/web-interview](https://github.com/yisainan/web-interview)<br/>
+我是「齐丶先丶森」，公众号「前端面试秘籍」作者，收集整理全网面试题及面试技巧，旨在帮助前端工程师们找到一份好工作！
 
-352. []()<br/>
+352. [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy)<br/>
+The minimal javascript library to create flowcharts ✨
 
-353. []()<br/>
+353. [any86/any-rule](https://github.com/any86/any-rule)<br/>
+🍨 常用正则大全, 支持web / vscode插件2种查询方式. https://any86.github.io/any-rule/
 
-354. []()<br/>
+354. [xiaohesong/TIL](https://github.com/xiaohesong/TIL)<br/>
+本库记录每日所学，README是一些链接；学习是自己的事。 http://t.cn/EP1BKKb
 
-355. []()<br/>
+355. [ant-mini-program/mini-chart](https://github.com/ant-mini-program/mini-chart)<br/>
+小程序图表库
 
-356. []()<br/>
+356. [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)<br/>
+微信小程序开发资源汇总 💯
 
 357. []()<br/>
 
