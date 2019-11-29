@@ -162,6 +162,9 @@ Two-dimensional recursive spatial subdivision. https://observablehq.com/collecti
 20. [upphiminn/d3.ForceBundle](https://github.com/upphiminn/d3.ForceBundle)<br/>
 Force Directed Edge Bundling (FDEB) in Javascript; d3.js ready. (https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf)
 
+21. [chartjs/Chart.js](https://github.com/chartjs/Chart.js)<br/>
+Simple HTML5 Charts using the `<canvas>` tag https://www.chartjs.org/
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -284,6 +287,9 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 40. [overnote/over-front-end](https://github.com/overnote/over-front-end)<br/>
 大前端笔记：[进度40%]记录JavaScript、Node.js、Vue、React、Flutter、Electron等
 
+41. [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
+我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 https://muyiy.cn/question/
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -332,6 +338,9 @@ Dopamine is a research framework for fast prototyping of reinforcement learning 
 7. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br/>
 Python - 100天从新手到大师
 
+8. [echohandsome/Machine_Learning_in_Action_for_smallwhite](https://github.com/echohandsome/Machine_Learning_in_Action_for_smallwhite)<br/>
+面向机器学习初学者的最全注释版本的机器学习实战的代码
+
 ### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
@@ -374,6 +383,9 @@ Hello大家好，我是周杰伦。 http://zhoujielun.me
 
 14. [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)<br/>
 :octocat: Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目 https://hellogithub.com
+
+15. [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)<br/>
+🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ https://zhaoolee.com/ChineseBQB/
 
 ### [Tool](#tool)
 
@@ -455,18 +467,6 @@ ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 沁原的硅谷创新课
 
 ***
-
-137. [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB)<br/>
-🇨🇳Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~ https://zhaoolee.com/ChineseBQB/
-
-138. [chartjs/Chart.js](https://github.com/chartjs/Chart.js)<br/>
-Simple HTML5 Charts using the `<canvas>` tag https://www.chartjs.org/
-
-139. [echohandsome/Machine_Learning_in_Action_for_smallwhite](https://github.com/echohandsome/Machine_Learning_in_Action_for_smallwhite)<br/>
-面向机器学习初学者的最全注释版本的机器学习实战的代码
-
-140. [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
-我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 https://muyiy.cn/question/
 
 141. [jfarid27/Treemap-Graph-D3](https://github.com/jfarid27/Treemap-Graph-D3)<br/>
 A tool to turn graphs into treemap layout graphs.
