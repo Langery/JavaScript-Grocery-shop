@@ -165,6 +165,9 @@ Force Directed Edge Bundling (FDEB) in Javascript; d3.js ready. (https://www.win
 21. [chartjs/Chart.js](https://github.com/chartjs/Chart.js)<br/>
 Simple HTML5 Charts using the `<canvas>` tag https://www.chartjs.org/
 
+22. [jfarid27/Treemap-Graph-D3](https://github.com/jfarid27/Treemap-Graph-D3)<br/>
+A tool to turn graphs into treemap layout graphs.
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -289,6 +292,18 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 
 41. [Advanced-Frontend/Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 https://muyiy.cn/question/
+
+42. [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing)<br/>
+独立开发者赚钱经验分享
+
+43. [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)<br/>
+☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~ https://zhaoolee.com/StarsAndClown/
+
+44. [ruanyf/jstraining](https://github.com/ruanyf/jstraining)<br/>
+全栈工程师培训材料
+
+45. [ZengLingYong/Blog](https://github.com/ZengLingYong/Blog)<br/>
+我是以乐之名，进击中折腾的前端攻城狮。 http://wuliv.com
 
 #### [Web Tool](#web-tool)
 
@@ -455,6 +470,18 @@ ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 22. [syhyz1990/baiduyun](https://github.com/syhyz1990/baiduyun)<br/>
 🖖油猴脚本 一个脚本搞定百度网盘下载 https://www.baiduyun.wiki
 
+23. [grafana/grafana](https://github.com/grafana/grafana)<br/>
+The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com
+
+24. [netdata/netdata](https://github.com/netdata/netdata)<br/>
+Real-time performance monitoring, done right! https://my-netdata.io/
+
+25. [peterq/pan-light](https://github.com/peterq/pan-light)<br/>
+百度网盘不限速客户端, golang + qt5, 跨平台图形界面 https://pan-light.peterq.cn
+
+26. [Tencent/bk-ci](https://github.com/Tencent/bk-ci)<br/>
+蓝鲸CI平台(BlueKing CI) https://bk.tencent.com
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -467,33 +494,6 @@ ClickHouse is a free analytics DBMS for big data https://clickhouse.yandex
 沁原的硅谷创新课
 
 ***
-
-141. [jfarid27/Treemap-Graph-D3](https://github.com/jfarid27/Treemap-Graph-D3)<br/>
-A tool to turn graphs into treemap layout graphs.
-
-142. [grafana/grafana](https://github.com/grafana/grafana)<br/>
-The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More https://grafana.com
-
-143. [netdata/netdata](https://github.com/netdata/netdata)<br/>
-Real-time performance monitoring, done right! https://my-netdata.io/
-
-144. [peterq/pan-light](https://github.com/peterq/pan-light)<br/>
-百度网盘不限速客户端, golang + qt5, 跨平台图形界面 https://pan-light.peterq.cn
-
-145. [loonggg/DevMoneySharing](https://github.com/loonggg/DevMoneySharing)<br/>
-独立开发者赚钱经验分享
-
-146. [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)<br/>
-☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~ https://zhaoolee.com/StarsAndClown/
-
-147. [ruanyf/jstraining](https://github.com/ruanyf/jstraining)<br/>
-全栈工程师培训材料
-
-148. [ZengLingYong/Blog](https://github.com/ZengLingYong/Blog)<br/>
-我是以乐之名，进击中折腾的前端攻城狮。 http://wuliv.com
-
-149. [Tencent/bk-ci](https://github.com/Tencent/bk-ci)<br/>
-蓝鲸CI平台(BlueKing CI) https://bk.tencent.com
 
 150. [didi/DoraemonKit](https://github.com/didi/DoraemonKit)<br/>
 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
