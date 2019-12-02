@@ -305,6 +305,9 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 45. [ZengLingYong/Blog](https://github.com/ZengLingYong/Blog)<br/>
 我是以乐之名，进击中折腾的前端攻城狮。 http://wuliv.com
 
+46. [MriLiuJY/monitorFE](https://github.com/MriLiuJY/monitorFE)<br/>
+🍉前端埋点监控，提供前端 JS 执行错误，第三方资源加载异常，Ajax 请求错误监控 http://monitor.ljy.design
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -329,6 +332,9 @@ my personal blog
 
 4. [RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)<br/>
 优质的「独立中文博客」订阅列表
+
+5. [mashirozx/Sakura](https://github.com/mashirozx/Sakura)<br/>
+A Wonderful WordPress Theme: 樱花庄的白猫博客主题 https://2heng.xin/theme-sakura/
 
 ### [Python](#python)
 
@@ -482,6 +488,12 @@ Real-time performance monitoring, done right! https://my-netdata.io/
 26. [Tencent/bk-ci](https://github.com/Tencent/bk-ci)<br/>
 蓝鲸CI平台(BlueKing CI) https://bk.tencent.com
 
+27. [didi/DoraemonKit](https://github.com/didi/DoraemonKit)<br/>
+简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
+
+28. [Mayandev/morec](https://github.com/Mayandev/morec)<br/>
+🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -494,18 +506,6 @@ Real-time performance monitoring, done right! https://my-netdata.io/
 沁原的硅谷创新课
 
 ***
-
-150. [didi/DoraemonKit](https://github.com/didi/DoraemonKit)<br/>
-简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有。
-
-151. [mashirozx/Sakura](https://github.com/mashirozx/Sakura)<br/>
-A Wonderful WordPress Theme: 樱花庄的白猫博客主题 https://2heng.xin/theme-sakura/
-
-152. [MriLiuJY/monitorFE](https://github.com/MriLiuJY/monitorFE)<br/>
-🍉前端埋点监控，提供前端 JS 执行错误，第三方资源加载异常，Ajax 请求错误监控 http://monitor.ljy.design
-
-153. [Mayandev/morec](https://github.com/Mayandev/morec)<br/>
-🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.
 
 154. [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br/>
 Switch hosts quickly! https://oldj.github.io/SwitchHosts/
@@ -1115,10 +1115,40 @@ The minimal javascript library to create flowcharts ✨
 356. [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)<br/>
 微信小程序开发资源汇总 💯
 
-357. []()<br/>
+357. [fzxa/VSCode-sourcecode-analysis](https://github.com/fzxa/VSCode-sourcecode-analysis)<br/>
+微软VSCode IDE源码分析：VSCode是一个运行于 Mac OS X、Windows和 Linux 之上的，针对于编写现代 Web 和云应用的跨平台源代码编辑器。 采用Electron (JavaScript, HTML 和 CSS 等 Web 技术) 创建原生程序的框架。
 
-358. []()<br/>
+358. [AdlerED/bolo-solo](https://github.com/AdlerED/bolo-solo)<br/>
+（开发中）🍍 基于Solo博客 - Bolo菠萝博客 修改版 | 📝 离线博客, 本地登录 | 免登录评论 | 🚚 WAR包部署支持 | ✅ 同步原版更新 | 🔖 分类功能强化 | 🔧 独立权限控制，支持单独设置编辑器图床、文章评论同步到社区，不影响离线功能 | 👷 初版12月8日之前推出
 
-359. []()<br/>
+359. [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)<br/>
+🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin
 
-360. []()<br/>
+360. [TNK-Studio/zh-independent-blog-research](https://github.com/TNK-Studio/zh-independent-blog-research)<br/>
+中文独立博客调研 https://zh-independent-blog-research.…
+
+361. [cmiscm/leonsans](https://github.com/cmiscm/leonsans)<br/>
+Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. https://leon-kim.com/
+
+362. [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard)<br/>
+ESLint Config for JavaScript Standard Style https://standardjs.com
+
+363. [umijs/hooks](https://github.com/umijs/hooks)<br/>
+React Hooks Library https://hooks.umijs.org/
+
+364. [brickspert/blog](https://github.com/brickspert/blog)<br/>
+个人技术博客，博文写在 Issues 里。
+
+365. [react-component/calendar](https://github.com/react-component/calendar)<br/>
+React Calendar http://react-component.github.io/cale…
+
+366. [rjoydip/react-code-viewer](https://github.com/rjoydip/react-code-viewer)<br/>
+Simple no-frills code viewer with syntax highlighting
+
+367. []()<br/>
+
+368. []()<br/>
+
+369. []()<br/>
+
+370. []()<br/>
