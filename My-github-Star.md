@@ -308,6 +308,12 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 46. [MriLiuJY/monitorFE](https://github.com/MriLiuJY/monitorFE)<br/>
 🍉前端埋点监控，提供前端 JS 执行错误，第三方资源加载异常，Ajax 请求错误监控 http://monitor.ljy.design
 
+47. [iv-web/weekly](https://github.com/iv-web/weekly)<br/>
+由腾讯IVWEB出品的《IVWEB技术周刊》
+
+48. [zhaoolee/FrontEndClubIsBook](https://github.com/zhaoolee/FrontEndClubIsBook)<br/>
+前端娱乐圈是本书! The front end entertainment circle is the book! https://zhaoolee.github.io/FrontEndCl…
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -318,6 +324,9 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 
 3. [saberland/saber](https://github.com/saberland/saber)<br/>
 ()==[:::::::::::::> Build static sites in Vue.js, without the hassle https://saber.land
+
+4. [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br/>
+The iconic SVG, font, and CSS toolkit https://fontawesome.com
 
 #### [Blog](#blog)
 
@@ -494,6 +503,15 @@ Real-time performance monitoring, done right! https://my-netdata.io/
 28. [Mayandev/morec](https://github.com/Mayandev/morec)<br/>
 🎥非常精美的 Flutter 版电影客户端，利用豆瓣现有的 Api，打造了一个完整的电影展示 App(部分 UI 仿豆瓣电影)。 A beautiful movie application build by flutter.
 
+29. [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br/>
+Switch hosts quickly! https://oldj.github.io/SwitchHosts/
+
+30. [agalwood/Motrix](https://github.com/agalwood/Motrix)<br/>
+A full-featured download manager. https://motrix.app/
+
+31. [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)<br/>
+⚡️ Streaming torrent client for the web https://webtorrent.io
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -506,24 +524,6 @@ Real-time performance monitoring, done right! https://my-netdata.io/
 沁原的硅谷创新课
 
 ***
-
-154. [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br/>
-Switch hosts quickly! https://oldj.github.io/SwitchHosts/
-
-155. [agalwood/Motrix](https://github.com/agalwood/Motrix)<br/>
-A full-featured download manager. https://motrix.app/
-
-156. [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)<br/>
-⚡️ Streaming torrent client for the web https://webtorrent.io
-
-157. [iv-web/weekly](https://github.com/iv-web/weekly)<br/>
-由腾讯IVWEB出品的《IVWEB技术周刊》
-
-158. [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br/>
-The iconic SVG, font, and CSS toolkit https://fontawesome.com
-
-159. [zhaoolee/FrontEndClubIsBook](https://github.com/zhaoolee/FrontEndClubIsBook)<br/>
-前端娱乐圈是本书! The front end entertainment circle is the book! https://zhaoolee.github.io/FrontEndCl…
 
 160. [electron/electron](https://github.com/electron/electron)<br/>
 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
