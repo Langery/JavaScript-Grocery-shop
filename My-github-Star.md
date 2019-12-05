@@ -168,6 +168,9 @@ Simple HTML5 Charts using the `<canvas>` tag https://www.chartjs.org/
 22. [jfarid27/Treemap-Graph-D3](https://github.com/jfarid27/Treemap-Graph-D3)<br/>
 A tool to turn graphs into treemap layout graphs.
 
+23. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
+2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -327,6 +330,12 @@ Simple animation libraries for delightful user interfaces https://popmotion.io
 
 4. [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br/>
 The iconic SVG, font, and CSS toolkit https://fontawesome.com
+
+5. [electron/electron](https://github.com/electron/electron)<br/>
+:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
+
+6. [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui)<br/>
+支付宝小程序组件库 https://docs.alipay.com/mini/componen…
 
 #### [Blog](#blog)
 
@@ -523,19 +532,10 @@ A full-featured download manager. https://motrix.app/
 3. [Fabsqrt/BitTigerLab](https://github.com/Fabsqrt/BitTigerLab)<br/>
 沁原的硅谷创新课
 
-***
-
-160. [electron/electron](https://github.com/electron/electron)<br/>
-:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
-
-161. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
-2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
-
-162. [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui)<br/>
-支付宝小程序组件库 https://docs.alipay.com/mini/componen…
-
-163. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br/>
+4. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br/>
 A complete computer science study plan to become a software engineer.
+
+***
 
 164. [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG)<br/>
 逃离北上广 https://jinnrry.github.io/getAwayBSG/
