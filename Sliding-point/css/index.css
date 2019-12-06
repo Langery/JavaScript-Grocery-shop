@@ -1,0 +1,89 @@
+*{
+    margin: 0;padding: 0;border: 0;
+	font-family: "microsoft yahei";
+}
+a{text-decoration: none;}
+.xia_4{
+    position: absolute;
+    font-family: "SimSun";
+    top: 50px;
+    /* display: none; */
+    height: 280px;
+    width: 1080px;
+    background: #fff;
+    left: 20px;
+    z-index: 1;
+    opacity: 1;
+}
+.xia_xin{
+	position: relative;
+	overflow: hidden;
+}
+.xia_1_left{
+    padding-top: 30px;
+    text-align: center;
+    width: 498px;
+    height: 230px;
+    position: relative;
+    float: left;
+    display: inline;
+}
+.city1,.city2,
+.city3,.city4,
+.city5{
+	text-align: center;font-size: 0;
+    position: absolute;
+    width: 320px;margin: 0 auto;
+    top: 60px;left: 0;
+    line-height: 20px;color: #aeadad;
+    /*display: none;*/
+    overflow: hidden;
+}
+.city2,.city3,
+.city4,.city5{
+	display: none;
+}
+.city1 span,.city2 span,
+.city3 span,.city4 span,
+.city5 span{
+	display: inline-block;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 0 3px;
+}
+.xia_1_left ul li div span:hover{color: #bf967c;}
+.hengd{
+	position: relative;
+    width: 320px;height: 2px;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+.heng_line{
+	width: 100%;height: 1px;
+    background: #bbbbbb;
+    position: absolute;left: 0;top: 0;
+}
+.heng_point{
+	position: absolute;
+   	left: 10px;top: -7px;
+    width: 14px;height: 14px;
+    background: url(../img/lright.jpg)
+     no-repeat;
+    z-index: 2;overflow: hidden;
+}
+.xia_1_left ul{
+	width: 320px;height: 18px;
+    margin: 0 auto;margin-top: 15px;
+    position: relative;
+    list-style-type: none;
+}
+.xia_1_left ul li{
+	float: left;width: 58px;
+    margin-left: 0;font-size: 12px;
+    text-align: left;color: #797979;
+    cursor: pointer;font-size: 12px;
+}
+.xia_1_left ul li:hover{    
+	font-weight: bold;font-size: 13px;
+    color: #d49e85;
+}

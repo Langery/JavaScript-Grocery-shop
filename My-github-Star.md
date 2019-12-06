@@ -1145,10 +1145,93 @@ React Calendar http://react-component.github.io/cale…
 366. [rjoydip/react-code-viewer](https://github.com/rjoydip/react-code-viewer)<br/>
 Simple no-frills code viewer with syntax highlighting
 
-367. []()<br/>
+367. [chenjie1219/MacApps](https://github.com/chenjie1219/MacApps)<br/>
+分享个人收集的Mac的App,持续更新中...
 
-368. []()<br/>
+368. [xwgmdjc/GengShuang](https://github.com/xwgmdjc/GengShuang)<br/>
+耿爽模拟器 https://xwgmdjc.github.io/GengShuang/
 
-369. []()<br/>
+369. [ooade/react-rough](https://github.com/ooade/react-rough)<br/>
+🐇 React Components for Rough.js https://react-rough.dev.adegbuyi.me
 
-370. []()<br/>
+370. [pixijs/pixi.js](https://github.com/pixijs/pixi.js)<br/>
+The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. http://pixijs.com
+
+371. [photonstorm/phaser](https://github.com/photonstorm/phaser)<br/>
+Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. http://phaser.io
+
+372. [fengyuanchen/viewerjs](https://github.com/fengyuanchen/viewerjs)<br/>
+JavaScript image viewer. https://fengyuanchen.github.io/viewerjs/
+
+373. [Vanessa219/30-seconds-zh_CN](https://github.com/Vanessa219/30-seconds-zh_CN)<br/>
+📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。 https://hacpai.com/tag/30seconds
+
+374. [maxwellito/vivus](https://github.com/maxwellito/vivus)<br/>
+JavaScript library to make drawing animation on SVG
+
+375. [jhhfft/lol-hero](https://github.com/jhhfft/lol-hero)<br/>
+使用react技术栈构建英雄联盟展示页面
+
+376. [umijs/qiankun](https://github.com/umijs/qiankun)<br/>
+📦🚀Blazing fast, simple and completed solution for micro frontends.
+
+377. [muwoo/blogs](https://github.com/muwoo/blogs)<br/>
+📚一个前端的博客。
+
+378. [sindresorhus/electron-store](https://github.com/sindresorhus/electron-store)<br/>
+Simple data persistence for your Electron app or module - Save and load user preferences, app state, cache, etc
+
+379. [shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)<br/>
+每天至少一个问题，有关前端，后端，devops，微服务以及软技能，促进个人职业成长，欢迎交流。 https://q.shanyue.tech
+
+380. [shfshanyue/fp-jargon-zh](https://github.com/shfshanyue/fp-jargon-zh)<br/>
+函数式编程术语及示例。本项目译自 https://github.com/hemanth/functional-programming-jargon
+
+381. [byoungd/English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese)<br/>
+可能是让你受益匪浅的英语进阶指南
+
+382. [cgxqd/utilscore](https://github.com/cgxqd/utilscore)<br/>
+前端业务代码工具库
+
+383. [132yse/fard](https://github.com/132yse/fard)<br/>
+⛄️ fre 转小程序的新思路 ♂ learn once, write anywhere.
+
+384. [phodal/sherlock](https://github.com/phodal/sherlock)<br/>
+Skill Tree Sherlock http://sherlock.phodal.com/
+
+385. [Jam3/math-as-code](https://github.com/Jam3/math-as-code)<br/>
+a cheat-sheet for mathematical notation in code form
+
+386. [NervJS/taro-ui](https://github.com/NervJS/taro-ui)<br/>
+一款基于 Taro 框架开发的多端 UI 组件库 https://taro-ui.aotu.io
+
+387. [lefex/FE](https://github.com/lefex/FE)<br/>
+前端小课，每天一课，前端从 0 到 1
+
+388. [imbhargav5/rooks](https://github.com/imbhargav5/rooks)<br/>
+Collection of React hooks ⚓ for everyone. https://react-hooks.org
+
+389. [xiaolai/twe185](https://github.com/xiaolai/twe185)<br/>
+TOEFL iBT 高分作文
+
+390. []()<br/>
+
+391. []()<br/>
+
+392. []()<br/>
+
+393. []()<br/>
+
+394. []()<br/>
+
+395. []()<br/>
+
+396. []()<br/>
+
+397. []()<br/>
+
+398. []()<br/>
+
+399. []()<br/>
+
+400. []()<br/>

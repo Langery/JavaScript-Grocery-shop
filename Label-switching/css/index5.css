@@ -1,0 +1,94 @@
+/*内容详情*/
+.xiang_lis{
+    text-align: center;
+    border-bottom: 2px solid #eaeceb;
+    font-size: 0;height: 25px;
+    margin-bottom: 40px;
+}
+.xiang_lis span{
+    font-size: 12px;color: #999;
+    display: inline-block;
+    width: 165px;text-align: center;
+    border-left: 2px solid #eaeceb;
+    height: 14px;cursor: pointer;
+}
+.xiang_lis span strong{
+    display: inline-block;
+    width: 130px;margin: 0 auto;
+    height: 25px;color: #222;
+   /* border-bottom: 2px solid #222;*/
+}
+/*selected active*/
+.active1{
+  padding-bottom: 10px;
+  border-bottom:2px solid black;
+}
+.selected{display: block !important;}
+/*detail_1/2/3/4*/
+.detail{position: relative;}
+.detail_1,.detail_2,
+.detail_3,.detail_4{display: none;}
+/*detail_1*/
+.detail_1 ul{
+    overflow: hidden;
+    padding-left: 260px;
+    margin-bottom: 18px;
+    list-style-type: none;
+}
+.detail_1 ul li{
+    width: 290px;font-size: 12px;
+    color: #666;float: left;
+    line-height: 26px;
+    margin-bottom: 8px;
+}
+.detail_1 ul li span{color: #999;}
+.tuimg{
+  text-align: center;
+  margin-bottom: 60px;
+}
+.detail_2{
+    position: relative;
+    left: 0px;top: 0px;
+    margin-bottom: 60px;
+}
+.pngf{
+    background: #f2f2f2;height: 34px;
+}
+.f_left{
+    font-size: 0;line-height: 34px;
+    margin-left: 12px;
+}
+.f_left strong{
+  margin-right: 10px;
+    font-size: 12px;
+    vertical-align: middle;
+    color: #444;margin-left: 14px;
+}
+.f_left i{
+    display: inline-block;
+    background: url(../images/Red_Diamond_img/star.png)
+     no-repeat;
+    width: 14px;height: 13px;
+    margin: 0 2px;
+    vertical-align: middle;
+    background-position: 0 -13px;
+}
+.f_left span{
+    font-size: 12px;
+    vertical-align: middle;
+    color: #444;margin-left: 14px;
+}
+.pngf a{
+    display: block;width: 100px;
+    background: #d9b39b;height: 34px;
+    font-size: 12px;color: #fff;
+    text-align: center;float: right;
+}
+.pngf a i{
+    display: inline-block;
+    height: 16px;line-height: 16px;
+    background: url(../images/Red_Diamond_img/thekf.gif)
+     no-repeat left center;
+    padding-left: 26px;width: 50px;
+    font-style: inherit;
+}

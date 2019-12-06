@@ -1,0 +1,81 @@
+/*redDiamond*/
+#lie{
+  width: 100%;height: auto;
+  min-width: 1215px;
+}
+#liee{
+  width: 1215px;height: auto;
+  min-width: 1215px;
+  margin: 0px auto;
+}
+.tui{overflow: hidden;}
+.hot{
+  border-bottom: 2px solid #eaeceb;
+    text-align: center;
+    margin-bottom: 40px;height: 25px;
+    position: relative;
+}
+.hot span{
+    display: inline-block;
+    border-bottom: 2px solid #222;
+    height: 25px;padding: 0 24px;
+    color: #222;font-size: 12px;
+    font-weight: bold;
+}
+.shang_tou{
+    margin-bottom: 50px;
+    position: relative;
+}
+.tou_left{
+  background: url(../images/Red_Diamond_img/pre_next.png)
+   no-repeat;
+   display: inline-block;
+    position: absolute;
+    width: 10px;height: 19px;
+    top: 50%;margin-top: -10px;
+    cursor: pointer;left: 15px;
+    background-position: 0 0;
+}
+.tou_right{
+    background: url(../images/Red_Diamond_img/pre_next.png)
+     no-repeat;
+    position: absolute;
+    width: 10px;height: 19px;
+    top: 50%;margin-top: -10px;
+    cursor: pointer;right: 15px;
+    background-position: -10px 0;
+}
+.shang_show{
+    width: 870px;margin: 0 auto;
+    position: relative;
+    overflow: hidden;height: 190px;
+}
+.shang_show ul{
+  width: 3480px;margin-left: 0px;
+  list-style-type: none;
+  position: absolute;left: 0px;
+}
+.shang_show ul li{
+  float: left;width: 130px;
+    margin-right: 44px;
+    text-align: center;
+    position: relative;
+    list-style: none;
+}
+.shang_show ul li a{
+    position: absolute;
+    width: 100%;height: 100%;
+    left: 0;top: 0;background: #fff;
+    opacity: 0.01;
+}
+.shang_show ul li img{
+  width: 100%;height: 100%;
+}
+.shang_show ul li p{
+  font-size: 12px;color: #888;
+    line-height: 20px;
+}
+.shang_show ul li p span{
+    color: #c57d5c;
+    font-family: "microsoft yahei";
+}
