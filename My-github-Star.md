@@ -1214,7 +1214,8 @@ Collection of React hooks ⚓ for everyone. https://react-hooks.org
 389. [xiaolai/twe185](https://github.com/xiaolai/twe185)<br/>
 TOEFL iBT 高分作文
 
-390. []()<br/>
+390. [lerna/lerna](https://github.com/lerna/lerna)<br/>
+🐉 A tool for managing JavaScript projects with multiple packages. https://lerna.js.org
 
 391. []()<br/>
 

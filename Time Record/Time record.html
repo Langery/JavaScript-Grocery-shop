@@ -49,16 +49,16 @@
       }
       if (a<10) {
         minus = '0' + a;
-      } else if (a>=10&&a<=59) {
+      } else if (a >= 10 && a <= 59) {
         minus = a;
-      } else if (a>59) {
+      } else if (a > 59) {
         minus = '00';
         a = 0;
         b++;
       }
       if (b<10) {
         hour = '0' + b;
-      } else if (b>=10&&b<=59) {
+      } else if (b >= 10 && b <= 59) {
         hour = b;
       }
       timer.innerHTML = hour+':'+minus+':'+seconds;
