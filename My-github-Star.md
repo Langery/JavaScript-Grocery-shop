@@ -1217,15 +1217,20 @@ TOEFL iBT 高分作文
 390. [lerna/lerna](https://github.com/lerna/lerna)<br/>
 🐉 A tool for managing JavaScript projects with multiple packages. https://lerna.js.org
 
-391. []()<br/>
+391. [wx-chevalier/AI-Series](https://github.com/wx-chevalier/AI-Series)<br/>
+📚 [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇 | 机器学习篇 | 深度学习篇 | 自然语言处理篇 | 工具实践 Scikit & Tensoflow & PyTorch 篇 | 行业应用 & 课程笔记 https://wx-chevalier.github.io/
 
-392. []()<br/>
+392. [react-d3-library/react-d3-library](https://github.com/react-d3-library/react-d3-library)<br/>
+Open source library for using D3 in React http://react-d3-library.github.io/
 
-393. []()<br/>
+393. [Prodesire/Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)<br/>
+Python最佳实践指南
 
-394. []()<br/>
+394. [mdnice/markdown-resume](https://github.com/mdnice/markdown-resume)<br/>
+👔支持 Markdown 和富文本的在线简历排版工具 https://resume.mdnice.com/
 
-395. []()<br/>
+395. [yisar/fre](https://github.com/yisar/fre)<br/>
+👻 Tiny React16 like library with Concurrent and Suspense. https://fre.js.org
 
 396. []()<br/>
 
