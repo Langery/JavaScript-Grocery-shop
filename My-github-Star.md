@@ -317,6 +317,15 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 48. [zhaoolee/FrontEndClubIsBook](https://github.com/zhaoolee/FrontEndClubIsBook)<br/>
 前端娱乐圈是本书! The front end entertainment circle is the book! https://zhaoolee.github.io/FrontEndCl…
 
+49. [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG)<br/>
+逃离北上广 https://jinnrry.github.io/getAwayBSG/
+
+50. [YvetteLau/Blog](https://github.com/YvetteLau/Blog)<br/>
+【前端进阶】优质博文
+
+60. [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook)<br/>
+📄 🇨🇳 📃 论文阅读笔记（分布式，虚拟化，容器，机器学习） https://github.com/dyweb/papers-noteb…
+
 #### [Web Tool](#web-tool)
 
 1. [prettier/prettier](https://github.com/prettier/prettier)<br/>
@@ -521,6 +530,9 @@ A full-featured download manager. https://motrix.app/
 31. [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent)<br/>
 ⚡️ Streaming torrent client for the web https://webtorrent.io
 
+32. [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)<br/>
+✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -535,22 +547,10 @@ A full-featured download manager. https://motrix.app/
 4. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)<br/>
 A complete computer science study plan to become a software engineer.
 
-***
-
-164. [Jinnrry/getAwayBSG](https://github.com/Jinnrry/getAwayBSG)<br/>
-逃离北上广 https://jinnrry.github.io/getAwayBSG/
-
-165. [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)<br/>
-✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-
-166. [YvetteLau/Blog](https://github.com/YvetteLau/Blog)<br/>
-【前端进阶】优质博文
-
-167. [JadaGates/ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio)<br/>
+5. [JadaGates/ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio)<br/>
 记录一下SS的前世今生，以及一个简单的教程总结
 
-168. [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook)<br/>
-📄 🇨🇳 📃 论文阅读笔记（分布式，虚拟化，容器，机器学习） https://github.com/dyweb/papers-noteb…
+***
 
 169. [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js)<br/>
 A JavaScript Framework for Building Brilliant Applications https://mithril.js.org
@@ -1232,12 +1232,38 @@ Python最佳实践指南
 395. [yisar/fre](https://github.com/yisar/fre)<br/>
 👻 Tiny React16 like library with Concurrent and Suspense. https://fre.js.org
 
-396. []()<br/>
+396. [mingfunwong/lotu](https://github.com/mingfunwong/lotu)<br/>
+https://docs.lotu.sh/en+install-lotus-ubuntu
 
-397. []()<br/>
+397. [airbnb/javascript](https://github.com/airbnb/javascript)<br/>
+JavaScript Style Guide
 
-398. []()<br/>
+398. [acornjs/acorn](https://github.com/acornjs/acorn)<br/>
+A small, fast, JavaScript-based JavaScript parser
 
-399. []()<br/>
+399. [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme)<br/>
+A standard style for README files
 
-400. []()<br/>
+400. [alibaba/rax](https://github.com/alibaba/rax)<br/>
+The fastest way to build universal application. （快速构建多端应用）https://rax.js.org
+
+401. [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)<br/>
+🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo https://fluid-dev.github.io/hexo-flui…
+
+402. []()<br/>
+
+403. []()<br/>
+
+404. []()<br/>
+
+405. []()<br/>
+
+406. []()<br/>
+
+407. []()<br/>
+
+408. []()<br/>
+
+409. []()<br/>
+
+410. []()<br/>
