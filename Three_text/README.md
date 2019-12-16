@@ -1,6 +1,6 @@
 ## The text about three.js
 the basic of three.js
-```
+``` bash
 1.zoom
 2.rotate
 3.change color

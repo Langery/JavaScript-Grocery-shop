@@ -171,6 +171,9 @@ A tool to turn graphs into treemap layout graphs.
 23. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
 2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
 
+24. [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js)<br/>
+A JavaScript Framework for Building Brilliant Applications https://mithril.js.org
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -323,8 +326,17 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 50. [YvetteLau/Blog](https://github.com/YvetteLau/Blog)<br/>
 【前端进阶】优质博文
 
-60. [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook)<br/>
+51. [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook)<br/>
 📄 🇨🇳 📃 论文阅读笔记（分布式，虚拟化，容器，机器学习） https://github.com/dyweb/papers-noteb…
+
+52. [phodal/aofe.images](https://github.com/phodal/aofe.images)<br/>
+《前端架构：从入门到微前端》原图，image for Architecture of Frontend
+
+53. [akira-cn/FE_You_dont_know](https://github.com/akira-cn/FE_You_dont_know)<br/>
+分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。
+
+54. [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)<br/>
+A list of funny and tricky JavaScript examples http://bit.ly/wtfjavascript
 
 #### [Web Tool](#web-tool)
 
@@ -550,25 +562,13 @@ A complete computer science study plan to become a software engineer.
 5. [JadaGates/ShadowsocksBio](https://github.com/JadaGates/ShadowsocksBio)<br/>
 记录一下SS的前世今生，以及一个简单的教程总结
 
-***
-
-169. [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js)<br/>
-A JavaScript Framework for Building Brilliant Applications https://mithril.js.org
-
-170. [zdhxiong/Mithril-Chinese](https://github.com/zdhxiong/Mithril-Chinese)<br/>
+6. [zdhxiong/Mithril-Chinese](https://github.com/zdhxiong/Mithril-Chinese)<br/>
 Mithril.js 文档中文翻译 http://www.mithriljs.net
 
-171. [phodal/aofe.images](https://github.com/phodal/aofe.images)<br/>
-《前端架构：从入门到微前端》原图，image for Architecture of Frontend
-
-172. [akira-cn/FE_You_dont_know](https://github.com/akira-cn/FE_You_dont_know)<br/>
-分享在前端开发中，你不知道的JavaScript、CSS和HTML趣味知识，增加你的知识面。
-
-173. [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)<br/>
-A list of funny and tricky JavaScript examples http://bit.ly/wtfjavascript
-
-174. [lib-pku/libpku](https://github.com/lib-pku/libpku)<br/>
+7. [lib-pku/libpku](https://github.com/lib-pku/libpku)<br/>
 贵校课程资料民间整理 https://lib-pku.github.io/
+
+***
 
 175. [alibaba/ice](https://github.com/alibaba/ice)<br/>
 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ） https://ice.work/
