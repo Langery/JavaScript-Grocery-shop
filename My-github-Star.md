@@ -1250,20 +1250,78 @@ The fastest way to build universal application. （快速构建多端应用）ht
 401. [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)<br/>
 🌊 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo https://fluid-dev.github.io/hexo-flui…
 
-402. []()<br/>
+402. [wangfupeng1988/js-async-tutorial](https://github.com/wangfupeng1988/js-async-tutorial)<br/>
+深入理解 JavaScript 异步
 
-403. []()<br/>
+403. [pipwerks/PDFObject](https://github.com/pipwerks/PDFObject)<br/>
+A lightweight JavaScript utility for dynamically embedding PDFs in HTML documents. http://pdfobject.com/
 
-404. []()<br/>
+404. [GavinZhuLei/vue-form-making](https://github.com/GavinZhuLei/vue-form-making)<br/>
+A designer and generator of form base on Vue.js, make form development simple and efficient.（基于Vue的表单设计器，让表单开发简单而高效。） http://form.xiaoyaoji.cn
 
-405. []()<br/>
+405. [liubin/promises-book](https://github.com/liubin/promises-book)<br/>
+JavaScript Promise迷你书 http://liubin.github.io/promises-book/
 
-406. []()<br/>
+406. [nhn/tui.calendar](https://github.com/nhn/tui.calendar)<br/>
+🍞📅A JavaScript calendar that has everything you need. http://ui.toast.com/tui-calendar
 
-407. []()<br/>
+407. [nhn/toast-ui.react-calendar](https://github.com/nhn/toast-ui.react-calendar)<br/>
+TOAST UI Calendar wrapper for React.js
 
-408. []()<br/>
+408. [d2forum/13th](https://github.com/d2forum/13th)<br/>
+第十三届D2前端技术论坛
 
-409. []()<br/>
+409. [d2forum/12th](https://github.com/d2forum/12th)<br/>
+第十二届D2前端技术论坛
 
-410. []()<br/>
+410. [d2forum/11th](https://github.com/d2forum/11th)<br/>
+第十一届D2前端技术论坛
+
+411. [d2forum/14th](https://github.com/d2forum/14th)<br/>
+第十四届D2前端技术论坛
+
+412. [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d)<br/>
+Reimplementation of Grand Theft Auto 1 [GTA1]
+
+413. [Valve/fingerprintjs2](https://github.com/Valve/fingerprintjs2)<br/>
+Modern & flexible browser fingerprinting library https://fingerprintjs.com/open-source
+
+414. [sbfkcel/fast-astar](https://github.com/sbfkcel/fast-astar)<br/>
+fast-astar is an implementation of a* algorithm using javascript. Small and fast. https://sbfkcel.github.io/fast-astar
+
+415. [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)<br/>
+Transcripts of Clojure-related talks http://matthiasnehlsen.com/blog/2014/…
+
+416. [dart-lang/site-www](https://github.com/dart-lang/site-www)<br/>
+Source for Dart website https://dart.dev
+
+417. [shenzekun/useful-tools](https://github.com/shenzekun/useful-tools)<br/>
+🔨 一些有用的工具网站
+
+418. [ice-lab/ice-scripts](https://github.com/ice-lab/ice-scripts)<br/>
+🐝 Highly configurable development and build tools based on webpack（基于 webpack 的高可配置开发构建工具） https://ice.work/docs/cli/about
+
+419. [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese)<br/>
+JS 函数式编程指南中文版 https://www.gitbook.com/book/llh91100…
+
+420. []()<br/>
+
+421. []()<br/>
+
+422. []()<br/>
+
+423. []()<br/>
+
+424. []()<br/>
+
+425. []()<br/>
+
+426. []()<br/>
+
+427. []()<br/>
+
+428. []()<br/>
+
+429. []()<br/>
+
+430. []()<br/>
