@@ -112,6 +112,12 @@ koa guide in Chinese
 2. [Tencent/wepy](https://github.com/Tencent/wepy)<br/>
 小程序组件化开发框架 https://wepyjs.github.io/wepy-docs/
 
+3. [ant-move/Antmove](https://github.com/ant-move/Antmove)<br/>
+Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。 https://ant-move.github.io/website/
+
+4. [tuateam/tua-mp](https://github.com/tuateam/tua-mp)<br/>
+🖖一款类 Vue 的渐进式小程序框架(A progressive miniprogram framework for coding like Vue) https://tuateam.github.io/tua-mp/
+
 #### [node_modular](#node_modular)
 
 1. [reduxjs/redux](https://github.com/reduxjs/redux)<br/>
@@ -189,6 +195,9 @@ A JavaScript Framework for Building Brilliant Applications https://mithril.js.or
 25. [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js)<br/>
 Graph theory (network) library for visualisation and analysis https://js.cytoscape.org
 
+26. [jquery/jquery](https://github.com/jquery/jquery)<br/>
+jQuery JavaScript Library https://jquery.com/
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -209,9 +218,6 @@ Too young, too simple. Sometimes, naive.
 10. [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts)<br/>
 📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
 
-11. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
-A book about functional programming in JavaScript.
-
 12. [louzhedong/blog](https://github.com/louzhedong/blog)<br/>
 前端基础，深入以及算法数据结构记录
 
@@ -221,9 +227,6 @@ A book about functional programming in JavaScript.
 14. [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS)<br/>
 Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
 
-15. [xiaomuzhu/awesome-f2e-libs](https://github.com/xiaomuzhu/awesome-f2e-libs)<br/>
-🎉 整理我平时关注的前端库。
-
 16. [mtonhuang/blog](https://github.com/mtonhuang/blog)<br/>
 我是mtonhuang，这里是我关于前端架构，版本工具，源码剖析，h5c3等的日常总结，让我们在前端进阶的路上，共勉^_^ http://huangmiantong.cn/
 
@@ -232,9 +235,6 @@ Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
 
 18. [ljianshu/Blog](https://github.com/ljianshu/Blog)<br/>
 关注基础知识，打造优质前端博客，公众号[前端工匠]的作者
-
-20. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
-📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
 
 21. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)<br/>
 中文技术文档的写作规范
@@ -248,14 +248,8 @@ Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter. http://FLJSBook.com
 24. [phodal/clean-frontend](https://github.com/phodal/clean-frontend)<br/>
 Clean Frontend Architecture：整洁前端架构 https://phodal.github.io/clean-frontend/
 
-26. [aliyunfe/weekly](https://github.com/aliyunfe/weekly)<br/>
-《阿里云前端技术周刊》
-
 27. [guanguans/notes](https://github.com/guanguans/notes)<br/>
 📔 Linux、MySQL、Nginx、PHP、Git、Shell 等笔记 https://guanguans.github.io/notes
-
-28. [woai3c/recommended-books](https://github.com/woai3c/recommended-books)<br/>
-计算机经典书籍推荐 部分书籍提供PDF下载
 
 29. [fyuanfen/note](https://github.com/fyuanfen/note)<br/>
 前端学习资料合集（包含深入解读JS系列，React、Vue源码分析，前端算法解析，收集大厂面经，前端工程化最佳实践，经典图书分享，推荐好用的前端工具等等，内容不定期更新中。一边记录，一边学习，一边分享） http://www.zyy1217.com
@@ -271,9 +265,6 @@ Clean Frontend Architecture：整洁前端架构 https://phodal.github.io/clean-
 
 35. [jimuyouyou/node-interview-questions](https://github.com/jimuyouyou/node-interview-questions)<br/>
 Node.js面试题，侧重后端应用与对Node核心的理解
-
-36. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)<br/>
-📚 经典技术书籍推荐，持续更新...
 
 37. [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)<br/>
 程序员技能图谱 https://github.com/TeamStuQ/skill-map
@@ -332,6 +323,24 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 47. [standard/standard](https://github.com/standard/standard)<br/>
 🌟 JavaScript Style Guide, with linter & automatic code fixer https://standardjs.com
 
+48. [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js)<br/>
+用JavaScript实现的算法和数据结构，附详细解释和刷题指南
+
+44. [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)<br/>
+Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 http://get.jobdeer.com/744.get
+
+21. [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)<br/>
+JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
+
+45. [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured)<br/>
+每天给你推荐一个新奇，好玩，高品质的开源库，好文，观点或言论等。
+
+46. [KieSun/awesome-fe-study-source](https://github.com/KieSun/awesome-fe-study-source)<br/>
+:octocat: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！
+
+47. [ykfe/fe-dev-playbook](https://github.com/ykfe/fe-dev-playbook)<br/>
+打造舒适、高效、时尚的前端开发环境 http://fe.surge.sh/guide
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -342,6 +351,9 @@ Node.js面试题，侧重后端应用与对Node核心的理解
 
 3. [ruanyf/weekly](https://github.com/ruanyf/weekly)<br/>
 科技爱好者周刊，每周五发布
+
+4. [aliyunfe/weekly](https://github.com/aliyunfe/weekly)<br/>
+《阿里云前端技术周刊》
 
 #### [Web Book](#web-book)
 
@@ -359,6 +371,9 @@ A list of funny and tricky JavaScript examples http://bit.ly/wtfjavascript
 
 5. [geeeeeeeeek/git-recipes](https://github.com/geeeeeeeeek/git-recipes)<br/>
 🥡 Git recipes in Chinese by Zhongyi Tong. 高质量的Git中文教程. https://geeeeeeeeek.github.io/git-rec…
+
+6. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
+A book about functional programming in JavaScript.
 
 #### [Interview](#interview)
 
@@ -418,6 +433,15 @@ The iconic SVG, font, and CSS toolkit https://fontawesome.com
 9. [justauth/JustAuth](https://github.com/justauth/JustAuth)<br/>
 💯 史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么和推特等第三方平台的授权登录。 Login, so easy! https://docs.justauth.whnb.wang
 
+10. [xiaomuzhu/awesome-f2e-libs](https://github.com/xiaomuzhu/awesome-f2e-libs)<br/>
+🎉 整理我平时关注的前端库。
+
+11. [ctripcorp/apollo](https://github.com/ctripcorp/apollo)<br/>
+Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+
+12. [wildfirechat/server](https://github.com/wildfirechat/server)<br/>
+即时通讯(IM)系统 http://docs.wildfirechat.cn
+
 #### [Blog](#blog)
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)
@@ -437,6 +461,12 @@ A Wonderful WordPress Theme: 樱花庄的白猫博客主题 https://2heng.xin/th
 
 6. [SHERlocked93/blog](https://github.com/SHERlocked93/blog)<br/>
 SHERlocked93 的个人博客 🤪
+
+7. [b3log/solo](https://github.com/b3log/solo)<br/>
+🎸 一款小而美的博客系统，专为程序员设计。 https://solo.b3log.org
+
+8. [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)<br/>
+冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
 ### [Python](#python)
 
@@ -475,6 +505,12 @@ Facilitating the design, comparison and sharing of deep text matching models.
 
 12. [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)<br/>
 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning https://nndl.github.io
+
+13. [Eilene/spatio-temporal-paper-list](https://github.com/Eilene/spatio-temporal-paper-list)<br/>
+Spatio-temporal modeling 论文列表（主要是graph convolution相关)
+
+14. [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)<br/>
+pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 
 ### [Interesting projects](#interesting-projects)
 
@@ -527,6 +563,12 @@ A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统�
 
 17. [Wscats/piano](https://github.com/Wscats/piano)<br/>
 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她 https://wscats.github.io/piano/build/
+
+18. [wangshub/romantic_page](https://github.com/wangshub/romantic_page)<br/>
+👫 程序员的表白 http://thinkhard.tech/romantic_page/
+
+19. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
+💒盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰 https://iamkun.github.io/tower_game
 
 ### [Tool](#tool)
 
@@ -661,60 +703,18 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 9. [ruanyf/free-books](https://github.com/ruanyf/free-books)<br/>
 互联网上的免费书籍
 
+10. [woai3c/recommended-books](https://github.com/woai3c/recommended-books)<br/>
+计算机经典书籍推荐 部分书籍提供PDF下载
+
+11. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)<br/>
+📚 经典技术书籍推荐，持续更新...
+
+20. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
+📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
+
 ***
 
 ### Sum
-
-201. [ant-move/Antmove](https://github.com/ant-move/Antmove)<br/>
-Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。 https://ant-move.github.io/website/
-
-202. [tuateam/tua-mp](https://github.com/tuateam/tua-mp)<br/>
-🖖一款类 Vue 的渐进式小程序框架(A progressive miniprogram framework for coding like Vue) https://tuateam.github.io/tua-mp/
-
-203. [Eilene/spatio-temporal-paper-list](https://github.com/Eilene/spatio-temporal-paper-list)<br/>
-Spatio-temporal modeling 论文列表（主要是graph convolution相关)
-
-204. [wangshub/romantic_page](https://github.com/wangshub/romantic_page)<br/>
-👫 程序员的表白 http://thinkhard.tech/romantic_page/
-
-205. [ConardLi/awesome-coding-js](https://github.com/ConardLi/awesome-coding-js)<br/>
-用JavaScript实现的算法和数据结构，附详细解释和刷题指南
-
-207. [ctripcorp/apollo](https://github.com/ctripcorp/apollo)<br/>
-Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
-
-208. [jquery/jquery](https://github.com/jquery/jquery)<br/>
-jQuery JavaScript Library https://jquery.com/
-
-209. [wildfirechat/server](https://github.com/wildfirechat/server)<br/>
-即时通讯(IM)系统 http://docs.wildfirechat.cn
-
-210. [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)<br/>
-Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 http://get.jobdeer.com/744.get
-
-211. [jobbole/awesome-javascript-cn](https://github.com/jobbole/awesome-javascript-cn)<br/>
-JavaScript 资源大全中文版，内容包括：包管理器、加载器、测试框架、运行器、QA、MVC框架和库、模板引擎等
-
-213. [b3log/solo](https://github.com/b3log/solo)<br/>
-🎸 一款小而美的博客系统，专为程序员设计。 https://solo.b3log.org
-
-214. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
-💒盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰 https://iamkun.github.io/tower_game
-
-215. [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)<br/>
-冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
-
-216. [azl397985856/daily-featured](https://github.com/azl397985856/daily-featured)<br/>
-每天给你推荐一个新奇，好玩，高品质的开源库，好文，观点或言论等。
-
-217. [KieSun/awesome-fe-study-source](https://github.com/KieSun/awesome-fe-study-source)<br/>
-:octocat: 获取前端学习资料，随时充电。加入前端学习小组，尽在公众号「前端真好玩」！
-
-218. [ykfe/fe-dev-playbook](https://github.com/ykfe/fe-dev-playbook)<br/>
-打造舒适、高效、时尚的前端开发环境 http://fe.surge.sh/guide
-
-219. [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)<br/>
-pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
 
 220. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br/>
 Master the command line, in one page
@@ -1361,3 +1361,23 @@ JS 函数式编程指南中文版 https://www.gitbook.com/book/llh91100…
 439. []()<br/>
 
 440. []()<br/>
+
+441. []()<br/>
+
+442. []()<br/>
+
+443. []()<br/>
+
+444. []()<br/>
+
+445. []()<br/>
+
+446. []()<br/>
+
+447. []()<br/>
+
+448. []()<br/>
+
+449. []()<br/>
+
+450. []()<br/>
