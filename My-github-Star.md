@@ -1330,35 +1330,50 @@ JS 函数式编程指南中文版 https://www.gitbook.com/book/llh91100…
 424. [luoxue-victor/webpack-box](https://github.com/luoxue-victor/webpack-box)<br/>
 我有一个梦想，就是将所有webpack相关的最佳实践都集成在这里，本项目长期维护/更新，有兴趣的同学可以一起成为维护者。issue下面TODO标签是接下来要做的事情，欢迎所有人都可以来提，让我们共创 webpack 工厂！
 
-425. []()<br/>
+425. [alivebao/clean-code-js](https://github.com/alivebao/clean-code-js)<br/>
+JavaScript风格指南
 
-426. []()<br/>
+426. [LingDong-/wenyan-lang](https://github.com/LingDong-/wenyan-lang)<br/>
+文言文編程語言 A programming language for the ancient Chinese. http://wenyan-lang.lingdong.works
 
-427. []()<br/>
+427. [Kenshin/simpread](https://github.com/Kenshin/simpread)<br/>
+简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展 http://ksria.com/simpread
 
-428. []()<br/>
+428. [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)<br/>
+🛁 Clean Code concepts adapted for JavaScript
 
-429. []()<br/>
+429. [umijs/father](https://github.com/umijs/father)<br/>
+Library toolkit based on rollup and docz.
 
-430. []()<br/>
+430. [pjialin/py12306](https://github.com/pjialin/py12306)<br/>
+🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 
-431. []()<br/>
+431. [concentjs/concent](https://github.com/concentjs/concent)<br/>
+一个可预测、0入侵、渐进式、高性能的增强型状态管理方案，power your react！ https://concentjs.github.io/concent-doc
 
-432. []()<br/>
+432. [vuejs/vue](https://github.com/vuejs/vue)<br/>
+🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. http://vuejs.org
 
-433. []()<br/>
+433. [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)<br/>
+Short JavaScript code snippets for all your development needs https://www.30secondsofcode.org/js/p/1
 
-434. []()<br/>
+434. [shfshanyue/op-note](https://github.com/shfshanyue/op-note)<br/>
+个人服务器运维指南 https://shanyue.tech/op/
 
-435. []()<br/>
+435. [ant-design/ant-motion](https://github.com/ant-design/ant-motion)<br/>
+🚴 Animate specification and components of Ant Design http://motion.ant.design
 
-436. []()<br/>
+436. [d2forum/7th](https://github.com/d2forum/7th)<br/>
+第七届D2前端技术论坛
 
-437. []()<br/>
+437. [raoenhui/next-site-cn](https://github.com/raoenhui/next-site-cn)<br/>
+next.js中文文档网站 http://nextjs.frontendx.cn
 
-438. []()<br/>
+438. [wandergis/coordtransform](https://github.com/wandergis/coordtransform)<br/>
+提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换 http://wandergis.github.io/coordtrans…
 
-439. []()<br/>
+439. [linpenghui958/note](https://github.com/linpenghui958/note)<br/>
+分享一些随手记下的笔记
 
 440. []()<br/>
 
