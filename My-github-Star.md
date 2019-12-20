@@ -19,6 +19,7 @@
   - <a href="#blog">Blog</a>
 - <a href="#python">Python</a>
 - <a href="#interesting-projects">Interesting projects</a>
+- <a href="game">Game</a>
 - <a href="#tool">Tool</a>
 - <a href="#book">Book</a>
 
@@ -198,6 +199,9 @@ Graph theory (network) library for visualisation and analysis https://js.cytosca
 26. [jquery/jquery](https://github.com/jquery/jquery)<br/>
 jQuery JavaScript Library https://jquery.com/
 
+27. [alibaba/butterfly](https://github.com/alibaba/butterfly)<br/>
+🎉JavaScript Diagramming library which concentrate on flow layout canvas https://noonnightstorm.github.io
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -340,6 +344,12 @@ JavaScript 资源大全中文版，内容包括：包管理器、加载器、测
 
 47. [ykfe/fe-dev-playbook](https://github.com/ykfe/fe-dev-playbook)<br/>
 打造舒适、高效、时尚的前端开发环境 http://fe.surge.sh/guide
+
+48. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br/>
+Master the command line, in one page
+
+49. [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)<br/>
+🇨🇳🎨Chinese traditional color cheatsheet online https://colors.ichuantong.cn/
 
 #### [Weekly](#weekly)
 
@@ -567,8 +577,13 @@ A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统�
 18. [wangshub/romantic_page](https://github.com/wangshub/romantic_page)<br/>
 👫 程序员的表白 http://thinkhard.tech/romantic_page/
 
-19. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
+### [Game](#game)
+
+1. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
 💒盖楼游戏 html5 canvas tower building game 🏢🏬🏦🏯🏰 https://iamkun.github.io/tower_game
+
+2. [czyzby/bialjam17](https://github.com/czyzby/bialjam17)<br/>
+💫 The game that won the BialJam'17.
 
 ### [Tool](#tool)
 
@@ -715,18 +730,6 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 ***
 
 ### Sum
-
-220. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)<br/>
-Master the command line, in one page
-
-221. [czyzby/bialjam17](https://github.com/czyzby/bialjam17)<br/>
-💫 The game that won the BialJam'17.
-
-222. [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)<br/>
-🇨🇳🎨Chinese traditional color cheatsheet online https://colors.ichuantong.cn/
-
-223. [alibaba/butterfly](https://github.com/alibaba/butterfly)<br/>
-🎉JavaScript Diagramming library which concentrate on flow layout canvas https://noonnightstorm.github.io
 
 224. [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo)<br/>
 Web 前端单元测试到底要怎么写？看这一篇就够了
@@ -1375,17 +1378,23 @@ next.js中文文档网站 http://nextjs.frontendx.cn
 439. [linpenghui958/note](https://github.com/linpenghui958/note)<br/>
 分享一些随手记下的笔记
 
-440. []()<br/>
+440. [rstacruz/nprogress](https://github.com/rstacruz/nprogress)<br/>
+For slim progress bars like on YouTube, Medium, etc http://ricostacruz.com/nprogress
 
-441. []()<br/>
+441. [d2forum/6th](https://github.com/d2forum/6th)<br/>
+第六届D2前端技术论坛「Boom！ Let’s Get D2 Crazy!」
 
-442. []()<br/>
+442. [bahmutov/npm-install](https://github.com/bahmutov/npm-install)<br/>
+GitHub Action for install npm dependencies with caching without any configuration https://github.com/marketplace/action…
 
-443. []()<br/>
+443. [alibaba/pont](https://github.com/alibaba/pont)<br/>
+🌉前端接口层工具
 
-444. []()<br/>
+444. [postcss/postcss](https://github.com/postcss/postcss)<br/>
+Transforming styles with JS plugins https://postcss.org/
 
-445. []()<br/>
+445. [d2forum/1th](https://github.com/d2forum/1th)<br/>
+第一届D2前端技术论坛「前端技术：未来一两年的发展与实践」
 
 446. []()<br/>
 
@@ -1396,3 +1405,43 @@ next.js中文文档网站 http://nextjs.frontendx.cn
 449. []()<br/>
 
 450. []()<br/>
+
+451. []()<br/>
+
+452. []()<br/>
+
+453. []()<br/>
+
+454. []()<br/>
+
+455. []()<br/>
+
+456. []()<br/>
+
+457. []()<br/>
+
+458. []()<br/>
+
+459. []()<br/>
+
+460. []()<br/>
+
+461. []()<br/>
+
+462. []()<br/>
+
+463. []()<br/>
+
+464. []()<br/>
+
+465. []()<br/>
+
+466. []()<br/>
+
+467. []()<br/>
+
+468. []()<br/>
+
+469. []()<br/>
+
+470. []()<br/>
