@@ -17,6 +17,7 @@
   - <a href="#interview">Interview</a>
   - <a href="#web-tool">Web Tool</a>
   - <a href="#blog">Blog</a>
+  - <a href="d2前端技术论坛">D2前端技术论坛</a>
 - <a href="#python">Python</a>
 - <a href="#interesting-projects">Interesting projects</a>
 - <a href="game">Game</a>
@@ -477,6 +478,8 @@ SHERlocked93 的个人博客 🤪
 
 8. [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)<br/>
 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
+#### [D2前端技术论坛](#d2前端技术论坛)
 
 ### [Python](#python)
 
@@ -1396,37 +1399,53 @@ Transforming styles with JS plugins https://postcss.org/
 445. [d2forum/1th](https://github.com/d2forum/1th)<br/>
 第一届D2前端技术论坛「前端技术：未来一两年的发展与实践」
 
-446. []()<br/>
+446. [d2forum/2th](https://github.com/d2forum/2th)<br/>
+第二届D2前端技术论坛「现代前端技术在网站中的应用」
 
-447. []()<br/>
+447. [d2forum/3th](https://github.com/d2forum/3th)<br/>
+第三届D2前端技术论坛「前沿技术和前端协作」
 
-448. []()<br/>
+448. [d2forum/4th](https://github.com/d2forum/4th)<br/>
+第四届D2前端技术论坛「蜕变·成长」
 
-449. []()<br/>
+449. [d2forum/5th](https://github.com/d2forum/5th)<br/>
+第五届D2前端技术论坛「D平方（D2 = D2），潜能无限」
 
-450. []()<br/>
+450. [creatorsdaily/client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com)<br/>
+「创造者日报」前端项目 https://creatorsdaily.com
 
-451. []()<br/>
+451. [zloirock/core-js](https://github.com/zloirock/core-js)<br/>
+Standard Library
 
-452. []()<br/>
+452. [iamkun/dayjs](https://github.com/iamkun/dayjs)<br/>
+⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API https://github.com/iamkun/dayjs
 
-453. []()<br/>
+453. [picasso250/spring12](https://github.com/picasso250/spring12)<br/>
+春节十二响
 
-454. []()<br/>
+454. [muicss/sentineljs](https://github.com/muicss/sentineljs)<br/>
+Detect new DOM nodes using CSS selectors (650 bytes)
 
-455. []()<br/>
+455. [reactjs/react-basic](https://github.com/reactjs/react-basic)<br/>
+A description of the conceptual model of React without implementation burden.
 
-456. []()<br/>
+456. [hexojs/hexo](https://github.com/hexojs/hexo)<br/>
+A fast, simple & powerful blog framework, powered by Node.js. https://hexo.io
 
-457. []()<br/>
+457. [phodal/fe](https://github.com/phodal/fe)<br/>
+《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer https://ued.party/
 
-458. []()<br/>
+458. [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info)<br/>
+现代 JavaScript 教程（The Modern JavaScript Tutorial） https://zh.javascript.info
 
-459. []()<br/>
+459. [microsoft/vscode](https://github.com/microsoft/vscode)<br/>
+Visual Studio Code https://code.visualstudio.com
 
-460. []()<br/>
+460. [smilelight/lightKG](https://github.com/smilelight/lightKG)<br/>
+基于Pytorch和torchtext的知识图谱深度学习框架，包含知识表示学习、实体识别与链接、实体关系抽取、事件检测与抽取、知识存储与查询、知识推理六大功能模块，已实现了命名实体识别、关系抽取、事件抽取、表示学习等功能。框架功能丰富，开箱可用，极易上手！基本都是学习他人实现然后自己修改融合到框架中，没有细致调参，且有不少Bug～
 
-461. []()<br/>
+461. [umijs/fabric](https://github.com/umijs/fabric)<br/>
+💪一些保证代码质量的配置
 
 462. []()<br/>
 
@@ -1445,3 +1464,23 @@ Transforming styles with JS plugins https://postcss.org/
 469. []()<br/>
 
 470. []()<br/>
+
+471. []()<br/>
+
+472. []()<br/>
+
+473. []()<br/>
+
+474. []()<br/>
+
+475. []()<br/>
+
+476. []()<br/>
+
+477. []()<br/>
+
+478. []()<br/>
+
+479. []()<br/>
+
+450. []()<br/>
