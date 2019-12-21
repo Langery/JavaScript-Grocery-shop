@@ -17,7 +17,7 @@
   - <a href="#interview">Interview</a>
   - <a href="#web-tool">Web Tool</a>
   - <a href="#blog">Blog</a>
-  - <a href="d2前端技术论坛">D2前端技术论坛</a>
+  - <a href="#d2前端技术论坛">D2前端技术论坛</a>
 - <a href="#python">Python</a>
 - <a href="#interesting-projects">Interesting projects</a>
 - <a href="game">Game</a>
