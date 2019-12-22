@@ -9,7 +9,8 @@
     - <a href="#vue">Vue</a>
     - <a href="#react">React</a>
     - <a href="#node">Node</a>
-    - <a href="wechat">Wechat</a>
+    - <a href="#wechat">Wechat</a>
+    - <a href="#d3">D3</a>
   - <a href="#node_modular">node_modular</a>
   - <a href="#periodical-information">Periodical Information</a>
   - <a href="#weekly">Weekly</a>
@@ -19,6 +20,7 @@
   - <a href="#blog">Blog</a>
   - <a href="#d2前端技术论坛">D2前端技术论坛</a>
 - <a href="#python">Python</a>
+- <a href="#deep-learning">Deep learning</a>
 - <a href="#interesting-projects">Interesting projects</a>
 - <a href="game">Game</a>
 - <a href="#tool">Tool</a>
@@ -120,6 +122,23 @@ Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻�
 4. [tuateam/tua-mp](https://github.com/tuateam/tua-mp)<br/>
 🖖一款类 Vue 的渐进式小程序框架(A progressive miniprogram framework for coding like Vue) https://tuateam.github.io/tua-mp/
 
+##### [D3](#d3)
+
+1. [d3/d3](https://github.com/d3/d3)<br/>
+Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org
+
+2. [mp2930696631/d3.js-demo](https://github.com/mp2930696631/d3.js-demo)<br/>
+一些小的d3.js的demo，欢迎大家下载
+
+3. [d3/d3-force](https://github.com/d3/d3-force)<br/>
+Force-directed graph layout using velocity Verlet integration. https://observablehq.com/collection/@…
+
+4. [d3/d3-quadtree](https://github.com/d3/d3-quadtree)<br/>
+Two-dimensional recursive spatial subdivision. https://observablehq.com/collection/@…
+
+5. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
+2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
+
 #### [node_modular](#node_modular)
 
 1. [reduxjs/redux](https://github.com/reduxjs/redux)<br/>
@@ -155,9 +174,6 @@ Promise based HTTP client for the browser and node.js
 11. [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js)<br/>
 A Web Audio framework for making interactive music in the browser. https://tonejs.github.io
 
-12. [d3/d3](https://github.com/d3/d3)<br/>
-Bring data to life with SVG, Canvas and HTML. 📊📈🎉 https://d3js.org
-
 13. [ajaxorg/ace](https://github.com/ajaxorg/ace)<br/>
 Ace (Ajax.org Cloud9 Editor) https://ace.c9.io
 
@@ -173,12 +189,6 @@ JavaScript 3D library. https://threejs.org/
 17. [thlorenz/brace](https://github.com/thlorenz/brace)<br/>
 📔 browserify compatible version of the ace editor. http://thlorenz.github.io/brace/
 
-18. [d3/d3-force](https://github.com/d3/d3-force)<br/>
-Force-directed graph layout using velocity Verlet integration. https://observablehq.com/collection/@…
-
-19. [d3/d3-quadtree](https://github.com/d3/d3-quadtree)<br/>
-Two-dimensional recursive spatial subdivision. https://observablehq.com/collection/@…
-
 20. [upphiminn/d3.ForceBundle](https://github.com/upphiminn/d3.ForceBundle)<br/>
 Force Directed Edge Bundling (FDEB) in Javascript; d3.js ready. (https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf)
 
@@ -187,9 +197,6 @@ Simple HTML5 Charts using the `<canvas>` tag https://www.chartjs.org/
 
 22. [jfarid27/Treemap-Graph-D3](https://github.com/jfarid27/Treemap-Graph-D3)<br/>
 A tool to turn graphs into treemap layout graphs.
-
-23. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
-2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
 
 24. [MithrilJS/mithril.js](https://github.com/MithrilJS/mithril.js)<br/>
 A JavaScript Framework for Building Brilliant Applications https://mithril.js.org
@@ -352,6 +359,18 @@ Master the command line, in one page
 49. [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)<br/>
 🇨🇳🎨Chinese traditional color cheatsheet online https://colors.ichuantong.cn/
 
+50. [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo)<br/>
+Web 前端单元测试到底要怎么写？看这一篇就够了
+
+51. [dongyuanxin/blog](https://github.com/dongyuanxin/blog)<br/>
+📚 专注前端 https://xin-tan.com
+
+52. [greatghoul/remote-working](https://github.com/greatghoul/remote-working)<br/>
+收集整理远程工作相关的资料 https://github.com/greatghoul/remote-…
+
+53. [roger-hiro/BlogFN](https://github.com/roger-hiro/BlogFN)<br/>
+前端劝退指南，公众号[前端劝退师]的作者
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -385,6 +404,9 @@ A list of funny and tricky JavaScript examples http://bit.ly/wtfjavascript
 
 6. [ikcamp/Functional-Light-JS](https://github.com/ikcamp/Functional-Light-JS)<br/>
 A book about functional programming in JavaScript.
+
+7. [TalkingData/inmap](https://github.com/TalkingData/inmap)<br/>
+大数据地理可视化 http://inmap.talkingdata.com
 
 #### [Interview](#interview)
 
@@ -453,6 +475,15 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 12. [wildfirechat/server](https://github.com/wildfirechat/server)<br/>
 即时通讯(IM)系统 http://docs.wildfirechat.cn
 
+13. [viserjs/viser](https://github.com/viserjs/viser)<br/>
+viser is a toolkit fit for data vis engineer. https://viserjs.gitee.io/ https://viserjs.github.io
+
+14. [gothinkster/realworld](https://github.com/gothinkster/realworld)<br/>
+"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/
+
+15. [webpack/webpack](https://github.com/webpack/webpack)<br/>
+A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. https://webpack.js.org
+
 #### [Blog](#blog)
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)
@@ -479,51 +510,133 @@ SHERlocked93 的个人博客 🤪
 8. [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog)<br/>
 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 
+9. [byteblogs168/hello-blog](https://github.com/byteblogs168/hello-blog)<br/>
+hello-blog 一个简单通用的前后分离的博客系统 后端代码 文档地址 http://helloblog.byteblogs.com/docs/
+
 #### [D2前端技术论坛](#d2前端技术论坛)
 
+1. [d2forum/1th](https://github.com/d2forum/1th)<br/>
+第一届D2前端技术论坛「前端技术：未来一两年的发展与实践」
+
+2. [d2forum/2th](https://github.com/d2forum/2th)<br/>
+第二届D2前端技术论坛「现代前端技术在网站中的应用」
+
+3. [d2forum/3th](https://github.com/d2forum/3th)<br/>
+第三届D2前端技术论坛「前沿技术和前端协作」
+
+4. [d2forum/4th](https://github.com/d2forum/4th)<br/>
+第四届D2前端技术论坛「蜕变·成长」
+
+5. [d2forum/5th](https://github.com/d2forum/5th)<br/>
+第五届D2前端技术论坛「D平方（D2 = D2），潜能无限」
+
+6. [d2forum/6th](https://github.com/d2forum/6th)<br/>
+第六届D2前端技术论坛「Boom！ Let’s Get D2 Crazy!」
+
+7. [d2forum/7th](https://github.com/d2forum/7th)<br/>
+第七届D2前端技术论坛
+
+8. [d2forum/8th](https://github.com/d2forum/8th)<br/>
+第八届D2前端技术论坛
+
+9. [d2forum/9th](https://github.com/d2forum/9th)<br/>
+第九届D2前端技术论坛
+
+10. [d2forum/10th](https://github.com/d2forum/10th)<br/>
+第十届D2前端技术论坛
+
+11. [d2forum/11th](https://github.com/d2forum/11th)<br/>
+第十一届D2前端技术论坛
+
+12. [d2forum/12th](https://github.com/d2forum/12th)<br/>
+第十二届D2前端技术论坛
+
+13. [d2forum/13th](https://github.com/d2forum/13th)<br/>
+第十三届D2前端技术论坛
+
+14. [d2forum/14th](https://github.com/d2forum/14th)<br/>
+第十四届D2前端技术论坛
+
 ### [Python](#python)
+
+1. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
+Python2.7教程
+
+2. [google/dopamine](https://github.com/google/dopamine)<br/>
+Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
+
+3. [youfou/wxpy](https://github.com/youfou/wxpy)<br/>
+微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
+
+4. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br/>
+Python - 100天从新手到大师
+
+5. [Eilene/spatio-temporal-paper-list](https://github.com/Eilene/spatio-temporal-paper-list)<br/>
+Spatio-temporal modeling 论文列表（主要是graph convolution相关)
+
+6. [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)<br/>
+📘《Python进阶》（Intermediate Python 中文版） http://interpy.eastlakeside.com
+
+7. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br/>
+All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/P…
+
+8. [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)<br/>
+Python 练习册，每天一个小程序
+
+9. [apachecn/awesome-list](https://github.com/apachecn/awesome-list)<br/>
+awesome-list
+
+10. [pytorch/pytorch](https://github.com/pytorch/pytorch)<br/>
+Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org
+
+### [Deep learning](#deep-learning)
 
 1. [jasonding1354/PRML_Notes](https://github.com/jasonding1354/PRML_Notes)<br/>
 该项目是关于机器学习经典书籍《Pattern Recognition and Machine Learning》的学习笔记，我用python实现了书中的一些实例，希望帮助感兴趣的人更好的理解
 
-2. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
-Python2.7教程
-
-3. [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br/>
+2. [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)<br/>
 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 https://github.com/scutan90/DeepLearn…
 
-4. [apachecn/AiLearning](https://github.com/apachecn/AiLearning)<br/>
+3. [apachecn/AiLearning](https://github.com/apachecn/AiLearning)<br/>
 AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
 
-5. [google/dopamine](https://github.com/google/dopamine)<br/>
-Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. https://github.com/google/dopamine
-
-6. [youfou/wxpy](https://github.com/youfou/wxpy)<br/>
-微信机器人 / 可能是最优雅的微信个人号 API ✨✨ http://wxpy.readthedocs.io
-
-7. [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)<br/>
-Python - 100天从新手到大师
-
-8. [echohandsome/Machine_Learning_in_Action_for_smallwhite](https://github.com/echohandsome/Machine_Learning_in_Action_for_smallwhite)<br/>
+4. [echohandsome/Machine_Learning_in_Action_for_smallwhite](https://github.com/echohandsome/Machine_Learning_in_Action_for_smallwhite)<br/>
 面向机器学习初学者的最全注释版本的机器学习实战的代码
 
-9. [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)<br/>
+5. [Vay-keen/Machine-learning-learning-notes](https://github.com/Vay-keen/Machine-learning-learning-notes)<br/>
 周志华《机器学习》又称西瓜书是一本较为全面的书籍，书中详细介绍了机器学习领域不同类型的算法(例如：监督学习、无监督学习、半监督学习、强化学习、集成降维、特征选择等)，记录了本人在学习过程中的理解思路与扩展知识点，希望对新人阅读西瓜书有所帮助！
 
-10. [lihanghang/Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)<br/>
+6. [lihanghang/Knowledge-Graph](https://github.com/lihanghang/Knowledge-Graph)<br/>
 深度学习与自然语言处理、知识图谱、对话系统。包括知识获取、知识库构建、知识库应用三大技术研究与应用。
 
-11. [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo)<br/>
+7. [NTMC-Community/MatchZoo](https://github.com/NTMC-Community/MatchZoo)<br/>
 Facilitating the design, comparison and sharing of deep text matching models.
 
-12. [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)<br/>
+8. [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)<br/>
 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning https://nndl.github.io
 
-13. [Eilene/spatio-temporal-paper-list](https://github.com/Eilene/spatio-temporal-paper-list)<br/>
-Spatio-temporal modeling 论文列表（主要是graph convolution相关)
-
-14. [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)<br/>
+9. [zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)<br/>
 pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行
+
+10. [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)<br/>
+deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
+
+11. [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br/>
+吴恩达老师的机器学习课程个人笔记
+
+12. [liuyuemaicha/cnn_model](https://github.com/liuyuemaicha/cnn_model)<br/>
+
+13. [juwikuang/machine_learning_step_by_step](https://github.com/juwikuang/machine_learning_step_by_step)<br/>
+machine_learning_step_by_step是一个python中文项目。在这个项目中，我会一步一步手写各种机器学习算法，并加以解释。.machine_learning_step_by_step is a python repo. I write machine learning algorithms step by step and explain each step. This is for education.
+
+14. [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br/>
+Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 https://deeplearning-ai.github.io/mac…
+
+15. [FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner)<br/>
+NLP上手教程
+
+16. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)<br/>
+《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 
 ### [Interesting projects](#interesting-projects)
 
@@ -579,6 +692,18 @@ A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统�
 
 18. [wangshub/romantic_page](https://github.com/wangshub/romantic_page)<br/>
 👫 程序员的表白 http://thinkhard.tech/romantic_page/
+
+19. [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)<br/>
+🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
+
+20. [nem0/LumixEngine](https://github.com/nem0/LumixEngine)<br/>
+3D Game Engine
+
+21. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br/>
+Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+
+22. [996icu/996.ICU](https://github.com/996icu/996.ICU)<br/>
+Repo for counting stars and contributing. Press F to pay respect to glorious developers. https://996.icu
 
 ### [Game](#game)
 
@@ -692,6 +817,24 @@ A full-featured download manager. https://motrix.app/
 34. [sxei/chrome-plugin-demo](https://github.com/sxei/chrome-plugin-demo)<br/>
 《Chrome插件开发全攻略》配套完整Demo，欢迎clone体验 http://blog.haoji.me/chrome-plugin-de…
 
+35. [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)<br/>
+If you want to keep a secret, you must also hide it from yourself.
+
+36. [cnlh/nps](https://github.com/cnlh/nps)<br/>
+一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
+
+37. [waynecz/dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx)<br/>
+🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步 https://chrome.google.com/webstore/de…
+
+38. [unbug/codelf](https://github.com/unbug/codelf)<br/>
+A search tool helps dev to solve the naming things problem. https://unbug.github.io/codelf/
+
+39. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)<br/>
+翻墙-科学上网
+
+40. [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain)<br/>
+区块链 - 中文资源 https://liuboyu.github.io/blockchain/
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -730,98 +873,15 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 20. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
 📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
 
+21. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
+定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
+
+22. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
+东南大学《知识图谱》研究生课程
+
 ***
 
 ### Sum
-
-224. [deepfunc/react-test-demo](https://github.com/deepfunc/react-test-demo)<br/>
-Web 前端单元测试到底要怎么写？看这一篇就够了
-
-225. [dongyuanxin/blog](https://github.com/dongyuanxin/blog)<br/>
-📚 专注前端 https://xin-tan.com
-
-226. [eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)<br/>
-📘《Python进阶》（Intermediate Python 中文版） http://interpy.eastlakeside.com
-
-227. [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows)<br/>
-If you want to keep a secret, you must also hide it from yourself.
-
-228. [fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)<br/>
-deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）
-
-229. [fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)<br/>
-吴恩达老师的机器学习课程个人笔记
-
-230. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
-定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
-
-231. [cnlh/nps](https://github.com/cnlh/nps)<br/>
-一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。
-
-232. [liuyuemaicha/cnn_model](https://github.com/liuyuemaicha/cnn_model)<br/>
-
-233. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
-东南大学《知识图谱》研究生课程
-
-234. [waynecz/dadda-translate-crx](https://github.com/waynecz/dadda-translate-crx)<br/>
-🐱 比较好看的 Chrome 划词翻译(搜狗)插件，自带生词簿及吐司弹词记忆，可与有道、扇贝单词同步 https://chrome.google.com/webstore/de…
-
-235. [byteblogs168/hello-blog](https://github.com/byteblogs168/hello-blog)<br/>
-hello-blog 一个简单通用的前后分离的博客系统 后端代码 文档地址 http://helloblog.byteblogs.com/docs/
-
-236. [TalkingData/inmap](https://github.com/TalkingData/inmap)<br/>
-大数据地理可视化 http://inmap.talkingdata.com
-
-237. [viserjs/viser](https://github.com/viserjs/viser)<br/>
-viser is a toolkit fit for data vis engineer. https://viserjs.gitee.io/ https://viserjs.github.io
-
-238. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)<br/>
-All Algorithms implemented in Python https://travis-ci.com/TheAlgorithms/P…
-
-239. [Yixiaohan/show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)<br/>
-Python 练习册，每天一个小程序
-
-240. [mp2930696631/d3.js-demo](https://github.com/mp2930696631/d3.js-demo)<br/>
-一些小的d3.js的demo，欢迎大家下载
-
-241. [greatghoul/remote-working](https://github.com/greatghoul/remote-working)<br/>
-收集整理远程工作相关的资料 https://github.com/greatghoul/remote-…
-
-242. [unbug/codelf](https://github.com/unbug/codelf)<br/>
-A search tool helps dev to solve the naming things problem. https://unbug.github.io/codelf/
-
-243. [apachecn/awesome-list](https://github.com/apachecn/awesome-list)<br/>
-awesome-list
-
-244. [kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)<br/>
-🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
-
-245. [juwikuang/machine_learning_step_by_step](https://github.com/juwikuang/machine_learning_step_by_step)<br/>
-machine_learning_step_by_step是一个python中文项目。在这个项目中，我会一步一步手写各种机器学习算法，并加以解释。.machine_learning_step_by_step is a python repo. I write machine learning algorithms step by step and explain each step. This is for education.
-
-246. [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)<br/>
-Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著 https://deeplearning-ai.github.io/mac…
-
-247. [nem0/LumixEngine](https://github.com/nem0/LumixEngine)<br/>
-3D Game Engine
-
-248. [gothinkster/realworld](https://github.com/gothinkster/realworld)<br/>
-"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io/
-
-249. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)<br/>
-Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
-250. [996icu/996.ICU](https://github.com/996icu/996.ICU)<br/>
-Repo for counting stars and contributing. Press F to pay respect to glorious developers. https://996.icu
-
-251. [webpack/webpack](https://github.com/webpack/webpack)<br/>
-A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. https://webpack.js.org
-
-252. [pytorch/pytorch](https://github.com/pytorch/pytorch)<br/>
-Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org
-
-253. [roger-hiro/BlogFN](https://github.com/roger-hiro/BlogFN)<br/>
-前端劝退指南，公众号[前端劝退师]的作者
 
 254. [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)<br/>
 💎1MB lightweight face detection model (1MB轻量级人脸检测模型)
@@ -862,17 +922,11 @@ A fully pluggable tool for identifying and reporting on patterns in JavaScript h
 266. [heyushuo/npm-package](https://github.com/heyushuo/npm-package)<br/>
 发布自己的vue组件到npm上
 
-267. [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang)<br/>
-翻墙-科学上网
-
 268. [ProtoTeam/blog](https://github.com/ProtoTeam/blog)<br/>
 蚂蚁数据体验技术团队的文章仓库 https://juejin.im/user/59659aff518825…
 
 269. [baidu/amis](https://github.com/baidu/amis)<br/>
 前端低代码框架 https://baidu.github.io/amis/
-
-270. [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain)<br/>
-区块链 - 中文资源 https://liuboyu.github.io/blockchain/
 
 271. [Cushychicken/cushychicken.github.io](https://github.com/Cushychicken/cushychicken.github.io)<br/>
 Nash Reilly's personal blog.
@@ -888,9 +942,6 @@ Stellarium is a free GPL software which renders realistic skies in real time wit
 
 275. [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)<br/>
 中文独立博客列表 https://mailchi.mp/7585311373a3/indie…
-
-276. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)<br/>
-《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
 
 277. [facebook/react](https://github.com/facebook/react)<br/>
 A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
@@ -1077,9 +1128,6 @@ A curated list for when naming things is done right.
 
 338. [suguangwen/neky-err](https://github.com/suguangwen/neky-err)<br/>
 前端异常捕捉/Front end anomaly capture.
-
-339. [FudanNLP/nlp-beginner](https://github.com/FudanNLP/nlp-beginner)<br/>
-NLP上手教程
 
 340. [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer)<br/>
 🏹 A smart and modern theme for Hexo. http://fi3ework.github.io/archer-demo
@@ -1285,18 +1333,6 @@ JavaScript Promise迷你书 http://liubin.github.io/promises-book/
 407. [nhn/toast-ui.react-calendar](https://github.com/nhn/toast-ui.react-calendar)<br/>
 TOAST UI Calendar wrapper for React.js
 
-408. [d2forum/13th](https://github.com/d2forum/13th)<br/>
-第十三届D2前端技术论坛
-
-409. [d2forum/12th](https://github.com/d2forum/12th)<br/>
-第十二届D2前端技术论坛
-
-410. [d2forum/11th](https://github.com/d2forum/11th)<br/>
-第十一届D2前端技术论坛
-
-411. [d2forum/14th](https://github.com/d2forum/14th)<br/>
-第十四届D2前端技术论坛
-
 412. [codenamecpp/carnage3d](https://github.com/codenamecpp/carnage3d)<br/>
 Reimplementation of Grand Theft Auto 1 [GTA1]
 
@@ -1323,15 +1359,6 @@ JS 函数式编程指南中文版 https://www.gitbook.com/book/llh91100…
 
 420. [NLRX-WJC/Learn-Vue-Source-Code](https://github.com/NLRX-WJC/Learn-Vue-Source-Code)<br/>
 👍 👍逐行剖析Vue.js源码 在线阅读地址https://nlrx-wjc.github.io/Learn-Vue-Source-Code/
-
-421. [d2forum/10th](https://github.com/d2forum/10th)<br/>
-第十届D2前端技术论坛
-
-422. [d2forum/8th](https://github.com/d2forum/8th)<br/>
-第八届D2前端技术论坛
-
-423. [d2forum/9th](https://github.com/d2forum/9th)<br/>
-第九届D2前端技术论坛
 
 424. [luoxue-victor/webpack-box](https://github.com/luoxue-victor/webpack-box)<br/>
 我有一个梦想，就是将所有webpack相关的最佳实践都集成在这里，本项目长期维护/更新，有兴趣的同学可以一起成为维护者。issue下面TODO标签是接下来要做的事情，欢迎所有人都可以来提，让我们共创 webpack 工厂！
@@ -1369,9 +1396,6 @@ Short JavaScript code snippets for all your development needs https://www.30seco
 435. [ant-design/ant-motion](https://github.com/ant-design/ant-motion)<br/>
 🚴 Animate specification and components of Ant Design http://motion.ant.design
 
-436. [d2forum/7th](https://github.com/d2forum/7th)<br/>
-第七届D2前端技术论坛
-
 437. [raoenhui/next-site-cn](https://github.com/raoenhui/next-site-cn)<br/>
 next.js中文文档网站 http://nextjs.frontendx.cn
 
@@ -1384,9 +1408,6 @@ next.js中文文档网站 http://nextjs.frontendx.cn
 440. [rstacruz/nprogress](https://github.com/rstacruz/nprogress)<br/>
 For slim progress bars like on YouTube, Medium, etc http://ricostacruz.com/nprogress
 
-441. [d2forum/6th](https://github.com/d2forum/6th)<br/>
-第六届D2前端技术论坛「Boom！ Let’s Get D2 Crazy!」
-
 442. [bahmutov/npm-install](https://github.com/bahmutov/npm-install)<br/>
 GitHub Action for install npm dependencies with caching without any configuration https://github.com/marketplace/action…
 
@@ -1395,21 +1416,6 @@ GitHub Action for install npm dependencies with caching without any configuratio
 
 444. [postcss/postcss](https://github.com/postcss/postcss)<br/>
 Transforming styles with JS plugins https://postcss.org/
-
-445. [d2forum/1th](https://github.com/d2forum/1th)<br/>
-第一届D2前端技术论坛「前端技术：未来一两年的发展与实践」
-
-446. [d2forum/2th](https://github.com/d2forum/2th)<br/>
-第二届D2前端技术论坛「现代前端技术在网站中的应用」
-
-447. [d2forum/3th](https://github.com/d2forum/3th)<br/>
-第三届D2前端技术论坛「前沿技术和前端协作」
-
-448. [d2forum/4th](https://github.com/d2forum/4th)<br/>
-第四届D2前端技术论坛「蜕变·成长」
-
-449. [d2forum/5th](https://github.com/d2forum/5th)<br/>
-第五届D2前端技术论坛「D平方（D2 = D2），潜能无限」
 
 450. [creatorsdaily/client.creatorsdaily.com](https://github.com/creatorsdaily/client.creatorsdaily.com)<br/>
 「创造者日报」前端项目 https://creatorsdaily.com
@@ -1447,11 +1453,14 @@ Visual Studio Code https://code.visualstudio.com
 461. [umijs/fabric](https://github.com/umijs/fabric)<br/>
 💪一些保证代码质量的配置
 
-462. []()<br/>
+462. [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS)<br/>
+🔆 an open source syntax highlighter written in pure javascript https://enlighterjs.org/
 
-463. []()<br/>
+463. [you-dont-need/You-Dont-Need-Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)<br/>
+List of functions which you can use to replace moment.js + ESLint Plugin
 
-464. []()<br/>
+464. [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)<br/>
+CSS is powerful, you can do a lot of things without JS.
 
 465. []()<br/>
 
@@ -1484,3 +1493,23 @@ Visual Studio Code https://code.visualstudio.com
 479. []()<br/>
 
 450. []()<br/>
+
+451. []()<br/>
+
+452. []()<br/>
+
+453. []()<br/>
+
+454. []()<br/>
+
+455. []()<br/>
+
+456. []()<br/>
+
+457. []()<br/>
+
+458. []()<br/>
+
+459. []()<br/>
+
+460. []()<br/>
