@@ -486,7 +486,7 @@ A bundler for javascript and friends. Packs many modules into a few bundled asse
 
 #### [Blog](#blog)
 
-1. [joeyguo/blog](https://github.com/joeyguo/blog)
+1. [joeyguo/blog](https://github.com/joeyguo/blog)<br/>
 joeyguo's blog 请 Watch 或 Star https://github.com/joeyguo/blog
 
 2. [xufei/blog](https://github.com/xufei/blog)<br/>
@@ -637,6 +637,9 @@ NLP上手教程
 
 16. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)<br/>
 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book
+
+17. [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)<br/>
+💎1MB lightweight face detection model (1MB轻量级人脸检测模型)
 
 ### [Interesting projects](#interesting-projects)
 
@@ -882,9 +885,6 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 ***
 
 ### Sum
-
-254. [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)<br/>
-💎1MB lightweight face detection model (1MB轻量级人脸检测模型)
 
 255. [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo)<br/>
 一步一步介绍如何给项目添加单元测试
