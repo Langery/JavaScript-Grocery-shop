@@ -60,6 +60,9 @@ A Vue.js 2.0 UI Toolkit for Web https://element.eleme.io/
 9. [Andraw-lin/about-Vue](https://github.com/Andraw-lin/about-Vue)<br/>
 📔 Vue 源码的探讨和学习
 
+10. [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV)<br/>
+基于Vue框架构建的github数据可视化平台 https://hongqingcao.github.io/GitDataV/
+
 ##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
@@ -371,6 +374,21 @@ Web 前端单元测试到底要怎么写？看这一篇就够了
 53. [roger-hiro/BlogFN](https://github.com/roger-hiro/BlogFN)<br/>
 前端劝退指南，公众号[前端劝退师]的作者
 
+54. [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo)<br/>
+一步一步介绍如何给项目添加单元测试
+
+55. [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture)<br/>
+架构师技术图谱，助你早日成为架构师
+
+56. [JacksonTian/fks](https://github.com/JacksonTian/fks)<br/>
+前端技能汇总 Frontend Knowledge Structure http://html5ify.com/fks/
+
+57. [hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)<br/>
+This is a favorites, with a mobile web tips.
+
+58. [heyushuo/npm-package](https://github.com/heyushuo/npm-package)<br/>
+发布自己的vue组件到npm上
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -384,6 +402,12 @@ Web 前端单元测试到底要怎么写？看这一篇就够了
 
 4. [aliyunfe/weekly](https://github.com/aliyunfe/weekly)<br/>
 《阿里云前端技术周刊》
+
+5. [rogerzhu/MNWeeklyCategory](https://github.com/rogerzhu/MNWeeklyCategory)<br/>
+码农周刊一周精选分类
+
+6. [1688fe/magazine](https://github.com/1688fe/magazine)<br/>
+CBU体验技术 - 前端开发者期刊
 
 #### [Web Book](#web-book)
 
@@ -407,6 +431,9 @@ A book about functional programming in JavaScript.
 
 7. [TalkingData/inmap](https://github.com/TalkingData/inmap)<br/>
 大数据地理可视化 http://inmap.talkingdata.com
+
+8. [ProtoTeam/blog](https://github.com/ProtoTeam/blog)<br/>
+蚂蚁数据体验技术团队的文章仓库 https://juejin.im/user/59659aff518825…
 
 #### [Interview](#interview)
 
@@ -484,6 +511,15 @@ viser is a toolkit fit for data vis engineer. https://viserjs.gitee.io/ https://
 15. [webpack/webpack](https://github.com/webpack/webpack)<br/>
 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff. https://webpack.js.org
 
+16. [babel/babel](https://github.com/babel/babel)<br/>
+🐠 Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
+
+17. [eslint/eslint](https://github.com/eslint/eslint)<br/>
+A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
+
+18. [baidu/amis](https://github.com/baidu/amis)<br/>
+前端低代码框架 https://baidu.github.io/amis/
+
 #### [Blog](#blog)
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)<br/>
@@ -512,6 +548,9 @@ SHERlocked93 的个人博客 🤪
 
 9. [byteblogs168/hello-blog](https://github.com/byteblogs168/hello-blog)<br/>
 hello-blog 一个简单通用的前后分离的博客系统 后端代码 文档地址 http://helloblog.byteblogs.com/docs/
+
+10. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
+自我量化指南 https://ziwolianghua.com
 
 #### [D2前端技术论坛](#d2前端技术论坛)
 
@@ -641,6 +680,9 @@ NLP上手教程
 17. [Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)<br/>
 💎1MB lightweight face detection model (1MB轻量级人脸检测模型)
 
+18. [wx-chevalier/Mathematics-Series](https://github.com/wx-chevalier/Mathematics-Series)<br/>
+📚 [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇
+
 ### [Interesting projects](#interesting-projects)
 
 1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
@@ -707,6 +749,9 @@ Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar
 
 22. [996icu/996.ICU](https://github.com/996icu/996.ICU)<br/>
 Repo for counting stars and contributing. Press F to pay respect to glorious developers. https://996.icu
+
+23. [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)<br/>
+中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 
 ### [Game](#game)
 
@@ -882,51 +927,12 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 22. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
 东南大学《知识图谱》研究生课程
 
-***
-
-### Sum
-
-255. [tank0317/unit-test-demo](https://github.com/tank0317/unit-test-demo)<br/>
-一步一步介绍如何给项目添加单元测试
-
-256. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
-自我量化指南 https://ziwolianghua.com
-
-257. [toutiaoio/awesome-architecture](https://github.com/toutiaoio/awesome-architecture)<br/>
-架构师技术图谱，助你早日成为架构师
-
-258. [wx-chevalier/Mathematics-Series](https://github.com/wx-chevalier/Mathematics-Series)<br/>
-📚 [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇
-
-259. [JacksonTian/fks](https://github.com/JacksonTian/fks)<br/>
-前端技能汇总 Frontend Knowledge Structure http://html5ify.com/fks/
-
-260. [hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites)<br/>
-This is a favorites, with a mobile web tips.
-
 261. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
-262. [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV)<br/>
-基于Vue框架构建的github数据可视化平台 https://hongqingcao.github.io/GitDataV/
+***
 
-263. [babel/babel](https://github.com/babel/babel)<br/>
-🐠 Babel is a compiler for writing next generation JavaScript. https://babeljs.io/
-
-264. [eslint/eslint](https://github.com/eslint/eslint)<br/>
-A fully pluggable tool for identifying and reporting on patterns in JavaScript https://eslint.org
-
-265. [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)<br/>
-中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
-
-266. [heyushuo/npm-package](https://github.com/heyushuo/npm-package)<br/>
-发布自己的vue组件到npm上
-
-268. [ProtoTeam/blog](https://github.com/ProtoTeam/blog)<br/>
-蚂蚁数据体验技术团队的文章仓库 https://juejin.im/user/59659aff518825…
-
-269. [baidu/amis](https://github.com/baidu/amis)<br/>
-前端低代码框架 https://baidu.github.io/amis/
+### Sum
 
 271. [Cushychicken/cushychicken.github.io](https://github.com/Cushychicken/cushychicken.github.io)<br/>
 Nash Reilly's personal blog.
@@ -949,9 +955,6 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 278. [frontend9/fe9-library](https://github.com/frontend9/fe9-library)<br/>
 九部知识库
 
-279. [rogerzhu/MNWeeklyCategory](https://github.com/rogerzhu/MNWeeklyCategory)<br/>
-码农周刊一周精选分类
-
 280. [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd)<br/>
 xkcd styled chart lib https://timqian.com/chart.xkcd/
 
@@ -972,9 +975,6 @@ Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁
 
 286. [overtrue/share.js](https://github.com/overtrue/share.js)<br/>
 一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等 http://overtrue.github.io/share.js/
-
-287. [1688fe/magazine](https://github.com/1688fe/magazine)<br/>
-CBU体验技术 - 前端开发者期刊
 
 288. [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)<br/>
 GoodThingList 就是好物清单，使用文档见 Issues https://github.com/cnfeat/GoodThingLi…
@@ -1474,7 +1474,8 @@ Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学:
 468. [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series)<br/>
 📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 https://ngte-web.gitbook.io/
 
-469. []()<br/>
+469. [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)<br/>
+CSS Inspiration，在这里找到写 CSS 的灵感！ https://chokcoco.github.io/CSS-Inspir…
 
 470. []()<br/>
 
