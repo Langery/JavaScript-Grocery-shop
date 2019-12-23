@@ -1469,7 +1469,7 @@ Notes for MIT-Linear-Algebra
 📖我的博客，记录学习的一些笔记，如有喜欢，欢迎star
 
 467. [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples)<br/>
-Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。
+Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学:、机器学习、TensorFlow、Pytorch，你能想到的基于Python的小Demo都在这里。
 
 468. [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series)<br/>
 📚 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 https://ngte-web.gitbook.io/
