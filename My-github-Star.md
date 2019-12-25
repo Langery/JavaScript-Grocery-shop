@@ -1477,9 +1477,11 @@ Python小例子、小Demo一网打尽。Python基础、Web开发、数据科学:
 469. [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)<br/>
 CSS Inspiration，在这里找到写 CSS 的灵感！ https://chokcoco.github.io/CSS-Inspir…
 
-470. []()<br/>
+470. [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar)<br/>
+A lightweight, dependency-free plugin for building attributed calendars in Vue.js https://vcalendar.io
 
-471. []()<br/>
+471. [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn)<br/>
+🎓计算机技术与科学自学之旅
 
 472. []()<br/>
 
