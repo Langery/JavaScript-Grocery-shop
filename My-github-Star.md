@@ -97,6 +97,9 @@ React 源码解析 https://yuchengkai.cn/react/
 11. [remaxjs/remax](https://github.com/remaxjs/remax)<br/>
 使用真正的 React 构建小程序 https://remaxjs.org
 
+12. [facebook/react](https://github.com/facebook/react)<br/>
+A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
+
 ##### [Node](#node)
 
 1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
@@ -389,6 +392,9 @@ This is a favorites, with a mobile web tips.
 58. [heyushuo/npm-package](https://github.com/heyushuo/npm-package)<br/>
 发布自己的vue组件到npm上
 
+59. [frontend9/fe9-library](https://github.com/frontend9/fe9-library)<br/>
+九部知识库
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -549,8 +555,11 @@ SHERlocked93 的个人博客 🤪
 9. [byteblogs168/hello-blog](https://github.com/byteblogs168/hello-blog)<br/>
 hello-blog 一个简单通用的前后分离的博客系统 后端代码 文档地址 http://helloblog.byteblogs.com/docs/
 
-10. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
-自我量化指南 https://ziwolianghua.com
+10. [Cushychicken/cushychicken.github.io](https://github.com/Cushychicken/cushychicken.github.io)<br/>
+Nash Reilly's personal blog.
+
+11. [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)<br/>
+中文独立博客列表 https://mailchi.mp/7585311373a3/indie…
 
 #### [D2前端技术论坛](#d2前端技术论坛)
 
@@ -753,6 +762,12 @@ Repo for counting stars and contributing. Press F to pay respect to glorious dev
 23. [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)<br/>
 中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据 Node.js 爬虫。
 
+24. [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin)<br/>
+搜狗拼音输入法的几款极简风格皮肤
+
+25. [daihy8759/ieaseMusic](https://github.com/daihy8759/ieaseMusic)<br/>
+网易云音乐第三方🎵
+
 ### [Game](#game)
 
 1. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
@@ -883,6 +898,9 @@ A search tool helps dev to solve the naming things problem. https://unbug.github
 40. [LiuBoyu/blockchain](https://github.com/LiuBoyu/blockchain)<br/>
 区块链 - 中文资源 https://liuboyu.github.io/blockchain/
 
+41. [Stellarium/stellarium](https://github.com/Stellarium/stellarium)<br/>
+Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope. http://stellarium.org
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -927,33 +945,15 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 22. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
 东南大学《知识图谱》研究生课程
 
-261. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
+23. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
+
+24. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
+自我量化指南 https://ziwolianghua.com
 
 ***
 
 ### Sum
-
-271. [Cushychicken/cushychicken.github.io](https://github.com/Cushychicken/cushychicken.github.io)<br/>
-Nash Reilly's personal blog.
-
-272. [Stellarium/stellarium](https://github.com/Stellarium/stellarium)<br/>
-Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope. http://stellarium.org
-
-273. [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin)<br/>
-搜狗拼音输入法的几款极简风格皮肤
-
-274. [daihy8759/ieaseMusic](https://github.com/daihy8759/ieaseMusic)<br/>
-网易云音乐第三方🎵
-
-275. [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)<br/>
-中文独立博客列表 https://mailchi.mp/7585311373a3/indie…
-
-277. [facebook/react](https://github.com/facebook/react)<br/>
-A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
-
-278. [frontend9/fe9-library](https://github.com/frontend9/fe9-library)<br/>
-九部知识库
 
 280. [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd)<br/>
 xkcd styled chart lib https://timqian.com/chart.xkcd/
@@ -1483,21 +1483,29 @@ A lightweight, dependency-free plugin for building attributed calendars in Vue.j
 471. [ossu/computer-science-cn](https://github.com/ossu/computer-science-cn)<br/>
 🎓计算机技术与科学自学之旅
 
-472. []()<br/>
+472. [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)<br/>
+人人都能用英语
 
-473. []()<br/>
+473. [xiaoming2028/Free-PAC](https://github.com/xiaoming2028/Free-PAC)<br/>
+科学上网/梯子/自由上网/翻墙 SS/SSR/V2Ray/Brook 搭建教程
 
-474. []()<br/>
+474. [KeKe-Li/book](https://github.com/KeKe-Li/book)<br/>
+📚 All programming languages books https://github.com/KeKe-Li/book
 
-475. []()<br/>
+475. [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)<br/>
+深度学习入门教程&&优秀文章&&Deep Learning Tutorial
 
-476. []()<br/>
+476. [Programming-With-Love/Programming-With-Love-Profile](https://github.com/Programming-With-Love/Programming-With-Love-Profile)<br/>
+🍔 ❤️ 💰 ⚡️ 为爱发电 (Programming With Love) 开源技术爱好者组织 | ✨ 组织简介 | 👷 所有成员及架构 | 🐧 文明守则-开源精神 | ➕ 加入我们 | 项目转入 ⬇️ && 转出 ⬆️
 
-477. []()<br/>
+477. [star7th/showdoc](https://github.com/star7th/showdoc)<br/>
+ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 https://www.showdoc.cc
 
-478. []()<br/>
+478. [ixinzhi/zsxq](https://github.com/ixinzhi/zsxq)<br/>
+📚 知识星球精华整理
 
-479. []()<br/>
+479. [apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh)<br/>
+📖 [译] 写给不耐烦程序员的 JavaScript
 
 450. []()<br/>
 
