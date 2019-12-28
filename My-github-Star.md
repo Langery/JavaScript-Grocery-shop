@@ -1507,11 +1507,14 @@ ShowDoc is a tool greatly applicable for an IT team to share documents online一
 479. [apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh)<br/>
 📖 [译] 写给不耐烦程序员的 JavaScript
 
-450. []()<br/>
+450. [fastify/fastify](https://github.com/fastify/fastify)<br/>
+Fast and low overhead web framework, for Node.js https://www.fastify.io
 
-451. []()<br/>
+451. [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)<br/>
+每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。 https://wubaiqing.github.io/zaobao/ot…
 
-452. []()<br/>
+452. [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)<br/>
+包含简历常用例句
 
 453. []()<br/>
 
@@ -1528,3 +1531,23 @@ ShowDoc is a tool greatly applicable for an IT team to share documents online一
 459. []()<br/>
 
 460. []()<br/>
+
+461. []()<br/>
+
+462. []()<br/>
+
+463. []()<br/>
+
+464. []()<br/>
+
+465. []()<br/>
+
+466. []()<br/>
+
+467. []()<br/>
+
+468. []()<br/>
+
+469. []()<br/>
+
+470. []()<br/>
