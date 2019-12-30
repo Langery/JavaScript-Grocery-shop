@@ -63,6 +63,12 @@ A Vue.js 2.0 UI Toolkit for Web https://element.eleme.io/
 10. [HongqingCao/GitDataV](https://github.com/HongqingCao/GitDataV)<br/>
 基于Vue框架构建的github数据可视化平台 https://hongqingcao.github.io/GitDataV/
 
+11. [nmxiaowei/avue](https://github.com/nmxiaowei/avue)<br/>
+Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 https://avuejs.com
+
+12. [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design)<br/>
+本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。 http://112.74.43.150/
+
 ##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
@@ -215,6 +221,12 @@ jQuery JavaScript Library https://jquery.com/
 
 27. [alibaba/butterfly](https://github.com/alibaba/butterfly)<br/>
 🎉JavaScript Diagramming library which concentrate on flow layout canvas https://noonnightstorm.github.io
+
+28. [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd)<br/>
+xkcd styled chart lib https://timqian.com/chart.xkcd/
+
+29. [pshihn/rough](https://github.com/pshihn/rough)<br/>
+Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com
 
 #### [Periodical Information](#periodical-information)
 
@@ -560,6 +572,9 @@ Nash Reilly's personal blog.
 
 11. [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)<br/>
 中文独立博客列表 https://mailchi.mp/7585311373a3/indie…
+
+12. [fouber/blog](https://github.com/fouber/blog)<br/>
+没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
 #### [D2前端技术论坛](#d2前端技术论坛)
 
@@ -954,21 +969,6 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 ***
 
 ### Sum
-
-280. [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd)<br/>
-xkcd styled chart lib https://timqian.com/chart.xkcd/
-
-281. [pshihn/rough](https://github.com/pshihn/rough)<br/>
-Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com
-
-282. [nmxiaowei/avue](https://github.com/nmxiaowei/avue)<br/>
-Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易 https://avuejs.com
-
-283. [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design)<br/>
-本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。 http://112.74.43.150/
-
-284. [fouber/blog](https://github.com/fouber/blog)<br/>
-没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
 285. [sunoj/teaclub](https://github.com/sunoj/teaclub)<br/>
 茶友会 - 淘宝查券助手 https://chayouhui.net
@@ -1516,11 +1516,14 @@ Fast and low overhead web framework, for Node.js https://www.fastify.io
 452. [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)<br/>
 包含简历常用例句
 
-453. []()<br/>
+453. [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map)<br/>
+百度地图 React 组件 https://uiwjs.github.io/react-baidu-map/
 
-454. []()<br/>
+454. [guanpengchn/github-annual-report](https://github.com/guanpengchn/github-annual-report)<br/>
+🎁快！你的 2019 年 GitHub 报告还未领取！ https://githubreport.mdnice.com/
 
-455. []()<br/>
+455. [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge)<br/>
+前端面知识点总结
 
 456. []()<br/>
 
