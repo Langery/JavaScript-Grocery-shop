@@ -1525,25 +1525,35 @@ Fast and low overhead web framework, for Node.js https://www.fastify.io
 455. [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge)<br/>
 前端面知识点总结
 
-456. []()<br/>
+456. [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)<br/>
+Sourcetrail - free and open-source interactive source explorer https://www.sourcetrail.com/
 
-457. []()<br/>
+457. [timqian/resumd](https://github.com/timqian/resumd)<br/>
+Write resume with markdown https://resumd.t9t.io
 
-458. []()<br/>
+458. [pomber/code-surfer](https://github.com/pomber/code-surfer)<br/>
+Rad code slides <🏄/> https://codesurfer.pomb.us/
 
-459. []()<br/>
+459. [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)<br/>
+♠️ React MDX-based presentation decks https://mdx-deck.jxnblk.com
 
-460. []()<br/>
+460. [ronami/minipack](https://github.com/ronami/minipack)<br/>
+📦 A simplified example of a modern module bundler written in JavaScript
 
-461. []()<br/>
+461. [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)<br/>
+🕹 Retro video game emulation for macOS https://openemu.org
 
-462. []()<br/>
+462. [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)<br/>
+一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~ https://awesome-go.cn
 
-463. []()<br/>
+463. [hex-translate/natpagle](https://github.com/hex-translate/natpagle)<br/>
+🚀《Functional Programming in JavaScrip》 中文翻译 https://github.ahthw.com/natpagle/
 
-464. []()<br/>
+464. [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br/>
+A Collection of application ideas which can be used to improve your coding skills.
 
-465. []()<br/>
+465. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)<br/>
+为方便查找对应的书籍，整理了几百本计算机类常用书籍，并且附带下载链接
 
 466. []()<br/>
 
@@ -1554,3 +1564,23 @@ Fast and low overhead web framework, for Node.js https://www.fastify.io
 469. []()<br/>
 
 470. []()<br/>
+
+471. []()<br/>
+
+472. []()<br/>
+
+473. []()<br/>
+
+474. []()<br/>
+
+475. []()<br/>
+
+476. []()<br/>
+
+477. []()<br/>
+
+478. []()<br/>
+
+479. []()<br/>
+
+480. []()<br/>
