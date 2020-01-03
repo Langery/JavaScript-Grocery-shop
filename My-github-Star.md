@@ -1555,13 +1555,17 @@ A Collection of application ideas which can be used to improve your coding skill
 465. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)<br/>
 为方便查找对应的书籍，整理了几百本计算机类常用书籍，并且附带下载链接
 
-466. []()<br/>
+466. [scrapyhub/JSpider](https://github.com/scrapyhub/JSpider)<br/>
+JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star
 
-467. []()<br/>
+467. [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs)<br/>
+Machine Learning library for the web and Node. https://www.machinelearnjs.com/
 
-468. []()<br/>
+468. [react-spring/react-three-fiber](https://github.com/react-spring/react-three-fiber)<br/>
+☘️ React renderer for Threejs (web and react-native) https://spectrum.chat/react-three-fiber
 
-469. []()<br/>
+469. [ReainL/wechat](https://github.com/ReainL/wechat)<br/>
+微信好友男女比例，区域排名，签名情感分析
 
 470. []()<br/>
 
@@ -1582,5 +1586,3 @@ A Collection of application ideas which can be used to improve your coding skill
 478. []()<br/>
 
 479. []()<br/>
-
-480. []()<br/>
