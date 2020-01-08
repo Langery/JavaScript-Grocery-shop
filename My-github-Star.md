@@ -1507,82 +1507,142 @@ ShowDoc is a tool greatly applicable for an IT team to share documents online一
 479. [apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh)<br/>
 📖 [译] 写给不耐烦程序员的 JavaScript
 
-450. [fastify/fastify](https://github.com/fastify/fastify)<br/>
+480. [fastify/fastify](https://github.com/fastify/fastify)<br/>
 Fast and low overhead web framework, for Node.js https://www.fastify.io
 
-451. [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)<br/>
+481. [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao)<br/>
 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。 https://wubaiqing.github.io/zaobao/ot…
 
-452. [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)<br/>
+482. [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume)<br/>
 包含简历常用例句
 
-453. [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map)<br/>
+483. [uiwjs/react-baidu-map](https://github.com/uiwjs/react-baidu-map)<br/>
 百度地图 React 组件 https://uiwjs.github.io/react-baidu-map/
 
-454. [guanpengchn/github-annual-report](https://github.com/guanpengchn/github-annual-report)<br/>
+484. [guanpengchn/github-annual-report](https://github.com/guanpengchn/github-annual-report)<br/>
 🎁快！你的 2019 年 GitHub 报告还未领取！ https://githubreport.mdnice.com/
 
-455. [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge)<br/>
+485. [huyaocode/webKnowledge](https://github.com/huyaocode/webKnowledge)<br/>
 前端面知识点总结
 
-456. [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)<br/>
+486. [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail)<br/>
 Sourcetrail - free and open-source interactive source explorer https://www.sourcetrail.com/
 
-457. [timqian/resumd](https://github.com/timqian/resumd)<br/>
+487. [timqian/resumd](https://github.com/timqian/resumd)<br/>
 Write resume with markdown https://resumd.t9t.io
 
-458. [pomber/code-surfer](https://github.com/pomber/code-surfer)<br/>
+488. [pomber/code-surfer](https://github.com/pomber/code-surfer)<br/>
 Rad code slides <🏄/> https://codesurfer.pomb.us/
 
-459. [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)<br/>
+489. [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck)<br/>
 ♠️ React MDX-based presentation decks https://mdx-deck.jxnblk.com
 
-460. [ronami/minipack](https://github.com/ronami/minipack)<br/>
+490. [ronami/minipack](https://github.com/ronami/minipack)<br/>
 📦 A simplified example of a modern module bundler written in JavaScript
 
-461. [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)<br/>
+491. [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu)<br/>
 🕹 Retro video game emulation for macOS https://openemu.org
 
-462. [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)<br/>
+492. [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn)<br/>
 一个很棒的Go框架、库和软件的中文收录大全。⏰脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~ https://awesome-go.cn
 
-463. [hex-translate/natpagle](https://github.com/hex-translate/natpagle)<br/>
+493. [hex-translate/natpagle](https://github.com/hex-translate/natpagle)<br/>
 🚀《Functional Programming in JavaScrip》 中文翻译 https://github.ahthw.com/natpagle/
 
-464. [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br/>
+494. [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)<br/>
 A Collection of application ideas which can be used to improve your coding skills.
 
-465. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)<br/>
+495. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)<br/>
 为方便查找对应的书籍，整理了几百本计算机类常用书籍，并且附带下载链接
 
-466. [scrapyhub/JSpider](https://github.com/scrapyhub/JSpider)<br/>
+496. [scrapyhub/JSpider](https://github.com/scrapyhub/JSpider)<br/>
 JSpider会每周更新至少一个网站的JS解密方式，欢迎 Star
 
-467. [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs)<br/>
+497. [machinelearnjs/machinelearnjs](https://github.com/machinelearnjs/machinelearnjs)<br/>
 Machine Learning library for the web and Node. https://www.machinelearnjs.com/
 
-468. [react-spring/react-three-fiber](https://github.com/react-spring/react-three-fiber)<br/>
+498. [react-spring/react-three-fiber](https://github.com/react-spring/react-three-fiber)<br/>
 ☘️ React renderer for Threejs (web and react-native) https://spectrum.chat/react-three-fiber
 
-469. [ReainL/wechat](https://github.com/ReainL/wechat)<br/>
+499. [ReainL/wechat](https://github.com/ReainL/wechat)<br/>
 微信好友男女比例，区域排名，签名情感分析
 
-470. []()<br/>
+500. [emptymalei/sci2fi](https://github.com/emptymalei/sci2fi)<br/>
+🌱 从科学到科幻 http://emptymalei.github.io/sci2fi
 
-471. []()<br/>
+501. [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)<br/>
+收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 
-472. []()<br/>
+502. [Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH)<br/>
+VS Code插件开发文档-中文版
 
-473. []()<br/>
+503. [zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese)<br/>
+中文文档@react-use https://zenghongtu.github.io/react-us…
 
-474. []()<br/>
+504. [avajs/ava](https://github.com/avajs/ava)<br/>
+🚀 JavaScript test runner
 
-475. []()<br/>
+505. [doodlewind/webgl-seminar](https://github.com/doodlewind/webgl-seminar)<br/>
+代码清晰、直接、可追溯的一系列 WebGL 示例
 
-476. []()<br/>
+506. [xiaolai/writing-comparison-in-english](https://github.com/xiaolai/writing-comparison-in-english)<br/>
+如何写好英文书面比较句
 
-477. []()<br/>
+507. [i5ting/How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly)<br/>
+[全文]如何正确的学习Node.js https://i5ting.github.io/How-to-learn…
 
-478. []()<br/>
+508. [alibaba/lightproxy](https://github.com/alibaba/lightproxy)<br/>
+Proxy & Debug tools for macOS & Windows based on whistle https://alibaba.github.io/lightproxy/…
 
-479. []()<br/>
+509. [ethereum/wiki](https://github.com/ethereum/wiki)<br/>
+The Ethereum Wiki https://www.ethereum.org
+
+510. [iina/iina](https://github.com/iina/iina)<br/>
+The modern video player for macOS. https://iina.io
+
+511. [practicalAI/practicalAI](https://github.com/practicalAI/practicalAI)<br/>
+📚 A practical approach to machine learning to enable everyone to learn, explore and build. https://practicalai.me
+
+512. [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js)<br/>
+Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework. http://www.babylonjs.com
+
+513. [minorua/Qgis2threejs](https://github.com/minorua/Qgis2threejs)<br/>
+[QGIS Plugin] a 3D web viewer exporter https://qgis2threejs.readthedocs.org/
+
+514. [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)<br/>
+🔥A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥 https://antonioru.github.io/beautiful…
+
+515. [mochajs/mocha](https://github.com/mochajs/mocha)<br/>
+☕️ simple, flexible, fun javascript test framework for node.js & the browser https://mochajs.org
+
+516. [LCTT/Grank](https://github.com/LCTT/Grank)<br/>
+Github 项目活跃度分析工具
+
+517. [koajs/router](https://github.com/koajs/router)<br/>
+Router middleware for koa.
+
+518. []()<br/>
+
+519. []()<br/>
+
+520. []()<br/>
+
+521. []()<br/>
+
+522. []()<br/>
+
+523. []()<br/>
+
+524. []()<br/>
+
+525. []()<br/>
+
+526. []()<br/>
+
+527. []()<br/>
+
+528. []()<br/>
+
+529. []()<br/>
+
+530. []()<br/>
