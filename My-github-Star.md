@@ -1621,19 +1621,26 @@ Github 项目活跃度分析工具
 517. [koajs/router](https://github.com/koajs/router)<br/>
 Router middleware for koa.
 
-518. []()<br/>
+518. [xixizhangfe/vue-loader](https://github.com/xixizhangfe/vue-loader)<br/>
+vue-loader源码分析 注释版
 
-519. []()<br/>
+519. [commenthol/date-chinese](https://github.com/commenthol/date-chinese)<br/>
+Chinese Calendar
 
-520. []()<br/>
+520. [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)<br/>
+⚓️ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
 
-521. []()<br/>
+521. [pshihn/legra](https://github.com/pshihn/legra)<br/>
+LegraJS lets you draw using LEGO like brick shapes https://legrajs.com
 
-522. []()<br/>
+522. [jwilber/roughViz](https://github.com/jwilber/roughViz)<br/>
+Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 
-523. []()<br/>
+523. [oubenruing/svg-text-animate](https://github.com/oubenruing/svg-text-animate)<br/>
+A Javascript library for convert text to SVG stroke animations in the browser. https://oubenruing.github.io/svg-text…
 
-524. []()<br/>
+524. [3b1b/manim](https://github.com/3b1b/manim)<br/>
+Animation engine for explanatory math videos
 
 525. []()<br/>
 
