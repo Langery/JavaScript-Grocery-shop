@@ -538,6 +538,15 @@ A fully pluggable tool for identifying and reporting on patterns in JavaScript h
 18. [baidu/amis](https://github.com/baidu/amis)<br/>
 前端低代码框架 https://baidu.github.io/amis/
 
+19. [overtrue/share.js](https://github.com/overtrue/share.js)<br/>
+一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等 http://overtrue.github.io/share.js/
+
+20. [sampotts/plyr](https://github.com/sampotts/plyr)<br/>
+A simple HTML5, YouTube and Vimeo player https://plyr.io
+
+21. [chenshenhai/pictool](https://github.com/chenshenhai/pictool)<br/>
+A front-end image processing gadget https://chenshenhai.github.io/pictool…
+
 #### [Blog](#blog)
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)<br/>
@@ -706,6 +715,9 @@ NLP上手教程
 
 18. [wx-chevalier/Mathematics-Series](https://github.com/wx-chevalier/Mathematics-Series)<br/>
 📚 [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇
+
+19. [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br/>
+深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. http://www.ai101edu.com
 
 ### [Interesting projects](#interesting-projects)
 
@@ -916,6 +928,12 @@ A search tool helps dev to solve the naming things problem. https://unbug.github
 41. [Stellarium/stellarium](https://github.com/Stellarium/stellarium)<br/>
 Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope. http://stellarium.org
 
+42. [sunoj/teaclub](https://github.com/sunoj/teaclub)<br/>
+茶友会 - 淘宝查券助手 https://chayouhui.net
+
+43. [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)<br/>
+GoodThingList 就是好物清单，使用文档见 Issues https://github.com/cnfeat/GoodThingLi…
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -969,24 +987,6 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 ***
 
 ### Sum
-
-285. [sunoj/teaclub](https://github.com/sunoj/teaclub)<br/>
-茶友会 - 淘宝查券助手 https://chayouhui.net
-
-286. [overtrue/share.js](https://github.com/overtrue/share.js)<br/>
-一键分享到微博、QQ空间、QQ好友、微信、腾讯微博、豆瓣、Facebook、Twitter、Linkedin、Google+、点点等 http://overtrue.github.io/share.js/
-
-288. [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)<br/>
-GoodThingList 就是好物清单，使用文档见 Issues https://github.com/cnfeat/GoodThingLi…
-
-289. [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br/>
-深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. http://www.ai101edu.com
-
-290. [sampotts/plyr](https://github.com/sampotts/plyr)<br/>
-A simple HTML5, YouTube and Vimeo player https://plyr.io
-
-291. [chenshenhai/pictool](https://github.com/chenshenhai/pictool)<br/>
-A front-end image processing gadget https://chenshenhai.github.io/pictool…
 
 292. [joye61/cl-utils](https://github.com/joye61/cl-utils)<br/>
 一个非主流但非常实用的UI仓库
@@ -1653,3 +1653,23 @@ Animation engine for explanatory math videos
 529. []()<br/>
 
 530. []()<br/>
+
+531. []()<br/>
+
+532. []()<br/>
+
+533. []()<br/>
+
+534. []()<br/>
+
+535. []()<br/>
+
+536. []()<br/>
+
+537. []()<br/>
+
+538. []()<br/>
+
+539. []()<br/>
+
+540. []()<br/>
