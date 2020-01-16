@@ -1642,17 +1642,23 @@ A Javascript library for convert text to SVG stroke animations in the browser. h
 524. [3b1b/manim](https://github.com/3b1b/manim)<br/>
 Animation engine for explanatory math videos
 
-525. []()<br/>
+525. [encode/httpx](https://github.com/encode/httpx)<br/>
+A next generation HTTP client for Python. 🦋 https://www.python-httpx.org/
 
-526. []()<br/>
+526. [azl397985856/automate-everything](https://github.com/azl397985856/automate-everything)<br/>
+这是我准备写的第一本书，其实早些时候已经打算开始写书了，只是苦于没有写书经验，无从下手。写书不同于博客，写书需要将知识，经验等系统化地讲述出来，而我现在恰巧缺乏这种表现能力。因此我决定在这里将项目中零散的东西记录下来，然后后期润色一下，写成一本书。
 
-527. []()<br/>
+527. [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)<br/>
+A curated list of resources for Chinese NLP 中文自然语言处理相关资料
 
-528. []()<br/>
+528. [bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)<br/>
+Pro Gi­t 第二版 ­简体中文 https://www.gitbook.com/book/bingohua…
 
-529. []()<br/>
+529. [ecrmnn/collect.js](https://github.com/ecrmnn/collect.js)<br/>
+💎 Convenient and dependency free wrapper for working with arrays and objects https://collect.js.org
 
-530. []()<br/>
+530. [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com)<br/>
+HelloGitHub.com 网站源码 https://hellogithub.com
 
 531. []()<br/>
 
