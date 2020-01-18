@@ -11,6 +11,7 @@
     - <a href="#node">Node</a>
     - <a href="#wechat">Wechat</a>
     - <a href="#d3">D3</a>
+    - <a href="#canvas-and-svg">Canvas and SVG</a>
   - <a href="#node_modular">node_modular</a>
   - <a href="#periodical-information">Periodical Information</a>
   - <a href="#weekly">Weekly</a>
@@ -106,6 +107,9 @@ React 源码解析 https://yuchengkai.cn/react/
 12. [facebook/react](https://github.com/facebook/react)<br/>
 A declarative, efficient, and flexible JavaScript library for building user interfaces. https://reactjs.org
 
+13. [margox/braft-editor](https://github.com/margox/braft-editor)<br/>
+美观易用的React富文本编辑器，基于draft-js开发 https://braft.margox.cn/
+
 ##### [Node](#node)
 
 1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
@@ -150,6 +154,11 @@ Two-dimensional recursive spatial subdivision. https://observablehq.com/collecti
 
 5. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
 2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
+
+#### [Canvas and SVG](#canvas-and-svg)
+
+1. [metafizzy/zdog](https://github.com/metafizzy/zdog)<br/>
+Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog
 
 #### [node_modular](#node_modular)
 
@@ -406,6 +415,12 @@ This is a favorites, with a mobile web tips.
 
 59. [frontend9/fe9-library](https://github.com/frontend9/fe9-library)<br/>
 九部知识库
+
+60. [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)<br/>
+2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
+
+61. [sanyuan0704/frontend_daily_question](https://github.com/sanyuan0704/frontend_daily_question)<br/>
+前端每日一问，积累前端核心知识，全面进阶高级前端。 https://sanyuan0704.github.io/fronten…
 
 #### [Weekly](#weekly)
 
@@ -795,6 +810,9 @@ Repo for counting stars and contributing. Press F to pay respect to glorious dev
 25. [daihy8759/ieaseMusic](https://github.com/daihy8759/ieaseMusic)<br/>
 网易云音乐第三方🎵
 
+26. [egotong/nows](https://github.com/egotong/nows)<br/>
+毒鸡汤
+
 ### [Game](#game)
 
 1. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
@@ -969,51 +987,36 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 11. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)<br/>
 📚 经典技术书籍推荐，持续更新...
 
-20. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
+12. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
 📚 免费的计算机编程类中文书籍，欢迎投稿 http://weibo.com/justjavac
 
-21. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
+13. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)<br/>
 定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com
 
-22. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
+14. [npubird/KnowledgeGraphCourse](https://github.com/npubird/KnowledgeGraphCourse)<br/>
 东南大学《知识图谱》研究生课程
 
-23. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
+15. [julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)<br/>
 本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售
 
-24. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
+16. [bestony/self-quantification](https://github.com/bestony/self-quantification)<br/>
 自我量化指南 https://ziwolianghua.com
+
+17. [xiaoweiruby/Thirty-Guide](https://github.com/xiaoweiruby/Thirty-Guide)<br/>
+三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
+
+18. [phodal/github](https://github.com/phodal/github)<br/>
+GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.phodal.com
 
 ***
 
 ### Sum
 
-292. [joye61/cl-utils](https://github.com/joye61/cl-utils)<br/>
-一个非主流但非常实用的UI仓库
+292. ~~[joye61/cl-utils](https://github.com/joye61/cl-utils)<br/>
+一个非主流但非常实用的UI仓库~~
 
-293. [margox/braft-editor](https://github.com/margox/braft-editor)<br/>
-美观易用的React富文本编辑器，基于draft-js开发 https://braft.margox.cn/
-
-294. [xiaoweiruby/Thirty-Guide](https://github.com/xiaoweiruby/Thirty-Guide)<br/>
-三十而立| 互联网时代的生存指南——帮助你解决三十岁之前的人生困境！
-
-295. [0voice/from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)<br/>
-2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT
-
-296. [phodal/github](https://github.com/phodal/github)<br/>
-GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.phodal.com
-
-297. [sanyuan0704/frontend_daily_question](https://github.com/sanyuan0704/frontend_daily_question)<br/>
-前端每日一问，积累前端核心知识，全面进阶高级前端。 https://sanyuan0704.github.io/fronten…
-
-298. [egotong/nows](https://github.com/egotong/nows)<br/>
-毒鸡汤
-
-299. [metafizzy/zdog](https://github.com/metafizzy/zdog)<br/>
-Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog
-
-300. [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
-⛄️ Possibly the smallest compiler ever https://git.io/compiler
+300. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
+⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
 
 301. [sizeofcat/civitas](https://github.com/sizeofcat/civitas)<br/>
 Civitas is an empire-building game written in Javascript with the help of the jQuery library. https://sizeof.cat/project/software/c…
@@ -1660,22 +1663,50 @@ Pro Gi­t 第二版 ­简体中文 https://www.gitbook.com/book/bingohua…
 530. [521xueweihan/hellogithub.com](https://github.com/521xueweihan/hellogithub.com)<br/>
 HelloGitHub.com 网站源码 https://hellogithub.com
 
-531. []()<br/>
+531. [probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)<br/>
+🏭 The most lightweight, customizable React markdown component. https://probablyup.github.io/markdown…
 
-532. []()<br/>
+532. [hoothin/UserScripts](https://github.com/hoothin/UserScripts)<br/>
+Greasemonkey scripts (e.g.,True URL downloads迅雷、快车、QQ旋风等专有链解密 & HacgGodTurn琉璃神社工具集 & DownloadAllContent懒人小说下载器 & Easy offline一键离线下载)
 
-533. []()<br/>
+533. [Lellansin/C-basic-tutorial](https://github.com/Lellansin/C-basic-tutorial)<br/>
+C语言基础教程 -> 在线阅读 https://www.gitbook.com/book/lellansin/c
 
-534. []()<br/>
+534. [KovenYu/MAR](https://github.com/KovenYu/MAR)<br/>
+Pytorch code for our CVPR'19 (oral) work: Unsupervised person re-identification by soft multilabel learning https://kovenyu.com/publication/2019-…
 
-535. []()<br/>
+535. [diegomura/react-pdf](https://github.com/diegomura/react-pdf)<br/>
+📄 Create PDF files using React https://react-pdf.org
 
-536. []()<br/>
+536. [wizardforcel/eloquent-js-3e-zh](https://github.com/wizardforcel/eloquent-js-3e-zh)<br/>
+📖 [译] JavaScript 编程精解 中文第三版 https://www.gitbook.com/book/wizardfo…
 
-537. []()<br/>
+537. [SFantasy/node-in-action](https://github.com/SFantasy/node-in-action)<br/>
+📕 一本小书 -《Node.js实战》 http://sfantasy.gitbooks.io/node-in-a…
 
-538. []()<br/>
+538. [Fridolph/my-books](https://github.com/Fridolph/my-books)<br/>
+前端相关图书资源，有我看过或者正准备看的，该仓库会持续更新整理完善
 
 539. []()<br/>
 
 540. []()<br/>
+
+541. []()<br/>
+
+542. []()<br/>
+
+543. []()<br/>
+
+544. []()<br/>
+
+545. []()<br/>
+
+546. []()<br/>
+
+547. []()<br/>
+
+548. []()<br/>
+
+549. []()<br/>
+
+550. []()<br/>
