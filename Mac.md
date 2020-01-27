@@ -23,3 +23,7 @@ macOS 播放器
 ``` bash
   brew cask install mark-text
 ```
+
+### Grammarly
+
+论文写作语法助手，官网地址：https://www.grammarly.com/native/mac
