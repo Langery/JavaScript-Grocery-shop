@@ -1687,46 +1687,87 @@ Pytorch code for our CVPR'19 (oral) work: Unsupervised person re-identification 
 538. [Fridolph/my-books](https://github.com/Fridolph/my-books)<br/>
 前端相关图书资源，有我看过或者正准备看的，该仓库会持续更新整理完善
 
-539. []()<br/>
+539. [OverWatcherX/javascript-interpreter](https://github.com/OverWatcherX/javascript-interpreter)<br/>
+不懂编译也能造JavaScript解释器 —— 手把手教你造 JavaScript 解释器
 
-540. []()<br/>
+540. [jcjohnson/pytorch-examples](https://github.com/jcjohnson/pytorch-examples)<br/>
+Simple examples to introduce PyTorch
 
-541. []()<br/>
+541. [pytorch/examples](https://github.com/pytorch/examples)<br/>
+A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 
-542. []()<br/>
+542. [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)<br/>
+A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 
-543. []()<br/>
+543. [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)<br/>
+程序员如何优雅的挣零花钱
 
-544. []()<br/>
+544. [tuture-dev/react-roadmap](https://github.com/tuture-dev/react-roadmap)<br/>
+【🔥持续更新中】React 前端工程师实战学习路线 https://tuture.co/roadmaps/react
 
-545. []()<br/>
+545. [mjyplusone/data-structure-js](https://github.com/mjyplusone/data-structure-js)<br/>
+《数据结构与算法JavaScript描述》看书敲代码
 
-546. []()<br/>
+546. [chai2010/go2-book](https://github.com/chai2010/go2-book)<br/>
+📚 《Go2编程指南》开源图书，重点讲解Go2新特性，以及Go1教程中较少涉及的特性 https://chai2010.cn/go2-book/
 
-547. []()<br/>
+547. [MintCN/linux-insides-zh](https://github.com/MintCN/linux-insides-zh)<br/>
+Linux 内核揭秘 https://xinqiu.gitbooks.io/linux-insi…
 
-548. []()<br/>
+548. [Jack-cool/blog](https://github.com/Jack-cool/blog)<br/>
+关注行业前沿，分享所见所学。持续输出优质文章 🚀
 
-549. []()<br/>
+549. [wannaxiao/vuepress-theme-resume](https://github.com/wannaxiao/vuepress-theme-resume)<br/>
+🐈 书写简洁优雅的前端程序员 markdown 简历，由 vuepress 驱动 https://wannaxiao.github.io/vuepress-…
 
-550. []()<br/>
+550. [thegreatjavascript/2019-nCoV-News](https://github.com/thegreatjavascript/2019-nCoV-News)<br/>
+2019-nCoV疫情实时播报🅥｜墙内传播版（请广泛传播） http://2019nCoV.tk
 
-551. []()<br/>
+551. [zjdx1998/seucourseshare](https://github.com/zjdx1998/seucourseshare)<br/>
+东南大学课程共享计划
 
-552. []()<br/>
+552. [hzwer/shareOI](https://github.com/hzwer/shareOI)<br/>
+算法竞赛课件分享
 
-553. []()<br/>
+553. [demopark/koa-docs-Zh-CN](https://github.com/demopark/koa-docs-Zh-CN)<br/>
+Koa 文档的中文版本 , 更新至 v2.11.0 版本. https://demopark.github.io/koa-docs-Z…
 
-554. []()<br/>
+554. [wuhan2020/wuhan2020](https://github.com/wuhan2020/wuhan2020)<br/>
+武汉新型冠状病毒防疫信息收集平台 https://wuhan2020.kaiyuanshe.cn/
 
-555. []()<br/>
+555. [lzxue/yiqingditu](https://github.com/lzxue/yiqingditu)<br/>
+武汉肺炎，疫情地图 https://lzxue.github.io/yiqingditu/
 
-556. []()<br/>
+556. [xiaolai/zuoxiangqicheng](https://github.com/xiaolai/zuoxiangqicheng)<br/>
+坐享其成——最简单的大脑锻炼方式
 
-557. []()<br/>
+557. [shfshanyue/2019-ncov](https://github.com/shfshanyue/2019-ncov)<br/>
+武汉肺炎疫情实时省市地图 https://ncov.shanyue.tech
 
-558. []()<br/>
+558. [xiandanin/magnetW](https://github.com/xiandanin/magnetW)<br/>
+磁力链接聚合搜索
 
-559. []()<br/>
+559. [88250/liandi](https://github.com/88250/liandi)<br/>
+📒 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。 https://hacpai.com/tag/liandi-biji
 
 560. []()<br/>
+
+561. []()<br/>
+
+562. []()<br/>
+
+563. []()<br/>
+
+564. []()<br/>
+
+565. []()<br/>
+
+566. []()<br/>
+
+567. []()<br/>
+
+568. []()<br/>
+
+569. []()<br/>
+
+570. []()<br/>
