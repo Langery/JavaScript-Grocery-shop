@@ -1750,15 +1750,20 @@ Koa 文档的中文版本 , 更新至 v2.11.0 版本. https://demopark.github.io
 559. [88250/liandi](https://github.com/88250/liandi)<br/>
 📒 一款桌面端笔记应用，支持 Windows、Mac 和 Linux。 https://hacpai.com/tag/liandi-biji
 
-560. []()<br/>
+560. [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)<br/>
+《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。 http://zh.d2l.ai
 
-561. []()<br/>
+561. [golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)<br/>
+📚 Go语言圣经中文版 https://github.com/golang-china/gopl-zh
 
-562. []()<br/>
+562. [BoostIO/BoostNote.next](https://github.com/BoostIO/BoostNote.next)<br/>
+An intuitive and stylish markdown editor for the developers. https://boostnote.io
 
-563. []()<br/>
+563. [golang/tools](https://github.com/golang/tools)<br/>
+[mirror] Go Tools https://godoc.org/golang.org/x/tools
 
-564. []()<br/>
+564. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)<br/>
+🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ https://www.v2fy.com/onlinetoolsbook/
 
 565. []()<br/>
 
@@ -1771,3 +1776,23 @@ Koa 文档的中文版本 , 更新至 v2.11.0 版本. https://demopark.github.io
 569. []()<br/>
 
 570. []()<br/>
+
+571. []()<br/>
+
+572. []()<br/>
+
+573. []()<br/>
+
+574. []()<br/>
+
+575. []()<br/>
+
+576. []()<br/>
+
+577. []()<br/>
+
+578. []()<br/>
+
+579. []()<br/>
+
+580. []()<br/>
