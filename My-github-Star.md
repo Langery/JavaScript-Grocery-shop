@@ -1765,11 +1765,14 @@ An intuitive and stylish markdown editor for the developers. https://boostnote.i
 564. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)<br/>
 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~ https://www.v2fy.com/onlinetoolsbook/
 
-565. []()<br/>
+565. [wx-chevalier/InfoSecurity-Series](https://github.com/wx-chevalier/InfoSecurity-Series)<br/>
+信息安全与渗透测试，密码编码，爬虫，数据安全，网络安全，Web 安全 https://ng-tech.icu/InfoSecurity-Series
 
-566. []()<br/>
+566. [zhaoweih/Shadowsocks-Tutorial](https://github.com/zhaoweih/Shadowsocks-Tutorial)<br/>
+🐱给小白的Shadowsocks和V2ray翻墙教程 https://t.me/joinchat/LKj8bxbNbvfadsF…
 
-567. []()<br/>
+567. [shfshanyue/you-dont-need-vps](https://github.com/shfshanyue/you-dont-need-vps)<br/>
+有可能你并不需要云服务器 https://shanyue.tech/no-vps/
 
 568. []()<br/>
 
