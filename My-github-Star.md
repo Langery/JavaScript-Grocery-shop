@@ -70,6 +70,9 @@ Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁
 12. [sscfaith/avue-form-design](https://github.com/sscfaith/avue-form-design)<br/>
 本项目是一款基于 Avue 的表单设计器，拖拽式操作让你快速构建一个表单。 http://112.74.43.150/
 
+13. [Haixiang6123/overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)<br/>
+A UI library of Overwatch, built with Vue.js https://haixiang6123.github.io/overwa…
+
 ##### [React](#react)
 
 1. [facebook/create-react-app](https://github.com/facebook/create-react-app)<br/>
@@ -109,6 +112,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 
 13. [margox/braft-editor](https://github.com/margox/braft-editor)<br/>
 美观易用的React富文本编辑器，基于draft-js开发 https://braft.margox.cn/
+
+14. [joye61/clxx](https://github.com/joye61/clxx)<br/>
+服务于H5业务研发痛点的React功能集合
 
 ##### [Node](#node)
 
@@ -422,6 +428,12 @@ This is a favorites, with a mobile web tips.
 61. [sanyuan0704/frontend_daily_question](https://github.com/sanyuan0704/frontend_daily_question)<br/>
 前端每日一问，积累前端核心知识，全面进阶高级前端。 https://sanyuan0704.github.io/fronten…
 
+62. [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie)<br/>
+🎨 A ridiculously elegant Jekyll theme. https://www.amitmerchant.com/reverie/…
+
+63. [airingursb/frontend-reading-list](https://github.com/airingursb/frontend-reading-list)<br/>
+📕 前端知识库阅读清单 http://ursb.me/frontend-reading-list/
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -734,10 +746,10 @@ NLP上手教程
 19. [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)<br/>
 深度学习开源书，基于TensorFlow 2.0实战。Open source Deep Learning book, based on TensorFlow 2.0 framework. http://www.ai101edu.com
 
-### [Interesting projects](#interesting-projects)
+20. [Dikea/ML-Weekly-Learning](https://github.com/Dikea/ML-Weekly-Learning)<br/>
+一群 ML 自学者的日常
 
-1. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
-一个基于Phaser的小游戏集合 http://www.phaser-china.com/
+### [Interesting projects](#interesting-projects)
 
 2. [Ovilia/lipstick](https://github.com/Ovilia/lipstick)<br/>
 口红颜色可视化 - 为什么你的女神总缺一支口红 http://zhangwenli.com/lipstick/
@@ -813,6 +825,12 @@ Repo for counting stars and contributing. Press F to pay respect to glorious dev
 26. [egotong/nows](https://github.com/egotong/nows)<br/>
 毒鸡汤
 
+27. [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank)<br/>
+Github 中国和全球用户排名，全球仓库 Star 最多排名。 http://jaywcjlove.github.io/github-rank/
+
+28. [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM)<br/>
+hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features, Mac only.
+
 ### [Game](#game)
 
 1. [iamkun/tower_game](https://github.com/iamkun/tower_game)<br/>
@@ -820,6 +838,12 @@ Repo for counting stars and contributing. Press F to pay respect to glorious dev
 
 2. [czyzby/bialjam17](https://github.com/czyzby/bialjam17)<br/>
 💫 The game that won the BialJam'17.
+
+3. [sizeofcat/civitas](https://github.com/sizeofcat/civitas)<br/>
+Civitas is an empire-building game written in Javascript with the help of the jQuery library. https://sizeof.cat/project/software/c…
+
+4. [channingbreeze/games](https://github.com/channingbreeze/games)<br/>
+一个基于Phaser的小游戏集合 http://www.phaser-china.com/
 
 ### [Tool](#tool)
 
@@ -1012,38 +1036,14 @@ GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. E
 
 ### Sum
 
-292. ~~[joye61/cl-utils](https://github.com/joye61/cl-utils)<br/>
-一个非主流但非常实用的UI仓库~~
-
 300. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
 ⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
-
-301. [sizeofcat/civitas](https://github.com/sizeofcat/civitas)<br/>
-Civitas is an empire-building game written in Javascript with the help of the jQuery library. https://sizeof.cat/project/software/c…
-
-302. [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank)<br/>
-Github 中国和全球用户排名，全球仓库 Star 最多排名。 http://jaywcjlove.github.io/github-rank/
-
-303. [Dikea/ML-Weekly-Learning](https://github.com/Dikea/ML-Weekly-Learning)<br/>
-一群 ML 自学者的日常
-
-304. [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM)<br/>
-hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features, Mac only.
-
-305. [Haixiang6123/overwatch-ui](https://github.com/Haixiang6123/overwatch-ui)<br/>
-A UI library of Overwatch, built with Vue.js https://haixiang6123.github.io/overwa…
-
-306. [amitmerchant1990/reverie](https://github.com/amitmerchant1990/reverie)<br/>
-🎨 A ridiculously elegant Jekyll theme. https://www.amitmerchant.com/reverie/…
 
 307. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br/>
 The lazier way to manage everything docker
 
 308. [didi/mpx](https://github.com/didi/mpx)<br/>
 Mpx - An enhanced miniprogram framework with data reactivity and deep optimizition. https://didi.github.io/mpx
-
-309. [airingursb/frontend-reading-list](https://github.com/airingursb/frontend-reading-list)<br/>
-📕 前端知识库阅读清单 http://ursb.me/frontend-reading-list/
 
 310. [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive)<br/>
 ☁️ 哔哩哔哩云，支持任意文件的全速上传与下载
