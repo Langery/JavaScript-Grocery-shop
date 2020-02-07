@@ -116,6 +116,9 @@ A declarative, efficient, and flexible JavaScript library for building user inte
 14. [joye61/clxx](https://github.com/joye61/clxx)<br/>
 服务于H5业务研发痛点的React功能集合
 
+15. [obiwankenoobi/chart.xkcd-react](https://github.com/obiwankenoobi/chart.xkcd-react)<br/>
+React wrapper around chart.xkcd
+
 ##### [Node](#node)
 
 1. [seekhow/photowall](https://github.com/seekhow/photowall)<br/>
@@ -143,6 +146,9 @@ Antmove，编译型跨端解决方案，基于支付宝/微信小程序， 轻�
 
 4. [tuateam/tua-mp](https://github.com/tuateam/tua-mp)<br/>
 🖖一款类 Vue 的渐进式小程序框架(A progressive miniprogram framework for coding like Vue) https://tuateam.github.io/tua-mp/
+
+5. [didi/mpx](https://github.com/didi/mpx)<br/>
+Mpx - An enhanced miniprogram framework with data reactivity and deep optimizition. https://didi.github.io/mpx
 
 ##### [D3](#d3)
 
@@ -434,6 +440,12 @@ This is a favorites, with a mobile web tips.
 63. [airingursb/frontend-reading-list](https://github.com/airingursb/frontend-reading-list)<br/>
 📕 前端知识库阅读清单 http://ursb.me/frontend-reading-list/
 
+64. [yujiangshui/geektime-math-for-programmers](https://github.com/yujiangshui/geektime-math-for-programmers)<br/>
+极客时间《程序员的数学基础课》配套非官方 repo。
+
+65. [xluos/demo](https://github.com/xluos/demo)<br/>
+平时学习练习的一些小Demo的仓库
+
 #### [Weekly](#weekly)
 
 1. [dt-fe/weekly](https://github.com/dt-fe/weekly)<br/>
@@ -612,6 +624,9 @@ Nash Reilly's personal blog.
 12. [fouber/blog](https://github.com/fouber/blog)<br/>
 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
 
+13. [b3log/awesome-solo](https://github.com/b3log/awesome-solo)<br/>
+🎸 展示大家漂亮的 Solo 博客！目前已收录 154 个站点 📈
+
 #### [D2前端技术论坛](#d2前端技术论坛)
 
 1. [d2forum/1th](https://github.com/d2forum/1th)<br/>
@@ -748,6 +763,12 @@ NLP上手教程
 
 20. [Dikea/ML-Weekly-Learning](https://github.com/Dikea/ML-Weekly-Learning)<br/>
 一群 ML 自学者的日常
+
+21. [1c7/Crash-Course-AI-Chinese](https://github.com/1c7/Crash-Course-AI-Chinese)<br/>
+🤖 人工智能速成课 | Crash Course 字幕组 - 更新中4/15 https://www.bilibili.com/video/av7582…
+
+22. [Viola-Siemens/-CV-](https://github.com/Viola-Siemens/-CV-)<br/>
+这个项目保存了我的知乎专栏“人工智能图像识别技术与计算机视觉(CV)”的所有程序源代码及杂项文件。 This project contains all source code and some other files in my Zhihu column "The Technology of Pattern Recognizing in Artificial Intelligence and Computer Vision (CV)". このプロジェクトは僕の知乎コラム「人工知能画像認識技術とコンピュータ視覚（CV）」のプログラムソースコードと雑種ファイルを全部保存しました。 Link: https://zhuanlan.zhihu.com/ComputerVision
 
 ### [Interesting projects](#interesting-projects)
 
@@ -976,6 +997,12 @@ Stellarium is a free GPL software which renders realistic skies in real time wit
 43. [cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)<br/>
 GoodThingList 就是好物清单，使用文档见 Issues https://github.com/cnfeat/GoodThingLi…
 
+44. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br/>
+The lazier way to manage everything docker
+
+45. [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive)<br/>
+☁️ 哔哩哔哩云，支持任意文件的全速上传与下载
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -1038,33 +1065,6 @@ GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. E
 
 300. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
 ⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
-
-307. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)<br/>
-The lazier way to manage everything docker
-
-308. [didi/mpx](https://github.com/didi/mpx)<br/>
-Mpx - An enhanced miniprogram framework with data reactivity and deep optimizition. https://didi.github.io/mpx
-
-310. [Hsury/BiliDrive](https://github.com/Hsury/BiliDrive)<br/>
-☁️ 哔哩哔哩云，支持任意文件的全速上传与下载
-
-311. [1c7/Crash-Course-AI-Chinese](https://github.com/1c7/Crash-Course-AI-Chinese)<br/>
-🤖 人工智能速成课 | Crash Course 字幕组 - 更新中4/15 https://www.bilibili.com/video/av7582…
-
-312. [yujiangshui/geektime-math-for-programmers](https://github.com/yujiangshui/geektime-math-for-programmers)<br/>
-极客时间《程序员的数学基础课》配套非官方 repo。
-
-313. [b3log/awesome-solo](https://github.com/b3log/awesome-solo)<br/>
-🎸 展示大家漂亮的 Solo 博客！目前已收录 154 个站点 📈
-
-314. [obiwankenoobi/chart.xkcd-react](https://github.com/obiwankenoobi/chart.xkcd-react)<br/>
-React wrapper around chart.xkcd
-
-315. [xluos/demo](https://github.com/xluos/demo)<br/>
-平时学习练习的一些小Demo的仓库
-
-316. [Viola-Siemens/-CV-](https://github.com/Viola-Siemens/-CV-)<br/>
-这个项目保存了我的知乎专栏“人工智能图像识别技术与计算机视觉(CV)”的所有程序源代码及杂项文件。 This project contains all source code and some other files in my Zhihu column "The Technology of Pattern Recognizing in Artificial Intelligence and Computer Vision (CV)". このプロジェクトは僕の知乎コラム「人工知能画像認識技術とコンピュータ視覚（CV）」のプログラムソースコードと雑種ファイルを全部保存しました。 Link: https://zhuanlan.zhihu.com/ComputerVision
 
 317. [fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)<br/>
 数据科学的笔记以及资料搜集
