@@ -12,6 +12,7 @@
     - <a href="#wechat">Wechat</a>
     - <a href="#d3">D3</a>
     - <a href="#canvas-and-svg">Canvas and SVG</a>
+    - <a href="#mini-program">Mini-program</a>
   - <a href="#node_modular">node_modular</a>
   - <a href="#periodical-information">Periodical Information</a>
   - <a href="#weekly">Weekly</a>
@@ -171,6 +172,11 @@ Two-dimensional recursive spatial subdivision. https://observablehq.com/collecti
 
 1. [metafizzy/zdog](https://github.com/metafizzy/zdog)<br/>
 Flat, round, designer-friendly pseudo-3D engine for canvas & SVG https://zzz.dog
+
+#### [Mini-program](#mini-program)
+
+1. [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui)<br/>
+支付宝小程序组件库 https://docs.alipay.com/mini/componen…
 
 #### [node_modular](#node_modular)
 
@@ -537,9 +543,6 @@ The iconic SVG, font, and CSS toolkit https://fontawesome.com
 
 5. [electron/electron](https://github.com/electron/electron)<br/>
 :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
-
-6. [ant-mini-program/mini-antui](https://github.com/ant-mini-program/mini-antui)<br/>
-支付宝小程序组件库 https://docs.alipay.com/mini/componen…
 
 7. [alibaba/ice](https://github.com/alibaba/ice)<br/>
 🚀Simple and friendly front-end development system（飞冰，简单而友好的前端研发体系 ） https://ice.work/
@@ -1774,15 +1777,20 @@ An intuitive and stylish markdown editor for the developers. https://boostnote.i
 567. [shfshanyue/you-dont-need-vps](https://github.com/shfshanyue/you-dont-need-vps)<br/>
 有可能你并不需要云服务器 https://shanyue.tech/no-vps/
 
-568. []()<br/>
+568. [Alibaba-mp/mini-ali-ui](https://github.com/Alibaba-mp/mini-ali-ui)<br/>
+支付宝小程序扩展组件，mini-antui 升级改名后的版本
 
-569. []()<br/>
+569. [YZHANG1270/Marvel_KnowledgeGraph](https://github.com/YZHANG1270/Marvel_KnowledgeGraph)<br/>
+漫威英雄的知识图谱 http://codewithzhangyi.com/Marvel_Kno…
 
-570. []()<br/>
+570. [dongyubin/nuc8i5beh](https://github.com/dongyubin/nuc8i5beh)<br/>
+nuc8系列黑苹果EFI 个人网站：https://chengxuxiaohei.cn/
 
-571. []()<br/>
+571. [lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python)<br/>
+pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation
 
-572. []()<br/>
+572. [2019ncovmemory/nCovMemory](https://github.com/2019ncovmemory/nCovMemory)<br/>
+2020新冠肺炎记忆：传媒报道与非虚构写作（持续更新）Memory of 2020 nCov: Media Coverage and Non-fiction Writings (Continuously updating)
 
 573. []()<br/>
 
@@ -1799,3 +1807,23 @@ An intuitive and stylish markdown editor for the developers. https://boostnote.i
 579. []()<br/>
 
 580. []()<br/>
+
+581. []()<br/>
+
+582. []()<br/>
+
+583. []()<br/>
+
+584. []()<br/>
+
+585. []()<br/>
+
+586. []()<br/>
+
+587. []()<br/>
+
+588. []()<br/>
+
+589. []()<br/>
+
+590. []()<br/>
