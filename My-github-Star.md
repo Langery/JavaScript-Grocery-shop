@@ -261,6 +261,9 @@ Create graphics with a hand-drawn, sketchy, appearance http://roughjs.com
 30. [moment/moment](https://github.com/moment/moment)<br/>
 Parse, validate, manipulate, and display dates in javascript. http://momentjs.com
 
+31. [cube-js/cube.js](https://github.com/cube-js/cube.js)<br/>
+📊 Cube.js - Open Source Analytics Framework https://cube.dev
+
 #### [Periodical Information](#periodical-information)
 
 1. [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)<br/>
@@ -604,6 +607,9 @@ A front-end image processing gadget https://chenshenhai.github.io/pictool…
 22. [halo-dev/halo](https://github.com/halo-dev/halo)<br/>
 ✍ Halo 一款现代化的个人独立博客系统 https://halo.run
 
+23. [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman)<br/>
+👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥 https://postwoman.io
+
 #### [Blog](#blog)
 
 1. [joeyguo/blog](https://github.com/joeyguo/blog)<br/>
@@ -720,6 +726,9 @@ awesome-list
 
 10. [pytorch/pytorch](https://github.com/pytorch/pytorch)<br/>
 Tensors and Dynamic neural networks in Python with strong GPU acceleration https://pytorch.org
+
+11. [pallets/flask](https://github.com/pallets/flask)<br/>
+The Python micro framework for building web applications. https://palletsprojects.com/p/flask/
 
 ### [Deep learning](#deep-learning)
 
@@ -869,6 +878,9 @@ Github 中国和全球用户排名，全球仓库 Star 最多排名。 http://ja
 
 28. [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM)<br/>
 hallelujahIM(哈利路亚 英文输入法) is an intelligent English input method with auto-suggestions and spell check features, Mac only.
+
+29. [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager)<br/>
+RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
 
 ### [Game](#game)
 
@@ -1027,6 +1039,9 @@ Sentry is cross-platform application monitoring, with a focus on error reporting
 47. [cyyjs/npm-extensions](https://github.com/cyyjs/npm-extensions)<br/>
 chrome 中 npm 搜索插件
 
+48. [fex-team/kityminder](https://github.com/fex-team/kityminder)<br/>
+百度脑图 http://naotu.baidu.com
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -1089,21 +1104,6 @@ GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. E
 
 300. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
 ⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
-
-324. [pallets/flask](https://github.com/pallets/flask)<br/>
-The Python micro framework for building web applications. https://palletsprojects.com/p/flask/
-
-325. [fex-team/kityminder](https://github.com/fex-team/kityminder)<br/>
-百度脑图 http://naotu.baidu.com
-
-326. [liyasthomas/postwoman](https://github.com/liyasthomas/postwoman)<br/>
-👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥 https://postwoman.io
-
-327. [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager)<br/>
-RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
-
-328. [cube-js/cube.js](https://github.com/cube-js/cube.js)<br/>
-📊 Cube.js - Open Source Analytics Framework https://cube.dev
 
 329. [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)<br/>
 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
@@ -1816,7 +1816,8 @@ Learn RxJS 中文版 (通过清晰的示例来学习 RxJS 5 操作符) https://r
 580. [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)<br/>
 Mac版微信的功能拓展
 
-581. []()<br/>
+581. [bobowire/Wireboy.Socket.P2PSocket](https://github.com/bobowire/Wireboy.Socket.P2PSocket)<br/>
+P2P内网穿透，实现【公司】-【家】远程控制
 
 582. []()<br/>
 
