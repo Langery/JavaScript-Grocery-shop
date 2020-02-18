@@ -1819,20 +1819,48 @@ Mac版微信的功能拓展
 581. [bobowire/Wireboy.Socket.P2PSocket](https://github.com/bobowire/Wireboy.Socket.P2PSocket)<br/>
 P2P内网穿透，实现【公司】-【家】远程控制
 
-582. []()<br/>
+582. [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes)<br/>
+大数据入门指南 ⭐️
 
-583. []()<br/>
+583. [dujuncheng/react-chrome-extension-cli](https://github.com/dujuncheng/react-chrome-extension-cli)<br/>
+使用 react 开发 Chrome 插件吧
 
-584. []()<br/>
+584. [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)<br/>
+Chinese character stroke order animations and practice quizzes https://hanziwriter.org
 
-585. []()<br/>
+585. [nvm-sh/nvm](https://github.com/nvm-sh/nvm)<br/>
+Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-586. []()<br/>
+586. [hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react)<br/>
+📈 baidu Echarts(v3.0 & v4.0) components for React wrapper. 一个简单的 echarts(v3.0 & v4.0) 的 react 封装。 https://git.hust.cc/echarts-for-react
 
-587. []()<br/>
+587. [alibaba/beidou](https://github.com/alibaba/beidou)<br/>
+🌌 Isomorphic framework for server-rendered React apps
 
-588. []()<br/>
+588. [dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning)<br/>
+nestjs 学习教程 📚，跟我一起学习 nest 框架~ 💪
 
-589. []()<br/>
+589. [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)<br/>
+大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
 
 590. []()<br/>
+
+591. []()<br/>
+
+592. []()<br/>
+
+593. []()<br/>
+
+594. []()<br/>
+
+595. []()<br/>
+
+596. []()<br/>
+
+597. []()<br/>
+
+598. []()<br/>
+
+599. []()<br/>
+
+600. []()<br/>
