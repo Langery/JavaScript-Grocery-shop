@@ -27,3 +27,7 @@ macOS 播放器
 ### Grammarly
 
 论文写作语法助手，官网地址：https://www.grammarly.com/native/mac
+
+### Anaconda-Navigator
+
+About deep learning. 
