@@ -71,3 +71,8 @@
 28. Vetur-wepy
 
 29. vscode-icons
+
+30. Code Spell Checker
+
+31. Quokka.js
+
