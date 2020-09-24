@@ -6,7 +6,9 @@ Some text files from the formerly job.
 
 Link about the script: [CDN](http://www.bootcdn.cn/).
 
-Some interesting [website](https://github.com/Langery/Grocery-shop/blob/master/Website.md) and software. And [my github star](https://github.com/Langery/JavaScript-Grocery-shop/blob/master/My-github-Star.md)
+Learning address: [MDN Web](https://developer.mozilla.org/zh-CN/).
+
+Some interesting [website](https://github.com/Langery/Grocery-shop/blob/master/Website.md) and software. And [my github star](https://github.com/Langery/JavaScript-Grocery-shop/blob/master/My-github-Star.md).
 
 About:
 * Bootstrap
