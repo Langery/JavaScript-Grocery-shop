@@ -26,4 +26,20 @@
 
 12. platformio-ide-terminal
 
+13. autoclose-html
 
+14. docblockr
+
+15. es6-javascript
+
+16. file-icons
+
+17. language-vue
+
+18. linter
+
+19. linter-jshint
+
+20. linter-ui-default
+
+21. markdown-preview-enhanced
