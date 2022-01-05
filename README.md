@@ -31,6 +31,6 @@ Modular:
 
 Essay
 
-* Mac
-* Atom
-* Vs Code
+* [Mac](https://github.com/Langery/JavaScript-Grocery-shop/blob/master/Mac.md)
+* [Atom](https://github.com/Langery/JavaScript-Grocery-shop/blob/master/atom.md)
+* [Vs Code](https://github.com/Langery/JavaScript-Grocery-shop/blob/master/vs_code.md)

@@ -22,57 +22,70 @@
 
 4. Bracket Pair Colorizer
 
-5. C/C++
+4. Bracket Pair Colorizer2
 
-6. carbon-now-sh
+6. C/C++
 
-7. Chinese (Simplified) Language Pack for Visual Studio Code
+7. carbon-now-sh
 
-8. Code Spell Checker
+8. Chinese (Simplified) Language Pack for Visual Studio Code
 
-9. Codelf
+9. Code Spell Checker
 
-10. Community Material Theme
+10. Codelf
 
-11. ESLint
+11. Community Material Theme
 
-12. Git Graph
+12. Debug Visualizer
 
-13. Git History
+13. ESLint
 
-14. GitLens — Git supercharged
+14. Git Graph
 
-15. Go
+15. Git History
 
-16. HTML Boilerplate
+16. GitLens — Git supercharged
 
-17. Markdown Preview Enhanced
+17. Go
 
-18. Material Theme
+18. HTML Boilerplate
 
-19. Monokai Pro
+19. Markdown Preview Enhanced
 
-20. Path Intellisense
+20. Material Theme
 
-21. Prettier - Code formatter
+21. Mithril Emment
 
-22. Python
+22. Monokai Pro
 
-23. Settings Sync
+23. Nord
 
-24. stylelint
+24. npm Intellisense
 
-25. SVN
+25. Path Intellisense
 
-26. TODO Highlight
+26. Power Mode
 
-27. Vetur
+27. Prettier - Code formatter
 
-28. Vetur-wepy
+28. Python
 
-29. vscode-icons
+29. Settings Sync
 
-30. Code Spell Checker
+30. stylelint
 
-31. Quokka.js
+31. SVN
 
+32. TODO Highlight
+
+33. Vetur
+
+34. Vetur-wepy
+
+35. vscode-icons
+
+36. Code Spell Checker
+
+37. Quokka.js
+
+38. WakaTime
