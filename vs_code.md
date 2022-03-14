@@ -89,3 +89,7 @@
 37. Quokka.js
 
 38. WakaTime
+
+39. Live Server
+
+40. Browser Preview
