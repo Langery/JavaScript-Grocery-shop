@@ -171,6 +171,12 @@ Two-dimensional recursive spatial subdivision. https://observablehq.com/collecti
 5. [d3/d3-hierarchy](https://github.com/d3/d3-hierarchy)<br/>
 2D layout algorithms for visualizing hierarchical data. https://observablehq.com/collection/@…
 
+6. [beizhedenglong/rough-charts](https://github.com/beizhedenglong/rough-charts)<br/>
+📈 A responsive, composable react charting library with a hand-drawn style. https://beizhedenglong.github.io/roug…
+
+7. [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io)<br/>
+Thorough analytics for your GitHub repos https://repo-analytics.github.io
+
 #### [Canvas and SVG](#canvas-and-svg)
 
 1. [metafizzy/zdog](https://github.com/metafizzy/zdog)<br/>
@@ -465,7 +471,7 @@ This is a favorites, with a mobile web tips.
 数据科学的笔记以及资料搜集
 
 67. [EtherDream/web-frontend-magic](https://github.com/EtherDream/web-frontend-magic)<br/>
-#前端黑魔法# 整理
+`#前端黑魔法# 整理`
 
 #### [Weekly](#weekly)
 
@@ -1042,6 +1048,12 @@ chrome 中 npm 搜索插件
 48. [fex-team/kityminder](https://github.com/fex-team/kityminder)<br/>
 百度脑图 http://naotu.baidu.com
 
+49. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
+⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
+
+50. [0xHJK/music-dl](https://github.com/0xHJK/music-dl)<br/>
+search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
+
 ### [Book](#book)
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)<br/>
@@ -1098,27 +1110,18 @@ Mithril.js 文档中文翻译 http://www.mithriljs.net
 18. [phodal/github](https://github.com/phodal/github)<br/>
 GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest. https://github.phodal.com
 
+19. [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)<br/>
+👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
+
+20. ~~[zce/douban-api-docs](https://github.com/zce/douban-api-docs)<br/>
+豆瓣 API 文档 https://douban-api-docs.zce.me~~
+
+
 ***
 
 ### Sum
 
-300. ~~[jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)<br/>
-⛄️ Possibly the smallest compiler ever https://git.io/compiler~~
 
-329. [bnb/awesome-developer-streams](https://github.com/bnb/awesome-developer-streams)<br/>
-👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻 Awesome Developers, Streaming
-
-330. [zce/douban-api-docs](https://github.com/zce/douban-api-docs)<br/>
-豆瓣 API 文档 https://douban-api-docs.zce.me
-
-331. [0xHJK/music-dl](https://github.com/0xHJK/music-dl)<br/>
-search and download music 从网易云音乐、QQ音乐、酷狗音乐、百度音乐、虾米音乐、咪咕音乐等搜索和下载歌曲
-
-332. [beizhedenglong/rough-charts](https://github.com/beizhedenglong/rough-charts)<br/>
-📈 A responsive, composable react charting library with a hand-drawn style. https://beizhedenglong.github.io/roug…
-
-333. [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io)<br/>
-Thorough analytics for your GitHub repos https://repo-analytics.github.io
 
 334. [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019)<br/>
 https://bruno-simon.com/
@@ -1843,13 +1846,16 @@ nestjs 学习教程 📚，跟我一起学习 nest 框架~ 💪
 589. [brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)<br/>
 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
 
-590. []()<br/>
+590. [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br/>
+👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 
-591. []()<br/>
+591. [Honlan / DeepInterests](https://github.com/Honlan/DeepInterests)<br/>
+深度有趣
 
-592. []()<br/>
+592. [cycleuser / Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)<br/>
+A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 
-593. []()<br/>
+593. [wolverinn / Waking-Up](https://github.com/wolverinn/Waking-Up)<br/>
 
 594. []()<br/>
 
