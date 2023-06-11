@@ -21,10 +21,11 @@
   - <a href="#web-tool">Web Tool</a>
   - <a href="#blog">Blog</a>
   - <a href="#d2前端技术论坛">D2前端技术论坛</a>
+  - <a href="#font">Font</a>
 - <a href="#python">Python</a>
 - <a href="#deep-learning">Deep learning</a>
 - <a href="#interesting-projects">Interesting projects</a>
-- <a href="game">Game</a>
+- <a href="#game">Game</a>
 - <a href="#tool">Tool</a>
 - <a href="#book">Book</a>
 
@@ -701,6 +702,7 @@ Nash Reilly's personal blog.
 14. [d2forum/14th](https://github.com/d2forum/14th)<br/>
 第十四届D2前端技术论坛
 
+#### [Font](#font)
 ### [Python](#python)
 
 1. [JackChan1999/Python2-Course](https://github.com/JackChan1999/Python2-Course)<br/>
@@ -1856,12 +1858,16 @@ nestjs 学习教程 📚，跟我一起学习 nest 框架~ 💪
 A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
 
 593. [wolverinn / Waking-Up](https://github.com/wolverinn/Waking-Up)<br/>
+计算机基础（计算机网络/操作系统/数据库/Git...）面试问题全面总结，包含详细的follow-up question以及答案；全部采用【问题+追问+答案】的形式，即拿即用，直击互联网大厂面试🚀；可用于模拟面试、面试前复习、短期内快速备战面试...
 
-594. []()<br/>
+594. [OCselected/ttoos](https://github.com/OCselected/ttoos)<br/>
+开源之道，致力于开源相关思想、知识和价值的探究！
 
-595. []()<br/>
+595. [33cn/chain33](https://github.com/33cn/chain33)<br/>
+高度模块化, 遵循 KISS原则的区块链开发框架
 
-596. []()<br/>
+596. [jkpang/PPRows](https://github.com/jkpang/PPRows)<br/>
+It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码
 
 597. []()<br/>
 
@@ -1870,3 +1876,13 @@ A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程�
 599. []()<br/>
 
 600. []()<br/>
+
+601. []()<br/>
+
+602. []()<br/>
+
+603. []()<br/>
+
+604. []()<br/>
+
+605. []()<br/>
