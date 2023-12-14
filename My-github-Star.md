@@ -1869,11 +1869,14 @@ A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程�
 596. [jkpang/PPRows](https://github.com/jkpang/PPRows)<br/>
 It Can Calculate how many lines of code you write on Mac ; 在Mac上计算你写了多少行代码
 
-597. []()<br/>
+597. [fengdu78 / machine_learning_beginner](https://github.com/fengdu78/machine_learning_beginner)<br/>
+机器学习初学者公众号作品
 
-598. []()<br/>
+598. [leeoniya/uPlot](https://github.com/leeoniya/uPlot)<br/>
+📈 A small, fast chart for time series, lines, areas, ohlc & bars
 
-599. []()<br/>
+599. [zuluoaaa/makeJs](https://github.com/zuluoaaa/makeJs)<br/>
+A sub Javascript interpreter for interpreting itself
 
 600. []()<br/>
 
