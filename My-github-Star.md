@@ -1880,8 +1880,6 @@ A sub Javascript interpreter for interpreting itself
 
 600. []()<br/>
 
-601. []()<br/>
-
 602. []()<br/>
 
 603. []()<br/>
@@ -1889,3 +1887,15 @@ A sub Javascript interpreter for interpreting itself
 604. []()<br/>
 
 605. []()<br/>
+
+606. []()<br/>
+
+607. []()<br/>
+
+608. []()<br/>
+
+609. []()<br/>
+
+610. []()<br/>
+
+611. []()<br/>
