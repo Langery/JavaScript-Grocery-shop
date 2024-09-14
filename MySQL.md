@@ -16,10 +16,40 @@ exit；
 sudo mysql.server stop
 ```
 
+> 数据类型
+
+- 数值类型
+  - 整数类型
+  - 浮点数类型
+  - 定点数类型
+- 日期、时间类型
+  - date
+  - time
+  - datetime
+- 字符串（字符）类型
+  - 字符串
+    - char
+    - varchar
+  - 文本类型
+  - 二进制文本类型
+
 > MySQL 内部语句
 
-``` mysql
+``` bash
+# 创建数据库
+create database `database name`;
 
+# 查看正在使用的数据库
+select database();
+
+# 使用数据库
+use `database name`;
+
+# 查看所有数据库
+show databases;
+
+# 查看数据库的定义信息
+show create database `database name`;
 ```
 
 ### Note
