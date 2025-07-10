@@ -52,6 +52,15 @@ show databases;
 show create database `database name`;
 ```
 
+``` bash
+# 创建数据表
+# 在 Navicat 中创建数据表的时候需要配置内部信息
+create table tbl_name(
+  id VARCHAR(7) PRIMARY KEY,
+  name VARCHAR(8)
+);
+```
+
 ### Note
 
 1. 在 MySQL 中执行完一条操作后需要加`;`
