@@ -12,6 +12,22 @@
 
 1. 字体：Monaco, 'Courier New', monospace
 
+#### settings.json [Mac]
+
+``` json
+{
+  "emmet.triggerExpansionOnTab": true,
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0.2,
+  "editor.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "workbench.list.smoothScrolling": true,
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.startupEditor": "none", 
+}
+```
+
 ### 插件
 
 1. Atom Material Theme
@@ -93,3 +109,7 @@
 39. Live Server
 
 40. Browser Preview
+
+### Link
+
+1. [优化开发体验：VSCode配置技巧分享](https://blog.mslion.top/49/)

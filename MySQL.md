@@ -35,7 +35,7 @@ sudo mysql.server stop
 
 > MySQL 内部语句
 
-``` bash
+```bash
 # 创建数据库
 create database `database name`;
 
