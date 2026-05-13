@@ -33,3 +33,7 @@ macOS 播放器
 ### Anaconda-Navigator
 
 About deep learning. 
+
+### Screen Studio
+
+Mac录屏软件
